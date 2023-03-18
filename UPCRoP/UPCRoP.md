@@ -98,9 +98,11 @@ Where these Rules refer to the Registry or Registrar and provide to  perform any
 
 ###### Rule 5 - Lodging of an Application to opt out and withdrawal of an opt -out  
 
-1. The proprietor of a European patent (including a European patent that has expired) or the applicant for a published application for a European patent (hereinafter in this Rule 5 an “ application”) who wishes to opt out that patent or application from the exclusive competence of the Court in accordance with Article 83(3) of th e Agreement shall lodge an Application  (hereinafter in this Rule 5 an “Application  to opt out ”) with the Registry.   
-	- (a) Where the patent or application is owned by two or more proprietors or applicants, all proprietors or applicants shall lodge the Applica tion to opt out . Where the person lodging an Application to opt out is not recorded as the proprietor or applicant in the registers referred to in Rule 8.5(a) and (b), respectively, the person shall lodge a declaration pursuant to paragraph  3(e). 
-	- (b) The Application  to opt out  shall be made in respect of all of the states  for which the European patent  has been granted or which have been designated in the application .
+1. The proprietor of a European patent (including a European patent that has expired) or the applicant for a published application for a European patent (hereinafter in this Rule 5 an “ application”) who wishes to opt out that patent or application from the exclusive competence of the Court in accordance with Article 83(3) of th e Agreement shall lodge an Application  (hereinafter in this Rule 5 an “Application  to opt out ”) with the Registry.
+
+   (a) Where the patent or application is owned by two or more proprietors or applicants, all proprietors or applicants shall lodge the Applica tion to opt out . Where the person lodging an Application to opt out is not recorded as the proprietor or applicant in the registers referred to in Rule 8.5(a) and (b), respectively, the person shall lodge a declaration pursuant to paragraph  3(e).
+   
+   (b) The Application  to opt out  shall be made in respect of all of the states  for which the European patent  has been granted or which have been designated in the application .
 
 2. An Application to opt  out or an Application to withdraw an opt -out pursuant to  paragraph 7 (hereinafter in this Rule 5 an “Application to withdraw ”) shall extend to any supplementary protection certificate based on  the European patent.  
 	- (a) Where any such supplementary protection certificate has been granted at the date of lodging the Application  to opt out  or the Application to withdraw , the holder of the supplementary protection certificate shall , if different from the proprietor of the patent , lodge the Application  to opt out  or the Application to withdraw  together with the proprieto r.  
