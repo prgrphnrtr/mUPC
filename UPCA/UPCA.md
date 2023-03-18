@@ -503,7 +503,7 @@ The operating costs of the Centre shall be financed by the budget of the Court.
 
 ###### Article 42 - Proportionality and fairness
 
-1. The Court shall deal with litigation in ways which are proportionate to the importance and complexity thereof. 
+1. The Court shall deal with litigation in ways which are proportionate to the importance and complexity thereof.
  
 2. The Court shall ensure that the rules, procedures and remedies provided for in this Agreement and in the Statute are used in a fair and equitable manner and do not distort competition.  
 
@@ -527,27 +527,25 @@ The proceedings shall be open to the public unless the Court decides to make the
 
 Any natural or legal person, or any body equivalent to a legal person entitled to initiate proceedings in accordance with its national law, shall have the capacity to be a party to the proceedings before the Court.  
 
-
 ###### Article 47 - Parties
 
 1. The patent proprietor shall be entitled to bring actions before the Court.  
 
-1. Unless the licensing agreement provides otherwise, the holder of an exclusive licence in respect of a patent shall be entitled to bring actions before the Court under the same circumstances as the patent proprietor, provided that the patent proprietor is given prior notice. 
+2. Unless the licensing agreement provides otherwise, the holder of an exclusive licence in respect of a patent shall be entitled to bring actions before the Court under the same circumstances as the patent proprietor, provided that the patent proprietor is given prior notice. 
 
-1. The holder of a non-exclusive licence shall not be entitled to bring actions before the Court, unless the patent proprietor is given prior notice and in so far as expressly permitted by the licence agreement.
+3. The holder of a non-exclusive licence shall not be entitled to bring actions before the Court, unless the patent proprietor is given prior notice and in so far as expressly permitted by the licence agreement.
 
-1. In actions brought by a licence holder, the patent proprietor shall be entitled to join the action before the Court.  
+4. In actions brought by a licence holder, the patent proprietor shall be entitled to join the action before the Court.  
 
-1. The validity of a patent cannot be contested in an action for infringement brought by the holder of a licence where the patent proprietor does not take part in the proceedings. The party in an action for infringement wanting to contest the validity of a patent shall have to bring actions against the patent proprietor.  
+5. The validity of a patent cannot be contested in an action for infringement brought by the holder of a licence where the patent proprietor does not take part in the proceedings. The party in an action for infringement wanting to contest the validity of a patent shall have to bring actions against the patent proprietor.  
 
-1. Any other natural or legal person, or any body entitled to bring actions in accordance with its national law, who is concerned by a patent, may bring actions in accordance with the Rules of Procedure. 
+6. Any other natural or legal person, or any body entitled to bring actions in accordance with its national law, who is concerned by a patent, may bring actions in accordance with the Rules of Procedure. 
 
-1. Any natural or legal person, or any body entitled to bring actions in accordance with its national law and who is affected by a decision of the European Patent Office in carrying out the tasks referred to in Article 9 of Regulation (EU) No 1257/2012 is entitled to bring actions under Article 32(1)(i).  
-
+7. Any natural or legal person, or any body entitled to bring actions in accordance with its national law and who is affected by a decision of the European Patent Office in carrying out the tasks referred to in Article 9 of Regulation (EU) No 1257/2012 is entitled to bring actions under Article 32(1)(i).  
 
 ###### Article 48 - Representation
 
-1. Parties shall be represented by lawyers authorised to practise before a court of a Contracting Member State. 
+1. Parties shall be represented by lawyers authorised to practise before a court of a Contracting Member State.
 
 2. Parties may alternatively be represented by European Patent Attorneys who are entitled to act as professional repre ­sentatives before the European Patent Office pursuant to Article 134 of the EPC and who have appropriate qualifications such as a European Patent Litigation Certificate.
 

@@ -40,11 +40,11 @@ Statute: [[UPCA-S|Statute of the Unified Patent Court]] (OJ C  175, 20.6.2013, p
 
 1. The Court shall conduct proceedings in accordance with the Agreement, the Statute and these Rules.  In the event of a conflict between the provisions of the Agreement and/or the Statute on the one hand and of the Rules on the other hand, the provisions of the Agreement and/or the Statute shall prevail.
 
-2. The Rules shall be applied and interpreted in accordance with Articles [[UPCA#Article 41 - Rules of Procedure|41(3)]], [[UPCA#Article 42 - Proportionality and fairness|42]], and [[UPCA#Article 52 - Written, interim and oral procedures|52(1)]] of the Agreement on the basis of the principles of proportionality, flexibility, fairness and equity.
+2. The Rules shall be applied and interpreted in accordance with Articles [41(3)](../UPCA/UPCA.md#article-41---rules-of-procedure), 42, and 52(1) of the Agreement on the basis of the principles of proportionality, flexibility, fairness and equity.
 
 3. Proportionality shall be ensured by giving due consideration to the nature and complexity of each action and its importance. 
 
-4. Flexibility shall be ensured by applying all procedural rules in a flexible and balanced manner with the required level of discretion for the judges to organi se the proceeding s in the most efficient and cost effective manner.  
+4. Flexibility shall be ensured by applying all procedural rules in a flexible and balanced manner with the required level of discretion for the judges to organise the proceedings in the most efficient and cost effective manner.  
 
 5. Fairness and equity shall be ensured by having regard to the legitimate interests of all parties.  
 
@@ -61,17 +61,19 @@ Statute: [[UPCA-S|Statute of the Unified Patent Court]] (OJ C  175, 20.6.2013, p
 
 1. The Court shall conduct proceedings in accordance with the Agreement, the Statute and these Rules, which include the Preamble to these Rules and the principles set out therein . In the event of a conflict between the provisions of the Agreement and/or the Statute on the one hand and of the Rules on the other hand, the provisions of the Agreement and/or the Statute shall prevail.
 
-2. Where these Rules provide for the Court to perform any act other than an act exclusively reserved for a panel of the Court, the President of the Court of First Instance or the President of the Court of Appeal, that act may be performed by: 
-	- (a) the presiding judge or the judge-rapporteur of the panel to which the action has been assigned; 
-	- (b) a single legally qualified judge where the action has been assigned to a single judge;  
-	- (c) the standing judge designated pursuant to Rule 345.5. 
+2. Where these Rules provide for the Court to perform any act other than an act exclusively reserved for a panel of the Court, the President of the Court of First Instance or the President of the Court of Appeal, that act may be performed by:
+
+   (a) the presiding judge or the judge-rapporteur of the panel to which the action has been assigned;
+
+   (b) a single legally qualified judge where the action has been assigned to a single judge;
+
+   (c) the standing judge designated pursuant to Rule 345.5.
 
 3. References to persons in these Rules may apply to legal persons as well as natural persons. Words importing the masculine gender shall include the feminine and vice versa. Unless the contrary intention appears, words in the singular include the plural and vice versa.
 
 *Relation with Agreement: Article 8(7)*
 
 *Relation with Statute: Article 19 (3) and (4)*
-
 
 ###### Rule 2 - Supplementary protection certificate  
 
