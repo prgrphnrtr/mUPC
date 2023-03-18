@@ -1,14 +1,9 @@
 ---
 fileClass: law
-aliases: RoP
 language: English
-titleEN: Rules of Procedure of the Unified Patent Court  
-DE: [[EPGVerfO]]
+titleEN: Rules of Procedure of the Unified Patent Court
+DE: EPGVerfO
 ---
-
-
-
-[PDF:: [[EPGVerfO (EN).pdf]]]
 
 # EN - Rules of Procedure of the Unified Patent Court  
   
