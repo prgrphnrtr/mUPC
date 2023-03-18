@@ -73,13 +73,14 @@ Statute: [[UPCA-S|Statute of the Unified Patent Court]] (OJ C  175, 20.6.2013, p
 
 3. References to persons in these Rules may apply to legal persons as well as natural persons. Words importing the masculine gender shall include the feminine and vice versa. Unless the contrary intention appears, words in the singular include the plural and vice versa.
 
-*Relation with Agreement: [[UPCA#Article 8 - Composition of the panels of the Court of First Instance|Article 8(7)]]
-Relation with Statute: [[UPCA-S#Article 19 - Panels|Article 19 (3) and (4)]]*
+*Relation with Agreement: Article 8(7)*
+
+*Relation with Statute: Article 19 (3) and (4)*
 
 
 ###### Rule 2 - Supplementary protection certificate  
 
-1. Subject to paragraph 2, in these Rules with the exception of [Rule 5](#Rule 5 - Lodging of an Application to opt out and withdrawal of an opt -out) the expression “patent” and “proprietor” shall whenever appropriate include, respectively, a supplementary protection certificate as defined in Article 2(h) of the Agreement and granted in respect of the patent and the holder of such certificate. 
+1. Subject to paragraph 2, in these Rules with the exception of Rule 5 the expression “patent” and “proprietor” shall whenever appropriate include, respectively, a supplementary protection certificate as defined in Article 2(h) of the Agreement and granted in respect of the patent and the holder of such certificate. 
 
 2. References in these Rules to the language in which the patent was granted shall mean that language and not the language in which a supplementary protection certificate in respect of the patent was granted.
 
