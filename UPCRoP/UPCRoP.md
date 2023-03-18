@@ -93,7 +93,7 @@ Where these Rules refer to the Registry or Registrar and provide to  perform any
 
 2. Where it is not possible to lodge a document electronically for the reason that the electronic case management system of the Court has ceased to function a party may lodge a document in hard-copy form at the Registry or a sub -registry. An electronic copy o f the document shall be lodged as soon as practicable thereafter.
 
-*Relation with Agreement: [[UPCA#Article 44 - Electronic procedures|Article 44]]*
+*Relation with Agreement: [Article 44](../UPCA/UPCA.md)*
 
 
 ###### Rule 5 - Lodging of an Application to opt out and withdrawal of an opt -out  
