@@ -186,95 +186,58 @@ Richterpool zugewiesen wird. Dieser dritte Richter ist langfristig
 in der Lokalkammer tätig, wo dies für eine effiziente Arbeit von 
 Kammern mit hoher Arbeitsbelastung notwendig ist.  
 
-(4) Jeder Spruchkörper einer Regionalkammer besteht aus 
-zwei rechtlich qualifizierten Richtern, die aus einer regionalen 
-Liste mit Richtern ausgewählt werden und Staatsangehörige ei ­
-nes der betreffenden Vertragsmitgliedstaaten sind, und einem 
-rechtlich qualifizierten Richter, der nicht Staatsangehöriger eines 
-der betreffenden Vertragsmitgliedstaaten ist und ihm gemäß 
-Artikel 18 Absatz 3 aus dem Richterpool zugewiesen wird.  
-(5) Auf Antrag einer der Parteien ersucht jeder Spruchkörper 
-einer Lokal- oder Regionalkammer den Präsidenten des Gerichts 
-erster Instanz, ihm gemäß Artikel 18 Absatz 3 aus dem Rich ­
-terpool einen zusätzlichen technisch qualifizierten Richter zu ­
-zuweisen, der über eine entsprechende Qualifikation und Erfah ­
-rung auf dem betreffenden Gebiet der Technik verfügt. Überdies 
-kann jeder Spruchkörper einer Lokal- oder Regionalkammer 
-nach Anhörung der Parteien auf eigene Initiative ein solches 
-Ersuchen unterbreiten, wenn er dies für angezeigt hält.  
-Wird ihm ein solcher technisch qualifizierter Richter zugewie ­
-sen, so darf ihm kein weiterer technisch qualifizierter Richter 
-nach Artikel 33 Absatz 3 Buchstabe a zugewiesen werden.  
-(6) Jeder Spruchkörper der Zentralkammer besteht aus zwei 
-rechtlich qualifizierten Richtern, die Staatsangehörige unter ­
-schiedlicher Vertragsmitgliedstaaten sind, und einem technisch 
-qualifizierten Richter, der ihm gemäß Artikel 18 Absatz 3 aus 
-dem Richterpool zugewiesen wird und über eine entsprechende 
-Qualifikation und Erfahrung auf dem betreffenden Gebiet der 
-Technik verfügt. Jeder Spruchkörper der Zentralkammer, der mit 
-Klagen nach Artikel 32 Absatz 1 Buchstabe i befasst ist, besteht 
-jedoch aus drei rechtlich qualifizierten Richtern, die Staatsange ­
-hörige unterschiedlicher Vertragsmitgliedstaaten sind.  
-(7) Ungeachtet der Absätze 1 bis 6 und im Einklang mit der 
-Verfahrensordnung können die Parteien vereinbaren, dass ihre 
-Rechtsstreitigkeit von einem rechtlich qualifizierten Richter als 
-Einzelrichter entschieden wird.  
-(8) Den Vorsitz in jedem Spruchkörper des Gerichts erster 
-Instanz führt ein rechtlich qualifizierter Richter.  
+(4) Jeder Spruchkörper einer Regionalkammer besteht aus zwei rechtlich qualifizierten Richtern, die aus einer regionalen Liste mit Richtern ausgewählt werden und Staatsangehörige ei ­ nes der betreffenden Vertragsmitgliedstaaten sind, und einem rechtlich qualifizierten Richter, der nicht Staatsangehöriger eines der betreffenden Vertragsmitgliedstaaten ist und ihm gemäß Artikel 18 Absatz 3 aus dem Richterpool zugewiesen wird.
+
+(5) Auf Antrag einer der Parteien ersucht jeder Spruchkörper einer Lokal- oder Regionalkammer den Präsidenten des Gerichts erster Instanz, ihm gemäß Artikel 18 Absatz 3 aus dem Rich ­ terpool einen zusätzlichen technisch qualifizierten Richter zu ­ zuweisen, der über eine entsprechende Qualifikation und Erfah ­ rung auf dem betreffenden Gebiet der Technik verfügt. Überdies kann jeder Spruchkörper einer Lokal- oder Regionalkammer nach Anhörung der Parteien auf eigene Initiative ein solches Ersuchen unterbreiten, wenn er dies für angezeigt hält. Wird ihm ein solcher technisch qualifizierter Richter zugewie ­ sen, so darf ihm kein weiterer technisch qualifizierter Richter nach Artikel 33 Absatz 3 Buchstabe a zugewiesen werden.  
+
+(6) Jeder Spruchkörper der Zentralkammer besteht aus zwei rechtlich qualifizierten Richtern, die Staatsangehörige unter ­ schiedlicher Vertragsmitgliedstaaten sind, und einem technisch qualifizierten Richter, der ihm gemäß Artikel 18 Absatz 3 aus dem Richterpool zugewiesen wird und über eine entsprechende Qualifikation und Erfahrung auf dem betreffenden Gebiet der Technik verfügt. Jeder Spruchkörper der Zentralkammer, der mit Klagen nach Artikel 32 Absatz 1 Buchstabe i befasst ist, besteht jedoch aus drei rechtlich qualifizierten Richtern, die Staatsange ­ hörige unterschiedlicher Vertragsmitgliedstaaten sind.  
+
+(7) Ungeachtet der Absätze 1 bis 6 und im Einklang mit der Verfahrensordnung können die Parteien vereinbaren, dass ihre Rechtsstreitigkeit von einem rechtlich qualifizierten Richter als Einzelrichter entschieden wird.  
+
+(8) Den Vorsitz in jedem Spruchkörper des Gerichts erster Instanz führt ein rechtlich qualifizierter Richter.  
 
 
 ###### Artikel 9 - Berufungsgericht
-(1) Jeder Spruchkörper des Berufungsgerichts tagt in einer 
-multinationalen Zusammensetzung aus fünf Richtern. Er besteht 
-aus drei rechtlich qualifizierten Richtern, die Staatsangehörige 
-unterschiedlicher Vertragsmitgliedstaaten sind, und zwei tech ­
-nisch qualifizierten Richtern, die über eine entsprechende Qua ­
-lifikation und Erfahrung auf dem betreffenden Gebiet der Tech ­
-nik verfügen. Die technisch qualifizierten Richter werden dem 
-Spruchkörper vom Präsidenten des Berufungsgerichts aus dem 
-Richterpool gemäß Artikel 18 zugewiesen.
-(2) Ungeachtet des Absatzes 1 besteht ein Spruchkörper, der mit Klagen nach Artikel 32 Absatz 1 Buchstabe i befasst ist, aus drei rechtlich qualifizierten Richtern, die Staatsangehörige unter ­schiedlicher Vertragsmitgliedstaaten sind.  
-(3) Den Vorsitz in jedem Spruchkörper des Berufungsgerichts führt ein rechtlich qualifizierter Richter.  
+(1) Jeder Spruchkörper des Berufungsgerichts tagt in einer multinationalen Zusammensetzung aus fünf Richtern. Er besteht aus drei rechtlich qualifizierten Richtern, die Staatsangehörige unterschiedlicher Vertragsmitgliedstaaten sind, und zwei tech ­ nisch qualifizierten Richtern, die über eine entsprechende Qua ­ lifikation und Erfahrung auf dem betreffenden Gebiet der Tech ­ nik verfügen. Die technisch qualifizierten Richter werden dem Spruchkörper vom Präsidenten des Berufungsgerichts aus dem Richterpool gemäß Artikel 18 zugewiesen.
+
+(2) Ungeachtet des Absatzes 1 besteht ein Spruchkörper, der mit Klagen nach Artikel 32 Absatz 1 Buchstabe i befasst ist, aus drei rechtlich qualifizierten Richtern, die Staatsangehörige unter ­schiedlicher Vertragsmitgliedstaaten sind. 
+
+(3) Den Vorsitz in jedem Spruchkörper des Berufungsgerichts führt ein rechtlich qualifizierter Richter. 
+
 (4) Die Spruchkörper des Berufungsgerichts werden im Ein ­klang mit der Satzung gebildet.  
+
 (5) Das Berufungsgericht hat seinen Sitz in Luxemburg.  
 
 ###### Artikel 10 - Kanzlei
 (1) Am Sitz des Berufungsgerichts wird eine Kanzlei einge ­richtet. Sie wird vom Kanzler geleitet und nimmt die ihr durch die Satzung zugewiesenen Aufgaben wahr. Vorbehaltlich der in diesem Übereinkommen festgelegten Bedingungen und der Ver ­fahrensordnung ist das von der Kanzlei geführte Register öffent ­lich.  
-(2) An allen Kammern des Gerichts erster Instanz werden 
-Nebenstellen der Kanzlei eingerichtet.  
-(3) Die Kanzlei führt Aufzeichnungen über alle vor dem Ge ­
-richt verhandelten Verfahren. Nach der Einreichung unterrichtet 
-die betreffende Nebenstelle die Kanzlei über jedes Verfahren.  
-(4) Das Gericht ernennt im Einklang mit Artikel 22 der Sat ­
-zung den Kanzler und legt die Bestimmungen zu dessen Amts ­
-führung fest.  
+
+(2) An allen Kammern des Gerichts erster Instanz werden Nebenstellen der Kanzlei eingerichtet.  
+
+(3) Die Kanzlei führt Aufzeichnungen über alle vor dem Ge ­ richt verhandelten Verfahren. Nach der Einreichung unterrichtet die betreffende Nebenstelle die Kanzlei über jedes Verfahren.  
+
+(4) Das Gericht ernennt im Einklang mit Artikel 22 der Sat ­ zung den Kanzler und legt die Bestimmungen zu dessen Amts ­ führung fest.  
 
 
 ###### Artikel 11 - Ausschüsse  
-Zur Sicherstellung einer effektiven Durchführung und Funk ­
-tionsweise dieses Übereinkommens werden ein Verwaltungsaus ­
-schuss, ein Haushaltsausschuss und ein Beratender Ausschuss 
-eingesetzt. Diese nehmen insbesondere die in diesem Überein ­
-kommen und in der Satzung vorgesehenen Aufgaben wahr.  
+Zur Sicherstellung einer effektiven Durchführung und Funk ­ tionsweise dieses Übereinkommens werden ein Verwaltungsaus ­ schuss, ein Haushaltsausschuss und ein Beratender Ausschuss eingesetzt. Diese nehmen insbesondere die in diesem Überein ­ kommen und in der Satzung vorgesehenen Aufgaben wahr.  
 
 ###### Artikel 12 - Verwaltungsausschuss  
-(1) Der Verwaltungsausschuss setzt sich aus je einem Ver ­
-treter der Vertragsmitgliedstaaten zusammen. Die Europäische 
-Kommission ist bei den Sitzungen des Verwaltungsausschusses 
-als Beobachter vertreten.  
-(2) Jeder Vertragsmitgliedstaat verfügt über eine Stimme.  (3) Der Verwaltungsausschuss fasst seine Beschlüsse mit Drei ­
-viertelmehrheit der vertretenen Vertragsmitgliedstaaten, die eine 
-Stimme abgeben, sofern in diesem Übereinkommen oder der 
-Satzung nicht etwas anderes bestimmt ist.  
+(1) Der Verwaltungsausschuss setzt sich aus je einem Vertreter der Vertragsmitgliedstaaten zusammen. Die Europäische Kommission ist bei den Sitzungen des Verwaltungsausschusses als Beobachter vertreten.
+
+(2) Jeder Vertragsmitgliedstaat verfügt über eine Stimme.  
+
+(3) Der Verwaltungsausschuss fasst seine Beschlüsse mit Drei ­ viertelmehrheit der vertretenen Vertragsmitgliedstaaten, die eine Stimme abgeben, sofern in diesem Übereinkommen oder der Satzung nicht etwas anderes bestimmt ist.  
+
 (4) Der Verwaltungsausschuss gibt sich eine Geschäftsord ­
 nung.  
+
 (5) Der Verwaltungsausschuss wählt aus seiner Mitte einen 
 Vorsitzenden für eine Amtszeit von drei Jahren. Die Wiederwahl 
 ist zulässig.  
 
-###### Artikel 13 - Haushaltsausschuss  
-(1) Der Haushaltsausschuss setzt sich aus je einem Vertreter 
-der Vertragsmitgliedstaaten zusammen.  
+###### Artikel 13 - Haushaltsausschuss
+
+(1) Der Haushaltsausschuss setzt sich aus je einem Vertreter der Vertragsmitgliedstaaten zusammen.  
 (2) Jeder Vertragsmitgliedstaat verfügt über eine Stimme.  
 (3) Der Haushaltsausschuss fasst seine Beschlüsse mit der 
 einfachen Mehrheit der Vertreter der Vertragsmitgliedstaaten. 
@@ -287,30 +250,27 @@ zulässig.
 
 
 ###### Artikel 14 - Beratender Ausschuss  
-(1) Der Beratende Ausschuss  
-a) unterstützt den Verwaltungsausschuss bei der Vorbereitung 
-der Ernennung der Richter des Gerichts,  
-b) unterbreitet dem in Artikel 15 der Satzung genannten Prä ­
-sidium Vorschläge zu den Leitlinien für den in Artikel 19 
-genannten Schulungsrahmen für Richter und  
-c) übermittelt dem Verwaltungsausschuss Stellungnahmen zu 
-den Anforderungen an die in Artikel 48 Absatz 2 genannte 
-Qualifikation.  
-(2) Dem Beratenden Ausschuss gehören Patentrichter und auf 
-dem Gebiet des Patentrechts und der Patentstreitigkeiten tätige 
-Angehörige der Rechtsberufe mit der höchsten anerkannten 
-Qualifikation an. Sie werden gemäß dem in der Satzung fest ­
-gelegten Verfahren für eine Amtszeit von sechs Jahren ernannt. 
-Die Wiederernennung ist zulässig. 
-Die Zusammensetzung des Beratenden Ausschusses muss ein breites Spektrum an einschlägigem Sachverstand und die Vertretung eines jeden Vertragsmitgliedstaats gewährleisten. Die Mitglieder des Beratenden Ausschusses üben ihre Tätigkeit in völliger Unabhängigkeit aus und sind an keine Weisungen gebunden.  
-(4) Der Beratende Ausschuss gibt sich eine Geschäftsord ­
-nung.  
+(1) Der Beratende Ausschuss
+
+   a) unterstützt den Verwaltungsausschuss bei der Vorbereitung der Ernennung der Richter des Gerichts,  
+
+   b) unterbreitet dem in Artikel 15 der Satzung genannten Prä ­ sidium Vorschläge zu den Leitlinien für den in Artikel 19 genannten Schulungsrahmen für Richter und  
+
+   c) übermittelt dem Verwaltungsausschuss Stellungnahmen zu den Anforderungen an die in Artikel 48 Absatz 2 genannte Qualifikation.  
+
+(2) Dem Beratenden Ausschuss gehören Patentrichter und auf dem Gebiet des Patentrechts und der Patentstreitigkeiten tätige Angehörige der Rechtsberufe mit der höchsten anerkannten Qualifikation an. Sie werden gemäß dem in der Satzung fest ­ gelegten Verfahren für eine Amtszeit von sechs Jahren ernannt. Die Wiederernennung ist zulässig.
+
+(3) Die Zusammensetzung des Beratenden Ausschusses muss ein breites Spektrum an einschlägigem Sachverstand und die Vertretung eines jeden Vertragsmitgliedstaats gewährleisten. Die Mitglieder des Beratenden Ausschusses üben ihre Tätigkeit in völliger Unabhängigkeit aus und sind an keine Weisungen gebunden. 
+
+(4) Der Beratende Ausschuss gibt sich eine Geschäftsordnung.  
+
 (5) Der Beratende Ausschuss wählt aus seiner Mitte einen Vorsitzenden für eine Amtszeit von drei Jahren. Die Wiederwahl ist zulässig.
 
 
 ### KAPITEL III - Richter des Gerichts  
 
 ###### Artikel 15 - Auswahlkriterien für die Ernennung der Richter  
+
 (1) Das Gericht setzt sich sowohl aus rechtlich qualifizierten als auch aus technisch qualifizierten Richtern zusammen. Die Richter müssen die Gewähr für höchste fachliche Qualifikation bieten und über nachgewiesene Erfahrung auf dem Gebiet der Patentstreitigkeiten verfügen.  
 
 (2) Die rechtlich qualifizierten Richter müssen die für die Berufung in ein richterliches Amt in einem Vertragsmitgliedstaat erforderliche Qualifikation haben.  
@@ -329,10 +289,12 @@ Liste einvernehmlich die Richter des Gerichts.
 (3) Die Durchführungsbestimmungen für die Ernennung der 
 Richter werden in der Satzung festgelegt.  
 
+
 ###### Artikel 17 - Richterliche Unabhängigkeit und Unparteilichkeit  
-(1) Das Gericht, seine Richter und der Kanzler genießen rich ­
-terliche Unabhängigkeit. Bei der Ausübung ihrer Amtstätigkeit 
-sind die Richter an keine Weisungen gebunden.  (2) Rechtlich qualifizierte Richter und technisch qualifizierte 
+
+(1) Das Gericht, seine Richter und der Kanzler genießen rich ­terliche Unabhängigkeit. Bei der Ausübung ihrer Amtstätigkeit sind die Richter an keine Weisungen gebunden. 
+
+(2) Rechtlich qualifizierte Richter und technisch qualifizierte 
 Richter, die Vollzeitrichter des Gerichts sind, dürfen keine an ­
 dere entgeltliche oder unentgeltliche Berufstätigkeit ausüben, es 
 sei denn, der Verwaltungsausschuss hat eine Ausnahme von 

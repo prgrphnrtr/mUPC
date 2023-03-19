@@ -40,7 +40,9 @@ Statute: [[UPCA-S|Statute of the Unified Patent Court]] (OJ C  175, 20.6.2013, p
 
 1. The Court shall conduct proceedings in accordance with the Agreement, the Statute and these Rules.  In the event of a conflict between the provisions of the Agreement and/or the Statute on the one hand and of the Rules on the other hand, the provisions of the Agreement and/or the Statute shall prevail.
 
-2. The Rules shall be applied and interpreted in accordance with Articles [41(3)](../UPCA/UPCA.md#article-41---rules-of-procedure), 42, and 52(1) of the Agreement on the basis of the principles of proportionality, flexibility, fairness and equity.
+2. The Rules shall be applied and interpreted in accordance with Articles [41(3)](../UPCA/UPCA.md#article-41---rules-of-procedure), [42](../UPCA/UPCA.md#article-42), and 52(1) of the Agreement on the basis of the principles of proportionality, flexibility, fairness and equity.the event of a conflict between the provisions of the Agreement and/or the Statute on the one hand and of the Rules on the other hand, the provisions of the Agreement and/or the Statute shall prevail.
+
+The Rules shall be applied and interpreted in accordance with Articles 41(3), 42, and 52(1) of the Agreemen
 
 3. Proportionality shall be ensured by giving due consideration to the nature and complexity of each action and its importance.
 
@@ -105,22 +107,36 @@ Where these Rules refer to the Registry or Registrar and provide to  perform any
    (b) The Application  to opt out  shall be made in respect of all of the states  for which the European patent  has been granted or which have been designated in the application .
 
 2. An Application to opt  out or an Application to withdraw an opt -out pursuant to  paragraph 7 (hereinafter in this Rule 5 an “Application to withdraw ”) shall extend to any supplementary protection certificate based on  the European patent.  
-	- (a) Where any such supplementary protection certificate has been granted at the date of lodging the Application  to opt out  or the Application to withdraw , the holder of the supplementary protection certificate shall , if different from the proprietor of the patent , lodge the Application  to opt out  or the Application to withdraw  together with the proprieto r.  
-	- (b) Where any such supplementary protection certificate is granted subsequent to lodging the Application  to opt out , the opt -out shall take effect automatically on grant of said supplementary protection certificate.  
-	- (c) Paragraphs  6 and 8 shall apply mutatis mutandis . For the purposes of  paragraphs  6 and 8, reference to actions  
-		- (i) in respect of a European patent shall apply to all supplementary protection certificates based on that European patent, and  
-		- (ii) in respect of a supplementary protection certificate shall apply to the European patent on which such supplementary protection certificate is based and  
-		- (iii) in respect of a supplementary protection certificate shall apply to all other supplementary protection certificates based on the  same European patent.  
-	- (d) For the avoidance of doubt, it is not possible to opt  out supplementary protection certificates , whether granted by the authorities of a Contracting Member State or otherwise , based on  a European patent with unitary effect. 
+
+   (a) Where any such supplementary protection certificate has been granted at the date of lodging the Application  to opt out  or the Application to withdraw , the holder of the supplementary protection certificate shall , if different from the proprietor of the patent , lodge the Application  to opt out  or the Application to withdraw  together with the proprieto r.  
+
+   (b) Where any such supplementary protection certificate is granted subsequent to lodging the Application  to opt out , the opt -out shall take effect automatically on grant of said supplementary protection certificate.  
+
+   (c) Paragraphs  6 and 8 shall apply mutatis mutandis . For the purposes of  paragraphs  6 and 8, reference to actions  
+	
+   (i) in respect of a European patent shall apply to all supplementary protection certificates based on that European patent, and  
+	
+   (ii) in respect of a supplementary protection certificate shall apply to the European patent on which such supplementary protection certificate is based and  
+	
+   (iii) in respect of a supplementary protection certificate shall apply to all other supplementary protection certificates based on the  same European patent.  
+
+   (d) For the avoidance of doubt, it is not possible to opt  out supplementary protection certificates , whether granted by the authorities of a Contracting Member State or otherwise , based on  a European patent with unitary effect. 
 
 3. The Application to opt out shall contain:  
-	- (a) the name of each proprietor or applicant for the European patent or application and of the holder of  any supplementary protection certificate based on the European patent in question, and all relevant postal and,  where applicable, electronic addresses;  
-	- (b)  the name and postal address and electronic address of  
-		- (i) the representative appointed by the applicant or the proprietor in accordance with Article 48 of the Agreement  or  
-		- (ii) any other person lodging the A pplication to opt  out on behalf of the proprietor or the applicant and the mandate for lodging the Application to opt out;  
-	- (c) details of the patent and/or application including the EP publication  number;  
-	- (d) details of any supplementary protection certificate granted based on the patent concerned, including the number;and  
-	- (e) for the purposes of paragraph  1(a), a declaration by or on behalf of each proprietor or  applicant pursuant to Rule 8.5 that he is entitled to  be registered in the n ational patent register.
+
+   (a) the name of each proprietor or applicant for the European patent or application and of the holder of  any supplementary protection certificate based on the European patent in question, and all relevant postal and,  where applicable, electronic addresses;  
+
+   (b)  the name and postal address and electronic address of  
+	
+   (i) the representative appointed by the applicant or the proprietor in accordance with Article 48 of the Agreement  or  
+	
+   (ii) any other person lodging the A pplication to opt  out on behalf of the proprietor or the applicant and the mandate for lodging the Application to opt out;  
+
+   (c) details of the patent and/or application including the EP publication  number;  
+
+   (d) details of any supplementary protection certificate granted based on the patent concerned, including the number;and  
+
+   (e) for the purposes of paragraph  1(a), a declaration by or on behalf of each proprietor or  applicant pursuant to Rule 8.5 that he is entitled to  be registered in the n ational patent register.
 
 4. Rule 8 shall not apply to Applications to opt out and to Applications to withdraw made pursuant to this Rule 5.
 
@@ -183,9 +199,12 @@ Where applicable, the Registry shall inform the parties of the opportunity to re
 4. For the purposes of proceedings under these Rules in relation to the proprietor of a European patent  with unitary effect , the person shown in the Register  for unitary patent protection [Regulation (EU) No 1257/2012, Article  2(e)]  as the proprietor  shall be treated as such . If during proceedings before the Court a new pr oprietor is recorded in the Register for unitary  patent  protection, the former registered proprietor may apply to the Court pursuant to Rule 305.1(c) for the substitution of the new proprietor.  
    
 5. Subject to paragraph  6, for the purposes of proceedings und er these Rules:  
-	- (a) in relation to the proprietor of a European patent, the person entitled to be registered as proprietor under the law of each Contracting Member State in which such European patent has been validated shall be treated as the proprietor wh ether or not such person is in fact recorded in the register of patents maintained in such Contracting Member State  (hereinafter “national patent register”);and  
-	- (b) in relation to the applicant for a European patent, the person entitled to be registered as applicant whether or not such person is in fact recorded as such in the European Patent Register kept by the European Patent Office.  
-	- (c) For the purposes of paragraph  5, there shall be a rebuttable presumption that the person shown in each national patent register and the European Patent Register  kept by the European Patent Office  is the person entitled to be registered as proprietor or applicant as the case may be. 
+
+   (a) in relation to the proprietor of a European patent, the person entitled to be registered as proprietor under the law of each Contracting Member State in which such European patent has been validated shall be treated as the proprietor wh ether or not such person is in fact recorded in the register of patents maintained in such Contracting Member State  (hereinafter “national patent register”);and  
+
+   (b) in relation to the applicant for a European patent, the person entitled to be registered as applicant whether or not such person is in fact recorded as such in the European Patent Register kept by the European Patent Office.  
+
+   (c) For the purposes of paragraph  5, there shall be a rebuttable presumption that the person shown in each national patent register and the European Patent Register  kept by the European Patent Office  is the person entitled to be registered as proprietor or applicant as the case may be. 
 	  
 6. For the purposes of proceedings pursuant to Rules 42 and 61 in relation to a European patent, the person shown in the  national patent register [Rule 8.5(a)]  as the proprietor shall be treated as such for each Contracting Member State or, as far as no such person is registered in a national patent register, the last person shown recorded as proprietor in the European Patent Register kept by the European Patent Office.  
 
@@ -242,17 +261,24 @@ Relation with Agreement: Articles 35, 52(2) and 79
 ###### Rule 12 - Exchange of written pleadings (infringement action)
 
 1. The written procedure shall consist of:
-	- (a) the lodging of a Statement of claim (by the claimant) [Rule 13];
-	- (b) the lodging of a Statement of defence (by the defendant) [Rules 23 and 24];and, optionally 
-	- (c) the lodging of a Reply to the Statement of defence (by the claimant) [Rule 29 (b)]; and 
-	- (d) the lodging of a Rejoinder to the Reply (by the defendant) [Rule 29 (c)].
+
+   (a) the lodging of a Statement of claim (by the claimant) [Rule 13];
+
+   (b) the lodging of a Statement of defence (by the defendant) [Rules 23 and 24];and, optionally 
+
+   (c) the lodging of a Reply to the Statement of defence (by the claimant) [Rule 29 (b)]; and 
+
+   (d) the lodging of a Rejoinder to the Reply (by the defendant) [Rule 29 (c)].
 
 2. The Statement of defence may include a Counterclaim for revocation [Rule 25.1].
 
 3. If a Counterclaim for revocation is lodged:  
-	- (a) the claimant and any proprietor who becomes a party pursuant to Rule 25.2 (hereinafter in this Rule 12 and Rules  29 to 32, “the proprietor”) shall lodge a Defence to the Counterclaim for revocation [Rule 29(a)], which may include an Application to amend the patent by the proprietor [Rule 30];  
-	- (b) the defendant may lodge a Reply to the Defence to the Counterclaim [Rule 29(d) ]; and  
-	- (c) the claimant and the proprietor may lodge a Rejoinder to the Reply to the Defence to the Counterclaim [Rule 29(e) ].  
+
+   (a) the claimant and any proprietor who becomes a party pursuant to Rule 25.2 (hereinafter in this Rule 12 and Rules  29 to 32, “the proprietor”) shall lodge a Defence to the Counterclaim for revocation [Rule 29(a)], which may include an Application to amend the patent by the proprietor [Rule 30];  
+
+   (b) the defendant may lodge a Reply to the Defence to the Counterclaim [Rule 29(d) ]; and  
+
+   (c) the claimant and the proprietor may lodge a Rejoinder to the Reply to the Defence to the Counterclaim [Rule 29(e) ].  
 	  
 4. If an Application to amend the patent is lodged by the proprietor, the defendant shall lodge a Defence to the Application to amend the patent in the Reply to the Defence to the Counterclaim,  the proprietor may lodge a Reply to the Defence to the Application to amend and the defendant may lodge a Rejoinder to such Reply [Rule 32].
    
@@ -264,25 +290,44 @@ Relation with Agreement: Articles 35, 52(2) and 79
 ###### Rule 13 - Contents of the Statement of claim  
 
 1. The claimant shall lodge a Statement of claim with the division chosen by him [Article  33 of the Agreement ] which shall contain: 
-	- (a) the name of the claimant , and, where the claimant is a corporate entity, the location of its registered office, and of the claimant ’s representative; 
-	- (b) the name of the party against whom the Statement is made (the defendant) , and, where the defendant is a corporate entity, the locati on of its registered office; 
-	- (c) postal and electronic addresses for service on the claimant and the names of the persons authorised to accept service; 
-	- (d) postal and, where available, electronic addresses for service on the defendant and the names of the persons authorised to accept service , if known; 
-	- (e) where the claimant is not the proprietor or not the only proprietor of the patent concerned, postal and where available, electronic addresses for service on the  proprietor and the names and addresses of the persons authorised to accept service, if known; 
-	- (f) where the claimant is not the proprietor of the patent concerned, or not the only proprietor, evidence to show the claimant is entitled to commence proceedings [Article  47(2) and (3)  of the Agreement]; 
-	- (g) details of the patent concerned, including the number; 
-	- (h) where applicable, information about any prior or pending proceedings relating to the patent concerned before the Court including any action for revocation or a declaration of non -infringement pending before the central division and the date of any such action, the European Patent Office or any other court or authority;
-	- (i) an indication of the division which shall hear the action [Article  33(1) to (6) of the Agreement] with an explanation of why that division has competence; where the parties have agreed in accordance with Article  33(7) of the Agreement, the indication of the division which shall hear the action shall be accompanied by evidence of the defendant ’s agreement;
-	- (j) where applicable, an indication that the action shall be heard by a single judge [Article  8(7) of the Agreement], accompanied by evidence of the defendant ’s agreement;
-	- (k) the nature of the claim, the order or the remedy sought by the claimant;
-	- (l) an indi cation of the facts relied on, in particular: 
-	- (i) one or more instances of alleged infringements or threatened infringements specifying the date and place of each;
-	- (ii) the identification of the patent claims alleged to be infringed;
-	- (m) the evidence relie d on [Rule 170.1], where available, and an indication of any further evidence which will be offered in support; 
-	- (n) the reasons why the facts relied on constitute  an infringement of the patent claims, including arguments of law and where appropriate an ex planation of the proposed claim interpretation;
-	- (o) an indication of any order the claimant will seek during the interim procedure [Rule 104(e)];
-	- (p) where the claimant assesses that the value of the infringement action exceeds EUR 500.000 , an indication of the value;and  
-	- (q) a list of the documents, including any witness statements, referred to in the Statement of  claim, together with any request that all or part of any such document need not be translated  and/or any request pursuant to Rule 26 2.2 or Rule 262A. 
+
+   (a) the name of the claimant , and, where the claimant is a corporate entity, the location of its registered office, and of the claimant ’s representative; 
+
+   (b) the name of the party against whom the Statement is made (the defendant) , and, where the defendant is a corporate entity, the locati on of its registered office; 
+
+   (c) postal and electronic addresses for service on the claimant and the names of the persons authorised to accept service; 
+
+   (d) postal and, where available, electronic addresses for service on the defendant and the names of the persons authorised to accept service , if known; 
+
+   (e) where the claimant is not the proprietor or not the only proprietor of the patent concerned, postal and where available, electronic addresses for service on the  proprietor and the names and addresses of the persons authorised to accept service, if known; 
+
+   (f) where the claimant is not the proprietor of the patent concerned, or not the only proprietor, evidence to show the claimant is entitled to commence proceedings [Article  47(2) and (3)  of the Agreement]; 
+
+   (g) details of the patent concerned, including the number; 
+
+   (h) where applicable, information about any prior or pending proceedings relating to the patent concerned before the Court including any action for revocation or a declaration of non -infringement pending before the central division and the date of any such action, the European Patent Office or any other court or authority;
+
+   (i) an indication of the division which shall hear the action [Article  33(1) to (6) of the Agreement] with an explanation of why that division has competence; where the parties have agreed in accordance with Article  33(7) of the Agreement, the indication of the division which shall hear the action shall be accompanied by evidence of the defendant ’s agreement;
+
+   (j) where applicable, an indication that the action shall be heard by a single judge [Article  8(7) of the Agreement], accompanied by evidence of the defendant ’s agreement;
+
+   (k) the nature of the claim, the order or the remedy sought by the claimant;
+
+   (l) an indi cation of the facts relied on, in particular: 
+
+   (i) one or more instances of alleged infringements or threatened infringements specifying the date and place of each;
+
+   (ii) the identification of the patent claims alleged to be infringed;
+
+   (m) the evidence relie d on [Rule 170.1], where available, and an indication of any further evidence which will be offered in support; 
+
+   (n) the reasons why the facts relied on constitute  an infringement of the patent claims, including arguments of law and where appropriate an ex planation of the proposed claim interpretation;
+
+   (o) an indication of any order the claimant will seek during the interim procedure [Rule 104(e)];
+
+   (p) where the claimant assesses that the value of the infringement action exceeds EUR 500.000 , an indication of the value;and  
+
+   (q) a list of the documents, including any witness statements, referred to in the Statement of  claim, together with any request that all or part of any such document need not be translated  and/or any request pursuant to Rule 26 2.2 or Rule 262A. 
 	
 2. The claimant shall at the same time supply a copy of each of the documents referred to in the Statement of claim.   
 
@@ -292,13 +337,18 @@ Relation with Agreement: Articles 35, 52(2) and 79
 ###### Rule 14 - Use of languages under Article 49(1) and (2) of the Agreement  
 
 1. Without prejudice to Articles  49(3) to (6) of the Agreement and subject to paragraph  2 and Rules 271.7 , 321 to 323, proceedings shall be conducted:  
-	- (a) in the official language or one of the official languages designated as language(s) of proceedings pursuant to Article  49(1) of the Agreement; or 
-	- (b) in a language designated as language of proceedings by a Contracting Member State pursuant to Article  49(2) of the Agreement. 
+
+   (a) in the official language or one of the official languages designated as language(s) of proceedings pursuant to Article  49(1) of the Agreement; or 
+
+   (b) in a language designated as language of proceedings by a Contracting Member State pursuant to Article  49(2) of the Agreement. 
 
 2. Where a Contracting Member State hosts a local division or participates in a regional division for which several languages have been designated pursuant to Article  49(1) and/or Article  49(2) of the Agreement:  
-	- (a) subject to paragraphs  2(b) and (c), the claimant may choose as the language of proceedings any of the language(s) designated pursuant to Article  49(1) and/or Article  49(2)  of the Agreement;
-	- (b) in proceedings before a local or regional division in a Contracting Member State against a defendant who has his domicile or principal place of business in that Contracting Member State where the action could not be brought pursuant to Article  33(1)(a) of the Agreement b efore any other local or regional division, proceedings shall be conducted in the official language of the Contracting Member State (paragraph  1(a)). Where a designation by a Contracting Member State having several official regional languages so indicates , proceedings shall be conducted in the official language of the region in which the defendant has his domicile or principal place of business. Where there are two or more such defendants whose domicile or principle place of business has different regional languages, the claimant may choose the language from the regional languages in question.  Where a designation by a Contracting Member State having several official languages so indicates, proceedings shall be conducted in the official language of the defend ant. Where there are two or more such defendants with different official languages, the claimant may choose the language from the official languages in question.  
-	- (c) Where a designation of a  language under Article  49(2) of the Agreement for a regional divi sion or for one or more local division(s) hosted in a Member State so indicates, the judge-rapporteur may order in the interest of the panel to provide that judges may use in the oral proceedings the language according to paragraph  1(a) and/or to provide t hat the Court may make any order and deliver any decision in the language according to paragraph 1(a) together with a certified translation for the purpose of Rule 118.8 into the language according to paragraph 1(b).
+
+   (a) subject to paragraphs  2(b) and (c), the claimant may choose as the language of proceedings any of the language(s) designated pursuant to Article  49(1) and/or Article  49(2)  of the Agreement;
+
+   (b) in proceedings before a local or regional division in a Contracting Member State against a defendant who has his domicile or principal place of business in that Contracting Member State where the action could not be brought pursuant to Article  33(1)(a) of the Agreement b efore any other local or regional division, proceedings shall be conducted in the official language of the Contracting Member State (paragraph  1(a)). Where a designation by a Contracting Member State having several official regional languages so indicates , proceedings shall be conducted in the official language of the region in which the defendant has his domicile or principal place of business. Where there are two or more such defendants whose domicile or principle place of business has different regional languages, the claimant may choose the language from the regional languages in question.  Where a designation by a Contracting Member State having several official languages so indicates, proceedings shall be conducted in the official language of the defend ant. Where there are two or more such defendants with different official languages, the claimant may choose the language from the official languages in question.  
+
+   (c) Where a designation of a  language under Article  49(2) of the Agreement for a regional divi sion or for one or more local division(s) hosted in a Member State so indicates, the judge-rapporteur may order in the interest of the panel to provide that judges may use in the oral proceedings the language according to paragraph  1(a) and/or to provide t hat the Court may make any order and deliver any decision in the language according to paragraph 1(a) together with a certified translation for the purpose of Rule 118.8 into the language according to paragraph 1(b).
 
 3. The Registrar shall maintain a list of languages communicated by Contracting Member States pursuant to Article  49(1) and Article  49(2)  of the Agreement  as well as designations by Contracting Member States made pursuant to paragraph  2(b) and (c). The list shall be made publically available online.
 
@@ -332,21 +382,29 @@ Relation with Agreement: Articles 36(3), 70 and 71
 ###### Rule 17 - Recording in the register and assignment (Court of First Instance, infringement action)  
 
 1. If the requirements referred to in Rule 16.2 or 16.3 have been complied with, the Registry shall as soon as practicable:  
-	- (a) record the date of receipt of the Statem ent of claim and attribute an action number to the file;
-	- (b) record the file in the register;and  
-	- (c) inform the claimant of the action number of the file and the date of receipt .
+
+   (a) record the date of receipt of the Statem ent of claim and attribute an action number to the file;
+
+   (b) record the file in the register;and  
+
+   (c) inform the claimant of the action number of the file and the date of receipt .
  
 2. The action shall be assign ed to a panel  of a division according to Rule 345.3. Where requested by the parties the action shall be assigned to a single judge in accordance with Rule 345.6. 
 
 3. The following shall determine  the distribution of actions  between the seat of the central division and its sections.
 
-	- (a) Where  an action involves a single paten t having a single classification , the Registry shall allocate the action  to the seat or the section  of the central division  appropriate to the classification of the p atent according to Annex  II of the Agreement. The Registry shall assign the action to a panel  in accordance ith Rule 345.3.  
+
+   (a) Where  an action involves a single paten t having a single classification , the Registry shall allocate the action  to the seat or the section  of the central division  appropriate to the classification of the p atent according to Annex  II of the Agreement. The Registry shall assign the action to a panel  in accordance ith Rule 345.3.  
 	
-	- (b) Where a n action  involves more than one patent and a majority of the patents have a single classification  appropriate to  the seat or a single section  of the central division  according to  Annex  II of the Agreement, the Registry shall allocate the action  to the seat or that section  of the central division. The Registry shall assign the action to a panel in accordance with Rule 345.3.
+
+   (b) Where a n action  involves more than one patent and a majority of the patents have a single classification  appropriate to  the seat or a single section  of the central division  according to  Annex  II of the Agreement, the Registry shall allocate the action  to the seat or that section  of the central division. The Registry shall assign the action to a panel in accordance with Rule 345.3.
 	  
-	- (c) Where neither paragraph (a) nor (b) applies , especially where  
-		- (i) the action involves a single patent having more than one classification or  
-		- (ii) where the action involves more than one patent and no majority of the patents have a single classification corresponding to the seat or to one of the sections  of the central division,
+
+   (c) Where neither paragraph (a) nor (b) applies , especially where  
+	
+   (i) the action involves a single patent having more than one classification or  
+	
+   (ii) where the action involves more than one patent and no majority of the patents have a single classification corresponding to the seat or to one of the sections  of the central division,
 		
 		the Registry shall assign the action in accordance with Rule 345.3 to the panel at the seat or the section appropriate to the  first classification of  either the single patent or, where the action involves more than one patent,  the patent  first listed  in the Statement of claim , according to  Annex II of the Agreement . If the presiding judge of the respective panel considers that the reference of the action  is appropriate , he shall accept it. If he considers otherwise, he shall instruct the Registry to refer the action  in accordance with Rule 345.3 to the presiding judge of a panel of either the seat or the other section  of the central division  he considers appropriate, who shall likewise consider whether the re-allocation of the action  is appropriate . If that presiding judge  considers otherwise, he shall inform the President of the Court of First Instance, who shall allocate the action to the seat or the section  of the central division he considers appropriate . The Registry shall assign the action to a panel  in accordance with Rule 345.3.
 
@@ -449,14 +507,22 @@ The Statement of defence shall contain:
 ###### Rule 25 - Counterclaim for revocation
 
 1. If the Statement of defence includes an assertion that the patent alleged to be infringed is invalid the Statement of d efence shall include a Counterclaim against the proprietor of the patent for revocation of said patent in accordance with Rule 42. The Counterclaim for revocation shall contain:  
-	- (a) an indication of the extent to which revocation of the patent is requested;
-	- (b) one or more grounds for revocation, which shall as far as possible be supported by arguments of law, and where appropriate an explanation of the defendant’s proposed claim construction; 
-	- (c) an indication of the facts relied on;
-	- (d) the evidence relied on, where available, and an indication of any further evidence which will be offered in support;
-	- (e) an indication of any order the defendant will seek during the interim procedure [Rule 104(e)];
-	- (f) a statement of his position, if any, on the options provided for in Article  33(3) of the Agreement and Rule 37.4; 
-	- (g) a list of the documents, including any witness statements, referred to in the Counterclaim for revocation together with any request that all or part of any such documents need no t be translated and/or any request pursuant to Rule 262.2 or Rule 262A. Rule 13.2 and .3 shall apply mutatis mutandis;and   
-	- (h) insofar as the proprietor of the patent is not claimant in the infringement proceedings, the information required by Rule 13.1(b ) and (d) in respect of said proprietor. 
+
+   (a) an indication of the extent to which revocation of the patent is requested;
+
+   (b) one or more grounds for revocation, which shall as far as possible be supported by arguments of law, and where appropriate an explanation of the defendant’s proposed claim construction; 
+
+   (c) an indication of the facts relied on;
+
+   (d) the evidence relied on, where available, and an indication of any further evidence which will be offered in support;
+
+   (e) an indication of any order the defendant will seek during the interim procedure [Rule 104(e)];
+
+   (f) a statement of his position, if any, on the options provided for in Article  33(3) of the Agreement and Rule 37.4; 
+
+   (g) a list of the documents, including any witness statements, referred to in the Counterclaim for revocation together with any request that all or part of any such documents need no t be translated and/or any request pursuant to Rule 262.2 or Rule 262A. Rule 13.2 and .3 shall apply mutatis mutandis;and   
+
+   (h) insofar as the proprietor of the patent is not claimant in the infringement proceedings, the information required by Rule 13.1(b ) and (d) in respect of said proprietor. 
 
 2. Where the claimant is not the proprietor or not the only proprietor of the patent concerned, the Registry shall as soon as practicable serve a copy of the Counterclaim for revocation on the relevant proprietor in accordance with Rule 13.1(e) and shall supply a copy of each document referred to in paragraph  1(h).  Rule 271 shall apply mutatis mutan dis. The proprietor in question shall become a party to the revocation proceedings and shall be treated as defendant in all subsequent proceedings. The proprietor shall provide details pursuant to Rule 13.1(e) if not already provided by the claimant.  
 
@@ -475,8 +541,10 @@ The defendant shall pay the fee for the Counterclaim for revocation in accordanc
    (b) if the Statement of defence includes a Counterclaim for revocation, examine whether the requirements of Rule 25.1(g) and (h), and the obligation to pay the fee pursuant to Rule 26 has been complied with. 
 
 2. If the Registry considers that the Statement of defence or the Counterclaim for revocation does not comply with any of the requirements referred to in paragraph 1, it shall as soon as practicable invite the defendant to :
-	- (a) correct the deficiencies noted, within 14 days  of service of such notification;and  
-	- (b) where applicable, pay the fee for the Counterclaim for revocation, within  said 14 days. 
+
+   (a) correct the deficiencies noted, within 14 days  of service of such notification;and  
+
+   (b) where applicable, pay the fee for the Counterclaim for revocation, within  said 14 days. 
 
 3. The Registry shall at the same time inform the defendant that if the defendant fails to correct the deficiencies or pay the fee within the time stated, a decision by default may be given, in accordance with Rule 355.
 
@@ -547,8 +615,10 @@ been made and provide the information required in paragraph  1(a).
 ###### Rule 32 - Lodging of the Defence to the Application to amend the patent, the Reply to the Defence and the Rejoinder to the Reply  
 
 1. Within two month s of service of an Application to amend the patent , the defendant shall lodge a Defence to the Application to amend the patent setting out whether he opposes the Application to amend the patent and, if so, why : 
-	- (a) the proposed amendments are not allowable ; and  
-	- (b) the patent cannot be maintained as requested. 
+
+   (a) the proposed amendments are not allowable ; and  
+
+   (b) the patent cannot be maintained as requested. 
 
 2. Where appropriate in view of the proposed amendments, the Defence to the Application to amend the patent may contain submissions in accordance with Rule 44(d) to (h) and alternative non -infringement submissions.   
 
@@ -679,8 +749,10 @@ Relation with Agreement: Articles 47(5)  and 65(1)
    (d) the lodging of a Rejoinder to the Reply (by the defendant ) [Rule 52].
 
 2. The Defence to revocation may include : 
-	- (a) an Application to amend the patent ; and  
-	- (b) a Counterclaim for infringement by the proprietor of the patent.
+
+   (a) an Application to amend the patent ; and  
+
+   (b) a Counterclaim for infringement by the proprietor of the patent.
 
 3. If an Application to amend  the patent is lodged, the claimant  shall lodge a Defence to the Application to amend the patent . The defendant may lodge a Reply to the Defence to the Application . The claimant may lodge a Rejoinder to the Reply . The Rejoinder shall be limited to a respon se to the matters raised in the Reply.
 
@@ -751,8 +823,10 @@ Rule 19.1 to .3 and .5 to .7 as well as Rules  20 and 21 shall apply mutatis mut
 
 1. The defendant shall lodge a Defence to revocation within two months of service of the Statement for revocation.  
 2. The Defence to revocation may include : 
-	- (a) an Application to amend the patent ;  
-	- (b) a Counterclaim for infringement.  
+
+   (a) an Application to amend the patent ;  
+
+   (b) a Counterclaim for infringement.  
 
 
 ###### Rule 50 - Contents of the Defence to revocation  and Counterclaim for infringement  
@@ -823,8 +897,10 @@ Rules 35 and 36 shall apply mutatis mutandis .
 ###### Rule 61 - Declaration of non -infringement
 
 1. A declaration that the performance of a specific act does not, or a  proposed act would not, constitute an infringement of a patent may be made by the Court in proceedings between the person doing or proposing to do the act and the patent proprietor or licensee entitled to commence infringement proceedings pursuant to Arti cle 47 of the Agreement, if the patent proprietor or such licensee has asserted that the act is an infringement, or, if no such assertion has been made by the patent proprietor or licensee, if: 
-	- (a) that person has applied in writing to the proprietor or li censee for a written acknowledgment to the effect of the declaration claimed, and has provided him with full particulars in writing of the act in question ; and 
-	- (b) the proprietor or licensee has refused or failed to give any such acknowledgment within one month.  
+
+   (a) that person has applied in writing to the proprietor or li censee for a written acknowledgment to the effect of the declaration claimed, and has provided him with full particulars in writing of the act in question ; and 
+
+   (b) the proprietor or licensee has refused or failed to give any such acknowledgment within one month.  
 
 2. The action for a declaration shall be directed against the proprietor of the patent or the licensee who has asserted an infringement or refused or failed to give an acknowledgement pursuant to paragraph  1(b).  
 
@@ -834,12 +910,14 @@ Rules 35 and 36 shall apply mutatis mutandis .
 ###### Rule 62 - Exchange of written pleadings (action for declaration of non -infringement)  
 
 1. The written procedure shall consist of:  
-	- (a) the lodging of a Statement for a declaration of non -infringement (by the claimant) [Rule 63]; 
-	- (b) the lodging of a Defence to the Statement for a declaration of non -infringement (by the defendant) 
-	- [Rules  67 and 68]; and, optionally   
-	- (c) the lodging of a Reply to the Defence to the Statement for a declaration of non -infringement 
-	- [Rule 69];  
-	- (d) the lodging of a Rejoinder to the Reply [Rule 69]. 
+
+   (a) the lodging of a Statement for a declaration of non -infringement (by the claimant) [Rule 63]; 
+
+   (b) the lodging of a Defence to the Statement for a declaration of non -infringement (by the defendant) [Rules  67 and 68]; and, optionally   
+
+   (c) the lodging of a Reply to the Defence to the Statement for a declaration of non -infringement [Rule 69];
+   
+   (d) the lodging of a Rejoinder to the Reply [Rule 69]. 
 
 2. Rule 12.5 shall apply.
 
