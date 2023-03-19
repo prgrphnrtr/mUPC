@@ -531,7 +531,7 @@ Any natural or legal person, or any body equivalent to a legal person entitled t
 
 1. The patent proprietor shall be entitled to bring actions before the Court.  
 
-2. Unless the licensing agreement provides otherwise, the holder of an exclusive licence in respect of a patent shall be entitled to bring actions before the Court under the same circumstances as the patent proprietor, provided that the patent proprietor is given prior notice. 
+2. Unless the licensing agreement provides otherwise, the holder of an exclusive licence in respect of a patent shall be entitled to bring actions before the Court under the same circumstances as the patent proprietor, provided that the patent proprietor is given prior notice.
 
 3. The holder of a non-exclusive licence shall not be entitled to bring actions before the Court, unless the patent proprietor is given prior notice and in so far as expressly permitted by the licence agreement.
 
@@ -558,7 +558,6 @@ Any natural or legal person, or any body equivalent to a legal person entitled t
 6. Representatives of the parties shall be obliged not to misrepresent cases or facts before the Court either knowingly or with good reasons to know.
 
 7. Representation in accordance with paragraphs 1 and 2 of this Article shall not be required in proceedings under Article 32(1)(i).  
-
 
 ### CHAPTER II - Language of proceedings  
 
