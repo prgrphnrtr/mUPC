@@ -5,7 +5,7 @@ language: German
 [PDF:: [[EPGÜ (DE).pdf]]]
 
 # DE - ÜBEREINKOMMEN  über ein Einheitliches Patentgericht  
-
+[[UPCRoP - All Languages (2023-01-05).pdf#Rule 25]]
 (2013/C 175/01)
 
 DIE VERTRAGSMITGLIEDSTAATEN —  
@@ -16,7 +16,7 @@ IN DER ERWÄGUNG, dass der fragmentierte Patentmarkt und die beträchtlichen Unt
 
 IN DER ERWÄGUNG, dass das Europäische Patentübereinkommen (EPÜ), das von allen Mitgliedstaaten der Europäischen Union ratifiziert worden ist, ein einheitliches Verfahren für die Erteilung europäischer Patente durch das Europäische Patentamt vorsieht,
 
-IN DER ERWÄGUNG, dass Patentinhaber nach der Verordnung (EU) Nr. 1257/2012 (  1 ) eine einheitliche Wirkung ihrer europäischen Patente beantragen können, damit sie in den Mitgliedstaaten der Europäischen Union, die an der Verstärkten Zusammenarbeit teilnehmen, einen einheitlichen Patentschutz genießen,
+IN DER ERWÄGUNG, dass Patentinhaber nach der Verordnung (EU) Nr. 1257/2012[^1] eine einheitliche Wirkung ihrer europäischen Patente beantragen können, damit sie in den Mitgliedstaaten der Europäischen Union, die an der Verstärkten Zusammenarbeit teilnehmen, einen einheitlichen Patentschutz genießen,
 
 IN DEM WUNSCH, durch die Errichtung eines Einheitlichen Patentgerichts für die Regelung von Rechtsstreitigkeiten über die Verletzung und Rechtsgültigkeit von Patenten die Durchsetzung von Patenten und die Verteidigung gegen unbe ­gründete Klagen und Klagen im Zusammenhang mit Patenten, die für nichtig erklärt werden sollten, zu verbessern und die Rechtssicherheit zu stärken, 
 
@@ -25,8 +25,6 @@ IN DER ERWÄGUNG, dass das Einheitliche Patentgericht in der Lage sein sollte, r
 IN DER ERWÄGUNG, dass das Einheitliche Patentgericht ein gemeinsames Gericht der Vertragsmitgliedstaaten und somit Teil ihres Rechtswesens sein sollte und dass es mit einer ausschließlichen Zuständigkeit für europäische Patente mit einheitlicher Wirkung und für die nach dem EPÜ erteilten Patente ausgestattet sein sollte,
 
 IN DER ERWÄGUNG, dass der Gerichtshof der Europäischen Union die Einheitlichkeit der Rechtsordnung der Union und den Vorrang des Rechts der Europäischen Union sicherzustellen hat,
-
-( 1 ) Verordnung (EU) Nr. 1257/2012 des Europäischen Parlaments und des Rates vom 17. Dezember 2012 über die Umsetzung der Verstärkten Zusammenarbeit im Bereich der Schaffung eines einheitlichen Patentschutzes (ABl. L 361 vom 31.12.2012, S. 1) mit allen nachfolgenden Änderungen.
 
 UNTER HINWEIS AUF die Verpflichtungen der Vertragsmitgliedstaaten im Rahmen des Vertrags über die Europäische Union (EUV) und des Vertrags über die Arbeitsweise der Europäischen Union (AEUV), einschließlich der Verpflichtung zur loyalen Zusammenarbeit nach Artikel 4 Absatz 3 EUV und der Verpflichtung, durch das Einheitliche Patentgericht die uneingeschränkte Anwendung und Achtung des Unionsrechts in ihrem jeweiligen Hoheitsgebiet und den gerichtlichen Schutz der dem Einzelnen aus diesem Recht erwachsenden Rechte zu gewährleisten,
 
@@ -40,7 +38,7 @@ UNTER HINWEIS auf den Vorrang des Unionsrechts, das den EUV, den AEUV, die Chart
 
 IN DER ERWÄGUNG, dass dieses Übereinkommen jedem Mitgliedstaat der Europäischen Union zum Beitritt offenstehen sollte; Mitgliedstaaten, die beschlossen haben, nicht an der Verstärkten Zusammenarbeit im Bereich der Schaffung eines einheitlichen Patentschutzes teilzunehmen, können sich in Bezug auf europäische Patente, die für ihr jeweiliges Hoheits ­gebiet erteilt wurden, an diesem Übereinkommen beteiligen,
 
-IN DER ERWÄGUNG, dass dieses Übereinkommen am 1. Januar 2014 in Kraft treten sollte oder aber am ersten Tag des vierten Monats nach Hinterlegung der 13. Ratifikations- oder Beitrittsurkunde, sofern dem Kreis der Vertragsmitglied ­staaten, die ihre Ratifikations- oder Beitrittsurkunden hinterlegt haben, die drei Staaten angehören, in denen es im Jahr vor dem Jahr der Unterzeichnung des Übereinkommens die meisten gültigen europäischen Patente gab, oder aber am ersten Tag des vierten Monats nach dem Inkrafttreten der Änderungen der Verordnung (EU) 1215/2012[^1], die das Verhältnis zwischen jener Verordnung und diesem Übereinkommen betreffen, je nachdem, welcher Zeitpunkt der späteste ist —  
+IN DER ERWÄGUNG, dass dieses Übereinkommen am 1. Januar 2014 in Kraft treten sollte oder aber am ersten Tag des vierten Monats nach Hinterlegung der 13. Ratifikations- oder Beitrittsurkunde, sofern dem Kreis der Vertragsmitglied ­staaten, die ihre Ratifikations- oder Beitrittsurkunden hinterlegt haben, die drei Staaten angehören, in denen es im Jahr vor dem Jahr der Unterzeichnung des Übereinkommens die meisten gültigen europäischen Patente gab, oder aber am ersten Tag des vierten Monats nach dem Inkrafttreten der Änderungen der Verordnung (EU) 1215/2012[^2], die das Verhältnis zwischen jener Verordnung und diesem Übereinkommen betreffen, je nachdem, welcher Zeitpunkt der späteste ist —  
 
 SIND WIE FOLGT ÜBEREINGEKOMMEN:  
 
@@ -71,19 +69,21 @@ Für die Zwecke dieses Übereinkommens bezeichnet der Aus­druck
    f) „europäisches Patent mit einheitlicher Wirkung“ ein nach dem EPÜ erteiltes Patent, das aufgrund der Verordnung (EU) Nr. 1257/2012 einheitliche Wirkung hat,  
    
    g) „Patent“ ein europäisches Patent und/oder ein europäisches Patent mit einheitlicher Wirkung,  
-   
+
    h) „ergänzendes Schutzzertifikat“ ein nach der Verordnung (EG) Nr. 469/2009 ( 1 ) oder der Verordnung (EG) Nr. 1610/96 ( 2 ) erteiltes ergänzendes Schutzzertifikat,
-   
+
    i) „Satzung“ die als Anhang I beigefügte Satzung des Gerichts, die Bestandteil dieses Übereinkommens ist,  
-   
+
    j) „Verfahrensordnung“ die gemäß Artikel 41 festgelegte Ver ­fahrensordnung des Gerichts.  
 
 
 ###### Artikel 3 - Geltungsbereich
+
 Dieses Übereinkommen gilt  
+
 a) für alle europäischen Patente mit einheitlicher Wirkung,  
-b) für alle ergänzenden Schutzzertifikate, die zu einem durch 
-ein Patent geschützten Erzeugnis erteilt worden sind,  
+
+b) für alle ergänzenden Schutzzertifikate, die zu einem durch ein Patent geschützten Erzeugnis erteilt worden sind,  
 c) unbeschadet des Artikels 83 für alle europäische Patente, die 
 zum Zeitpunkt des Inkrafttretens dieses Übereinkommens 
 noch nicht erloschen sind oder die nach diesem Zeitpunkt 
@@ -95,8 +95,7 @@ punkt eingereicht werden.  Artikel 4
 Rechtsstellung  
 (1) Das Gericht besitzt in jedem Vertragsmitgliedstaat Rechts ­
 persönlichkeit und die weitestgehende Rechts- und Geschäfts ­
-fähigkeit, die juristischen Personen nach dessen Rechtsvorschrif ­
-ten zuerkannt wird.  
+fähigkeit, die juristischen Personen nach dessen Rechtsvorschriften zuerkannt wird.  
 (2) Das Gericht wird vom Präsidenten des Berufungsgerichts 
 vertreten, der im Einklang mit der Satzung gewählt wird.  
 
@@ -306,7 +305,9 @@ Die Wiederernennung ist zulässig.
 Die Zusammensetzung des Beratenden Ausschusses muss ein breites Spektrum an einschlägigem Sachverstand und die Vertretung eines jeden Vertragsmitgliedstaats gewährleisten. Die Mitglieder des Beratenden Ausschusses üben ihre Tätigkeit in völliger Unabhängigkeit aus und sind an keine Weisungen gebunden.  
 (4) Der Beratende Ausschuss gibt sich eine Geschäftsord ­
 nung.  
-(5) Der Beratende Ausschuss wählt aus seiner Mitte einen Vorsitzenden für eine Amtszeit von drei Jahren. Die Wiederwahl ist zulässig.  
+(5) Der Beratende Ausschuss wählt aus seiner Mitte einen Vorsitzenden für eine Amtszeit von drei Jahren. Die Wiederwahl ist zulässig.
+
+
 ### KAPITEL III - Richter des Gerichts  
 
 ###### Artikel 15 - Auswahlkriterien für die Ernennung der Richter  
@@ -1573,99 +1574,59 @@ erklärung bei den nationalen Gerichten erhoben werden, die
 Gründe dafür und die damit verbundenen Auswirkungen zu 
 ermitteln. Auf Grundlage dieser Konsultation und einer Stellung ­
 nahme des Gerichts kann der Verwaltungsausschuss beschließen, 
-die Übergangszeit um bis zu sieben Jahre zu verlängern.  
-TEIL V  
-SCHLUSSBESTIMMUNGEN  
-Artikel 84  
-Unterzeichnung, Ratifikation und Beitritt  
-(1) Dieses Übereinkommen liegt für alle Mitgliedstaaten am 
-19. Februar 2013 zur Unterzeichnung auf.  
-(2) Dieses Übereinkommen bedarf der Ratifikation nach 
-Maßgabe der jeweiligen verfassungsrechtlichen Erfordernisse 
-der Mitgliedstaaten. Die Ratifikationsurkunden werden beim Ge ­
-neralsekretariat des Rates der Europäischen Union (im Folgen ­
-den „Verwahrer“) hinterlegt.  
-(3) Jeder Mitgliedstaat, der dieses Übereinkommen unter ­
-zeichnet hat, notifiziert der Europäischen Kommission seine 
-Ratifikation des Übereinkommens zum Zeitpunkt der Hinterle ­
-gung seiner Ratifikationsurkunde gemäß Artikel 18 Absatz 3 
-der Verordnung (EU) Nr. 1257/2012.  
-(4) Dieses Übereinkommen steht allen Mitgliedstaaten zum 
-Beitritt offen. Die Beitrittsurkunden werden beim Verwahrer 
-hinterlegt.  
-Artikel 85  
-Aufgaben des Verwahrers  
-(1) Der Verwahrer erstellt beglaubigte Abschriften dieses 
-Übereinkommens und übermittelt sie den Regierungen aller Mit ­
-gliedstaaten, die das Übereinkommen unterzeichnen oder ihm 
-beitreten.  
-(2) Der Verwahrer notifiziert den Regierungen der Mitglied ­
-staaten, die das Übereinkommen unterzeichnen oder ihm bei ­
-treten,  
-a) jede Unterzeichnung;  
-b) die Hinterlegung jeder Ratifikations- oder Beitrittsurkunde;  
-c) den Zeitpunkt des Inkrafttretens dieses Übereinkommens.  
-(3) Der Verwahrer lässt dieses Übereinkommen beim Sekre ­
-tariat der Vereinten Nationen registrieren.DE 20.6.2013 Amtsblatt der Europäischen Union C 175/21Artikel 86  
-Geltungsdauer des Übereinkommens  
+die Übergangszeit um bis zu sieben Jahre zu verlängern.
+
+
+# TEIL V - SCHLUSSBESTIMMUNGEN  
+
+###### Artikel 84 - Unterzeichnung, Ratifikation und Beitritt  
+(1) Dieses Übereinkommen liegt für alle Mitgliedstaaten am 19. Februar 2013 zur Unterzeichnung auf.  
+(2) Dieses Übereinkommen bedarf der Ratifikation nach Maßgabe der jeweiligen verfassungsrechtlichen Erfordernisse der Mitgliedstaaten. Die Ratifikationsurkunden werden beim Ge ­neralsekretariat des Rates der Europäischen Union (im Folgen ­den „Verwahrer“) hinterlegt.  
+(3) Jeder Mitgliedstaat, der dieses Übereinkommen unter ­zeichnet hat, notifiziert der Europäischen Kommission seine Ratifikation des Übereinkommens zum Zeitpunkt der Hinterle ­gung seiner Ratifikationsurkunde gemäß Artikel 18 Absatz 3 der Verordnung (EU) Nr. 1257/2012.  
+(4) Dieses Übereinkommen steht allen Mitgliedstaaten zum Beitritt offen. Die Beitrittsurkunden werden beim Verwahrer hinterlegt.  
+
+
+Artikel 85 - Aufgaben des Verwahrers  
+(1) Der Verwahrer erstellt beglaubigte Abschriften dieses Übereinkommens und übermittelt sie den Regierungen aller Mit ­gliedstaaten, die das Übereinkommen unterzeichnen oder ihm beitreten.  
+(2) Der Verwahrer notifiziert den Regierungen der Mitglied ­staaten, die das Übereinkommen unterzeichnen oder ihm bei ­treten,
+
+   a) jede Unterzeichnung;
+   
+   b) die Hinterlegung jeder Ratifikations- oder Beitrittsurkunde;  
+   
+   c) den Zeitpunkt des Inkrafttretens dieses Übereinkommens.
+   
+(3) Der Verwahrer lässt dieses Übereinkommen beim Sekre­tariat der Vereinten Nationen registrieren.
+
+
+Artikel 86 - Geltungsdauer des Übereinkommens  
+
 Dieses Übereinkommen wird auf unbegrenzte Zeit geschlossen.  
-Artikel 87  
-Revision des Übereinkommens  
-(1) Entweder sieben Jahre nach Inkrafttreten dieses Überein ­
-kommens oder sobald 2 000 Verletzungsverfahren vom Gericht 
-entschieden worden sind — je nachdem, was später eintritt — 
-und sofern erforderlich in der Folge in regelmäßigen Abständen, 
-führt der Verwaltungsausschuss eine eingehende Konsultation 
-der Nutzer des Patentsystems durch, die folgenden Aspekten 
-gewidmet ist: Arbeitsweise, Effizienz und Kostenwirksamkeit 
-des Gerichts sowie Vertrauen der Nutzer des Patentsystems in 
-die Qualität der Entscheidungen des Gerichts. Auf Grundlage 
-dieser Konsultation und einer Stellungnahme des Gerichts 
-kann der Verwaltungsausschuss beschließen, dieses Übereinkom ­
-men zu überarbeiten, um die Arbeitsweise des Gerichts zu ver ­
-bessern.  
-(2) Der Verwaltungsausschuss kann dieses Übereinkommen 
-ändern, um es mit einem internationalen Vertrag auf dem Ge ­
-biet des Patentwesens oder mit dem Unionsrecht in Einklang zu 
-bringen.  
-(3) Ein aufgrund der Absätze 1 und 2 gefasster Beschluss des 
-Verwaltungsausschusses wird nicht wirksam, wenn ein Vertrags ­
-mitgliedstaat binnen zwölf Monaten ab dem Zeitpunkt des Be ­
-schlusses auf Grundlage seiner einschlägigen nationalen Ent ­
-scheidungsverfahren erklärt, dass er nicht durch den Beschluss 
-gebunden sein will. In diesem Fall wird eine Überprüfungskon ­
-ferenz der Vertragsmitgliedstaaten einberufen.  Artikel 88  
-Sprachen des Übereinkommens  
-(1) Dieses Übereinkommen ist in einer Urschrift in deutscher, 
-englischer und französischer Sprache abgefasst, wobei jeder 
-Wortlaut gleichermaßen verbindlich ist.  
-(2) Die in anderen als den in Absatz 1 genannten Amtssprachen von Vertragsmitgliedstaaten erstellten Wortlaute dieses 
-Übereinkommens werden als amtliche Fassungen betrachtet, 
-wenn sie vom Verwaltungsausschuss genehmigt wurden. Bei 
-Abweichungen zwischen den verschiedenen Wortlaute sind die 
-in Absatz 1 genannten Wortlaute maßgebend.  
-Artikel 89  
-Inkrafttreten  
-(1) Dieses Übereinkommen tritt am 1. Januar 2014 in Kraft 
-oder am ersten Tag des vierten Monats nach Hinterlegung der 
-dreizehnten Ratifikations- oder Beitrittsurkunde gemäß Arti ­
-kel 84, einschließlich der Hinterlegung durch die drei Mitglied ­
-staaten, in denen es im Jahr vor dem Jahr der Unterzeichnung 
-des Übereinkommens die meisten geltenden europäischen Pa ­
-tente gab, oder am ersten Tag des vierten Monats nach dem 
-Inkrafttreten der Änderungen der Verordnung (EU) 
-Nr. 1215/2012, die das Verhältnis zwischen jener Verordnung 
-und diesem Übereinkommen betreffen, je nachdem, welcher 
-Zeitpunkt der späteste ist.  
-(2) Jede Ratifikation bzw. jeder Beitritt nach Inkrafttreten 
-dieses Übereinkommens wird am ersten Tag des vierten Monats 
-nach Hinterlegung der Ratifikations- oder Beitrittsurkunde wirk ­
-sam.  
-Zu Urkunde dessen haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterzeich ­
-net. 
-Geschehen zu Brüssel am 19. Februar 2013 in einer Urschrift in deutscher, englischer und französischer 
-Sprache, wobei jeder Wortlaut gleichermaßen verbindlich ist; die Urschrift wird im Archiv des Generalse ­
-kretariats des Rates der Europäischen Union hinterlegt.DE C 175/22 Amtsblatt der Europäischen Union 20.6.2013Voor het Koninkrijk België  
+
+
+Artikel 87 - Revision des Übereinkommens  
+
+(1) Entweder sieben Jahre nach Inkrafttreten dieses Überein ­kommens oder sobald 2 000 Verletzungsverfahren vom Gericht entschieden worden sind — je nachdem, was später eintritt — und sofern erforderlich in der Folge in regelmäßigen Abständen, führt der Verwaltungsausschuss eine eingehende Konsultation der Nutzer des Patentsystems durch, die folgenden Aspekten gewidmet ist: Arbeitsweise, Effizienz und Kostenwirksamkeit des Gerichts sowie Vertrauen der Nutzer des Patentsystems in die Qualität der Entscheidungen des Gerichts. Auf Grundlage dieser Konsultation und einer Stellungnahme des Gerichts kann der Verwaltungsausschuss beschließen, dieses Übereinkom ­men zu überarbeiten, um die Arbeitsweise des Gerichts zu ver ­bessern.  
+
+(2) Der Verwaltungsausschuss kann dieses Übereinkommen ändern, um es mit einem internationalen Vertrag auf dem Ge ­biet des Patentwesens oder mit dem Unionsrecht in Einklang zu bringen.  
+(3) Ein aufgrund der Absätze 1 und 2 gefasster Beschluss des Verwaltungsausschusses wird nicht wirksam, wenn ein Vertrags ­mitgliedstaat binnen zwölf Monaten ab dem Zeitpunkt des Be ­schlusses auf Grundlage seiner einschlägigen nationalen Ent ­scheidungsverfahren erklärt, dass er nicht durch den Beschluss gebunden sein will. In diesem Fall wird eine Überprüfungskon ­ferenz der Vertragsmitgliedstaaten einberufen.  
+
+###### Artikel 88 - Sprachen des Übereinkommens 
+
+(1) Dieses Übereinkommen ist in einer Urschrift in deutscher, englischer und französischer Sprache abgefasst, wobei jeder Wortlaut gleichermaßen verbindlich ist.
+
+(2) Die in anderen als den in Absatz 1 genannten Amtssprachen von Vertragsmitgliedstaaten erstellten Wortlaute dieses Übereinkommens werden als amtliche Fassungen betrachtet, wenn sie vom Verwaltungsausschuss genehmigt wurden. Bei Abweichungen zwischen den verschiedenen Wortlaute sind die in Absatz 1 genannten Wortlaute maßgebend.  
+
+
+###### Artikel 89 - Inkrafttreten
+
+(1) Dieses Übereinkommen tritt am 1. Januar 2014 in Kraft oder am ersten Tag des vierten Monats nach Hinterlegung der dreizehnten Ratifikations- oder Beitrittsurkunde gemäß Arti ­kel 84, einschließlich der Hinterlegung durch die drei Mitglied ­staaten, in denen es im Jahr vor dem Jahr der Unterzeichnung des Übereinkommens die meisten geltenden europäischen Pa tente gab, oder am ersten Tag des vierten Monats nach dem Inkrafttreten der Änderungen der Verordnung (EU) Nr. 1215/2012, die das Verhältnis zwischen jener Verordnung und diesem Übereinkommen betreffen, je nachdem, welcher Zeitpunkt der späteste ist.
+
+(2) Jede Ratifikation bzw. jeder Beitritt nach Inkrafttreten dieses Übereinkommens wird am ersten Tag des vierten Monats nach Hinterlegung der Ratifikations- oder Beitrittsurkunde wirk ­sam.  Zu Urkunde dessen haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterzeichnet. 
+
+Geschehen zu Brüssel am 19. Februar 2013 in einer Urschrift in deutscher, englischer und französischer Sprache, wobei jeder Wortlaut gleichermaßen verbindlich ist; die Urschrift wird im Archiv des Generalse ­kretariats des Rates der Europäischen Union hinterlegt.
+
+Voor het Koninkrijk België  
 Pour le Royaume de Belgique  
 Für das Königreich Belgien  
 For the Kingdom of Belgium
@@ -1782,4 +1743,5 @@ Für das Vereinigte Königreich-Grossbritannien und Nordirland
 Pour le Royaume-Uni-de Grande-Bretagne et d'Irlande du Nord
 
 
-[^1]: Verordnung (EU) Nr. 1215/2012 des Europäischen Parlaments und des Rates vom 12. Dezember 2012 über die gerichtliche Zuständig ­keit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen (ABl. L 351 vom 20.12.2012, S. 1) mit  allen nachfolgenden Änderungen.
+[^1]: Verordnung (EU) Nr. 1257/2012 des Europäischen Parlaments und des Rates vom 17. Dezember 2012 über die Umsetzung der Verstärkten Zusammenarbeit im Bereich der Schaffung eines einheitlichen Patentschutzes (ABl. L 361 vom 31.12.2012, S. 1) mit allen nachfolgenden Änderungen.
+[^2]: Verordnung (EU) Nr. 1215/2012 des Europäischen Parlaments und des Rates vom 12. Dezember 2012 über die gerichtliche Zuständig ­keit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen (ABl. L 351 vom 20.12.2012, S. 1) mit  allen nachfolgenden Änderungen.
