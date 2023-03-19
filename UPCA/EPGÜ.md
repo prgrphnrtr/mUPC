@@ -51,42 +51,35 @@ SIND WIE FOLGT ÜBEREINGEKOMMEN:
 
 ###### Artikel 1  - Einheitliches Patentgericht
 
-Es wird ein Einheitliches Patentgericht für die Regelung von 
-Streitigkeiten über europäische Patente und europäische Patente 
-mit einheitlicher Wirkung errichtet.  
-Das Einheitliche Patentgericht ist ein gemeinsames Gericht der 
-Vertragsmitgliedstaaten und unterliegt somit denselben Ver ­
-pflichtungen nach dem Unionsrecht wie jedes nationale Gericht 
-der Vertragsmitgliedstaaten.  
+Es wird ein Einheitliches Patentgericht für die Regelung von Streitigkeiten über europäische Patente und europäische Patente mit einheitlicher Wirkung errichtet.  Das Einheitliche Patentgericht ist ein gemeinsames Gericht der Vertragsmitgliedstaaten und unterliegt somit denselben Ver ­pflichtungen nach dem Unionsrecht wie jedes nationale Gericht der Vertragsmitgliedstaaten.  
+
 
 ###### Artikel 2  - Begriffsbestimmungen  
-Für die Zwecke dieses Übereinkommens bezeichnet der Aus ­
-druck  
-a) „Gericht“ das Einheitliche Patentgericht, das mit diesem Über ­
-einkommen errichtet wird,  
-b) „Mitgliedstaat“ einen Mitgliedstaat der Europäischen Union,  
-c) „Vertragsmitgliedstaat“ einen Mitgliedstaat, der Vertragspartei 
-dieses Übereinkommens ist,
-d) „EPÜ“ das Übereinkommen über die Erteilung europäischer 
-Patente vom 5. Oktober 1973 mit allen nachfolgenden Än ­
-derungen,  
-e) „europäisches Patent“ ein nach dem EPÜ erteiltes Patent, das 
-keine einheitliche Wirkung aufgrund der Verordnung (EU) 
-Nr. 1257/2012 hat,  
-f) „europäisches Patent mit einheitlicher Wirkung“ ein nach 
-dem EPÜ erteiltes Patent, das aufgrund der Verordnung 
-(EU) Nr. 1257/2012 einheitliche Wirkung hat,  
-g) „Patent“ ein europäisches Patent und/oder ein europäisches 
-Patent mit einheitlicher Wirkung,  
-h) „ergänzendes Schutzzertifikat“ ein nach der Verordnung (EG) 
-Nr. 469/2009 (  1 ) oder der Verordnung (EG) Nr. 1610/96 (  2 ) 
-erteiltes ergänzendes Schutzzertifikat,  
-i) „Satzung“ die als Anhang I beigefügte Satzung des Gerichts, 
-die Bestandteil dieses Übereinkommens ist,  
-j) „Verfahrensordnung“ die gemäß Artikel 41 festgelegte Ver ­
-fahrensordnung des Gerichts.  
-###### Artikel 3  
-Geltungsbereich  
+
+Für die Zwecke dieses Übereinkommens bezeichnet der Aus­druck
+
+   a) „Gericht“ das Einheitliche Patentgericht, das mit diesem Über ­einkommen errichtet wird,
+   
+   b) „Mitgliedstaat“ einen Mitgliedstaat der Europäischen Union,  
+   
+   c) „Vertragsmitgliedstaat“ einen Mitgliedstaat, der Vertragspartei dieses Übereinkommens ist,
+   
+   d) „EPÜ“ das Übereinkommen über die Erteilung europäischer Patente vom 5. Oktober 1973 mit allen nachfolgenden Än­derungen,
+   
+   e) „europäisches Patent“ ein nach dem EPÜ erteiltes Patent, das keine einheitliche Wirkung aufgrund der Verordnung (EU) Nr. 1257/2012 hat,  
+   
+   f) „europäisches Patent mit einheitlicher Wirkung“ ein nach dem EPÜ erteiltes Patent, das aufgrund der Verordnung (EU) Nr. 1257/2012 einheitliche Wirkung hat,  
+   
+   g) „Patent“ ein europäisches Patent und/oder ein europäisches Patent mit einheitlicher Wirkung,  
+   
+   h) „ergänzendes Schutzzertifikat“ ein nach der Verordnung (EG) Nr. 469/2009 ( 1 ) oder der Verordnung (EG) Nr. 1610/96 ( 2 ) erteiltes ergänzendes Schutzzertifikat,
+   
+   i) „Satzung“ die als Anhang I beigefügte Satzung des Gerichts, die Bestandteil dieses Übereinkommens ist,  
+   
+   j) „Verfahrensordnung“ die gemäß Artikel 41 festgelegte Ver ­fahrensordnung des Gerichts.  
+
+
+###### Artikel 3 - Geltungsbereich
 Dieses Übereinkommen gilt  
 a) für alle europäischen Patente mit einheitlicher Wirkung,  
 b) für alle ergänzenden Schutzzertifikate, die zu einem durch 
@@ -106,20 +99,12 @@ fähigkeit, die juristischen Personen nach dessen Rechtsvorschrif ­
 ten zuerkannt wird.  
 (2) Das Gericht wird vom Präsidenten des Berufungsgerichts 
 vertreten, der im Einklang mit der Satzung gewählt wird.  
-Artikel 5  
-Haftung  
-(1) Die vertragliche Haftung des Gerichts unterliegt dem für 
-den betreffenden Vertrag geltenden Recht gemäß der Verord ­
-nung (EG) Nr. 593/2008 (Rom I) (  3 ), sofern anwendbar, oder 
-andernfalls gemäß dem Recht des Mitgliedstaats des befassten 
-Gerichts.  
-(2) Die außervertragliche Haftung des Gerichts für durch das 
-Gericht oder sein Personal in Ausübung seiner Amtstätigkeit 
-verursachte Schäden — sofern es sich dabei nicht um eine Zivil- 
-und Handelssache im Sinne der Verordnung (EG) Nr. 864/2007 
-(Rom II) (  4 ) handelt — richtet sich nach dem Recht des Ver ­
-tragsmitgliedstaats, in dem der Schaden eingetreten ist. Diese 
-Bestimmung lässt Artikel 22 unberührt.  
+
+
+###### Artikel 5 - Haftung  
+(1) Die vertragliche Haftung des Gerichts unterliegt dem für den betreffenden Vertrag geltenden Recht gemäß der Verord ­nung (EG) Nr. 593/2008 (Rom I) (  3 ), sofern anwendbar, oder andernfalls gemäß dem Recht des Mitgliedstaats des befassten Gerichts. 
+
+(2) Die außervertragliche Haftung des Gerichts für durch das Gericht oder sein Personal in Ausübung seiner Amtstätigkeit verursachte Schäden — sofern es sich dabei nicht um eine Zivil- und Handelssache im Sinne der Verordnung (EG) Nr. 864/2007 (Rom II) (  4 ) handelt — richtet sich nach dem Recht des Ver ­tragsmitgliedstaats, in dem der Schaden eingetreten ist. Diese Bestimmung lässt Artikel 22 unberührt.  
 (3) Die Zuständigkeit für die Beilegung von Rechtsstreitigkei ­
 ten nach Absatz 2 liegt bei einem Gericht des Vertragsmitglied ­
 staats, in dem der Schaden eingetreten ist.
