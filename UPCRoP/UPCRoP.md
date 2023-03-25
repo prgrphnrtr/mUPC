@@ -1172,11 +1172,11 @@ During the interim procedure , the judge-rapporteur shall invite the claimant to
 2. If an oral hearing is not convened, the panel shall decide in accordance with Rule 117.  
 
 
-###### Rule 97 - Applicat ion to annul a decision of the Office to re ject a request for unitary effect  
+###### Rule 97 - Application to annul a decision of the Office to re ject a request for unitary effect  
 
 1. The proprietor of a patent whose request for unitary effect has been re jected  by the Office shall lodge an Application at the  Registry  in accordance with Article  7(2) of the Agreement and Annex  II thereto, to reverse the decision of the Office, in the language in which the patent was granted, within three weeks of service of the decision of the European Patent Office.
 
-2. The Application shall contain particulars in accordance with Rule 88.2(a), (c), (d) and ( g) to ( j) and the proprietor shall pay the fee for the action against the decision of the  Office in accordance with Part  6. Rule 15.2 and Rule 89 shall apply mutatis mutandis.  
+2. The Application shall contain particulars in accordance with Rule 88.2(a), (c), (d) and ( g) to ( j) and the proprietor shall pay the fee for the action against the decision of the  Office in accordance with Part 6. Rule 15.2 and Rule 89 shall apply mutatis mutandis.  
 
 3. If the requirements referred to in paragraph  2 have been comp lied with , Rule 90 shall apply mutatis mutandis . 
 
@@ -2994,7 +2994,7 @@ The Court may of its own motion or at the request of a party request that opposi
 
 Any period of time prescribed by the Agreement, the Statute, these Rules or any ord er of the Court for the taking of any procedural step shall be laid down in terms of full days, weeks, months or years and shall be reckoned as follows:  
 
-   (a) computation shall start on the day following the day on which the relevant event occurred ; in the case of service of a document, the relevant event shall be the receipt of that document  in accordance with Part 5, Chapter  2;
+   (a) computation shall start on the day following the day on which the relevant event occurred; in the case of service of a document, the relevant event shall be the receipt of that document in accordance with Part 5, Chapter 2;
 
    (b) when a period is expressed as one year or a certain number of years, it shall expire in the relevant subsequent year in th e month having the same name and on the day having the same number as the month and the day on which the said event occurred. If the relevant subsequent month has no day with the same number, the period shall expire on the last day of that month;  
 
@@ -3002,7 +3002,7 @@ Any period of time prescribed by the Agreement, the Statute, these Rules or any 
 
    (d) when a period is expressed as one week or a certain number of weeks, it shall expire in the relevant subsequent week on the day having the same name as the day on which the said event occurr ed; 
 
-   (e) day shall mean a calendar day unless expressed as a working day ; 
+   (e) day shall mean a calendar day unless expressed as a working day; 
 
    (f) calendar days shall include official holidays of the Contracting Member State in which the division or the seat of the central division  or its section  concerned or the Court of Ap peal is located, Saturdays  and Sundays ; 
 
