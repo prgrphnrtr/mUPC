@@ -172,23 +172,23 @@ Relation with Agreement: Article 83(3) and (4)
 
 1. The Registry shall as soon as practicable serve, in accordance with Part 5, Chapter 2: 
    (a) orders and decisions of the Court on the parties; 
-   (b) written pleadings  and other documents  of a party on the other party.
+   (b) written pleadings and other documents  of a party on the other party.
 
 Where applicable, the Registry shall inform the parties of the opportunity to reply or to take any other appropriate step in the proceedings and of any time period for so doing. 
 
 2. The Registry shall also as soon as practicable supply to the parties copies of documents referred to in these Rules and lodged with pleadings and written evidence.  
 
-3. Where the postal or electronic address for service provided by a party pursuant to these Rules has changed that  party shall give notice to the Registry and to every other party as soon as such change has taken place.   
+3. Where the postal or electronic address for service provided by a party pursuant to these Rules has changed that party shall give notice to the Registry and to every other party as soon as such change has taken place.   
 
 
 ###### Rule 7 - Language of written pleadings and written evidence  
 
 1. Written pleadings and other documents, including written evidence, shall be lodged in the language of the proceedings  unless the Court or these Rules otherwise provide. 
 
-2. Where these Rules or the Court require a pleading or other document to be translated it shall not be necessary to provide a formal certification by the translator as to t he accuracy of such translation unless the accuracy is challenged by a party or such certification is ordered by the Court  or required by these Rules .  
+2. Where these Rules or the Court require a pleading or other document to be translated it shall not be necessary to provide a formal certification by the translator as to t he accuracy of such translation unless the accuracy is challenged by a party or such certification is ordered by the Court  or required by these Rules.  
 
 
-###### Rule 8 - Party and party ’s representative  
+###### Rule 8 - Party and party’s representative  
 
 1. A party shall be represented in accordance with Article  48 of the Agreement unless otherwise provided by these Rules [Rules  5, 88.4 and 378.5]. 
 
@@ -227,18 +227,15 @@ Relation with Agreement: Article  48
 
 ## PART  1 - PROCEDURES BEFORE THE COURT OF FIRST INSTANCE
 
-###### Rule 10 - Stages of the proceedings ( inter partes  proceedings)
+###### Rule 10 - Stages of the proceedings (inter partes  proceedings)
 
 Proceedings before the Court of First Instance shall consist of the following stages:
 
    (a) a written procedure;  
    (b) an interim procedure, which may include an interim conference with the parties;  
-   (c) an oral procedure which, subject to Rules  116.1 and 117, shall include an oral hearing of the parties 
-   unless the Court dispenses with the oral hearing with the agreement of the parties;
-  
- (d) a procedure fo r the award of damages , which may include a procedure to lay open books;
-  
- (e) a procedure for cost decisions. 
+   (c) an oral procedure which, subject to Rules  116.1 and 117, shall include an oral hearing of the parties unless the Court dispenses with the oral hearing with the agreement of the parties;
+  (d) a procedure for the award of damages, which may include a procedure to lay open books;
+  (e) a procedure for cost decisions. 
 
 Relation with Agreement: Articles 52, 68 and 69  
 
@@ -276,7 +273,7 @@ Relation with Agreement: Articles 35, 52(2) and 79
 
    (a) the claimant and any proprietor who becomes a party pursuant to Rule 25.2 (hereinafter in this Rule 12 and Rules  29 to 32, “the proprietor”) shall lodge a Defence to the Counterclaim for revocation [Rule 29(a)], which may include an Application to amend the patent by the proprietor [Rule 30];  
 
-   (b) the defendant may lodge a Reply to the Defence to the Counterclaim [Rule 29(d) ]; and  
+   (b) the defendant may lodge a Reply to the Defence to the Counterclaim [Rule 29(d)]; and  
 
    (c) the claimant and the proprietor may lodge a Rejoinder to the Reply to the Defence to the Counterclaim [Rule 29(e) ].  
 	  
@@ -336,7 +333,7 @@ Relation with Agreement: Articles 35, 52(2) and 79
 
 ###### Rule 14 - Use of languages under Article 49(1) and (2) of the Agreement  
 
-1. Without prejudice to Articles  49(3) to (6) of the Agreement and subject to paragraph  2 and Rules 271.7 , 321 to 323, proceedings shall be conducted:  
+1. Without prejudice to Articles  49(3) to (6) of the Agreement and subject to paragraph  2 and Rules 271.7, 321 to 323, proceedings shall be conducted:  
 
    (a) in the official language or one of the official languages designated as language(s) of proceedings pursuant to Article  49(1) of the Agreement; or 
 
@@ -346,7 +343,7 @@ Relation with Agreement: Articles 35, 52(2) and 79
 
    (a) subject to paragraphs  2(b) and (c), the claimant may choose as the language of proceedings any of the language(s) designated pursuant to Article  49(1) and/or Article  49(2)  of the Agreement;
 
-   (b) in proceedings before a local or regional division in a Contracting Member State against a defendant who has his domicile or principal place of business in that Contracting Member State where the action could not be brought pursuant to Article  33(1)(a) of the Agreement b efore any other local or regional division, proceedings shall be conducted in the official language of the Contracting Member State (paragraph  1(a)). Where a designation by a Contracting Member State having several official regional languages so indicates , proceedings shall be conducted in the official language of the region in which the defendant has his domicile or principal place of business. Where there are two or more such defendants whose domicile or principle place of business has different regional languages, the claimant may choose the language from the regional languages in question.  Where a designation by a Contracting Member State having several official languages so indicates, proceedings shall be conducted in the official language of the defend ant. Where there are two or more such defendants with different official languages, the claimant may choose the language from the official languages in question.  
+   (b) in proceedings before a local or regional division in a Contracting Member State against a defendant who has his domicile or principal place of business in that Contracting Member State where the action could not be brought pursuant to Article  33(1)(a) of the Agreement before any other local or regional division, proceedings shall be conducted in the official language of the Contracting Member State (paragraph  1(a)). Where a designation by a Contracting Member State having several official regional languages so indicates , proceedings shall be conducted in the official language of the region in which the defendant has his domicile or principal place of business. Where there are two or more such defendants whose domicile or principle place of business has different regional languages, the claimant may choose the language from the regional languages in question.  Where a designation by a Contracting Member State having several official languages so indicates, proceedings shall be conducted in the official language of the defend ant. Where there are two or more such defendants with different official languages, the claimant may choose the language from the official languages in question.  
 
    (c) Where a designation of a  language under Article  49(2) of the Agreement for a regional divi sion or for one or more local division(s) hosted in a Member State so indicates, the judge-rapporteur may order in the interest of the panel to provide that judges may use in the oral proceedings the language according to paragraph  1(a) and/or to provide t hat the Court may make any order and deliver any decision in the language according to paragraph 1(a) together with a certified translation for the purpose of Rule 118.8 into the language according to paragraph 1(b).
 
@@ -456,7 +453,7 @@ The presiding judge of the panel to which the action has been assigned [Rule 17.
 
 2. Where the Preliminary objection is to be dealt with in the main proceedings, the judge-rapporteur shall inform the parties.  
 
-###### Rule 21 - Appeal  against decision or order on a Preliminary objection  
+###### Rule 21 - Appeal against decision or order on a Preliminary objection  
 
 1. A decision of the judge-rapporteur allowing the Preliminary objection may be appealed pursuant to Rule 220.1(a).  An order of the judge-rapporteur rejecting the Preliminary objection may only be appealed pursuant to Rule 220.2.
 
@@ -465,11 +462,11 @@ The presiding judge of the panel to which the action has been assigned [Rule 17.
 
 ##### VALUE-BASED FEE FOR THE INFRINGEMENT ACTION  
 
-###### Rule 22 - Determination of value-based fee for the infringement action  
+###### Rule 22 - Determination of value-based fee for the infringement action 
 
-1. The value of the infringement action shall be determined by the judge-rapporteur  under Rule 370.6, taking into account the  value as assessed by the parties , by way of an order during the inte rim procedure.
+1. The value of the infringement action shall be determined by the judge-rapporteur  under Rule 370.6, taking into account the  value as assessed by the parties , by way of an order during the interim procedure.
 
-2. Where the value of the infringement action exceeds EUR  500.000 , the claimant shall pay a value-based fee for the infringement action, in accordance with Part 6.  [[UPCRoP#Rule 16 - Examination as to formal requirements of the Statement of claim|Rule 16.3 to .5]] shall apply mutatis mutandis . 
+2. Where the value of the infringement action exceeds EUR  500.000, the claimant shall pay a value-based fee for the infringement action, in accordance with Part 6.  [[UPCRoP#Rule 16 - Examination as to formal requirements of the Statement of claim|Rule 16.3 to .5]] shall apply mutatis mutandis. 
 
 ##### STATEMENT OF DEFENCE  
 
@@ -559,13 +556,13 @@ As soon as practicable after service of the Statement of defence, the judge-rapp
 
 ###### Rule 29 - Lodging  of Defence to the Counterclaim for revocation, Reply to the Statement of defence and Rejoinder to the Reply  
 
-   (a) Within two months of service of a Statement of defence which includes a Counterclaim for revocation, the claimant shall lodge a Defence to the Counterclaim for revocation  together with a ny Reply to the Statement of defence and any Application to amend the patent pursuant t o Rule 30, if applicable .  
+   (a) Within two months of service of a Statement of defence which includes a Counterclaim for revocation, the claimant shall lodge a Defence to the Counterclaim for revocation  together with a ny Reply to the Statement of defence and any Application to amend the patent pursuant t o Rule 30, if applicable.
 
    (b) Within two months of service of a Statement of defence which does not include a Counterclaim for revocation, the claimant may lodge a Reply to the Statement of defence.  
 
-   (c) Within one month of service of a Reply to the Statement of defence which does not include a Counterc laim for revocation the defendant may lodge a Rejoinder to the Reply to the Statement of defence.  The Rejoinder to the Reply to the Statement of defence shall be limited to a response to the matters raised in the Reply to the Statement of defence.  
+   (c) Within one month of service of a Reply to the Statement of defence which does not include a Counterclaim for revocation the defendant may lodge a Rejoinder to the Reply to the Statement of defence.  The Rejoinder to the Reply to the Statement of defence shall be limited to a response to the matters raised in the Reply to the Statement of defence.  
 
-   (d) With in two months of service of the Defence to Counterclaim the defendant may lodge a Reply to the Defence to the Counterclaim together with  any Rejoinder to the Reply to the Statement of defence and any Defence to an Application to amend the patent pursuant t o Rule 32, if applicable.  
+   (d) Within two months of service of the Defence to Counterclaim the defendant may lodge a Reply to the Defence to the Counterclaim together with  any Rejoinder to the Reply to the Statement of defence and any Defence to an Application to amend the patent pursuant t o Rule 32, if applicable.  
 
    (e) Within one month of the service of the Reply to the Defence to the Counterclaim, the claimant  may lodge a Rejoinder to the Reply together with any Reply to the Defence to an Application to amend the patent pursuant to Rule 32, if applicable. The Rejoinder to the Reply to the Statement of defence shall be limited to a response to the matters raised in the Reply to the Statement of defence . 
 
@@ -592,35 +589,25 @@ will be offered in support ;
 ###### Rule 30 - Application to amend the patent
 
 1. The Defence to the Counterclaim for revocation may include an Application by the proprietor of the patent to amend the patent which shall contain: 
-(a) the proposed amendments of the claims of the patent concerned and/or specification, including where applicable and  appropriate one or more alternative sets of claims (auxiliary requests), in the language in 
-which the patent was granted; where the language of the proceedings [Rule 14.3] is not the language in 
-which the patent was granted, the proprietor shall lodge a t ranslation of the proposed amendments in the 
-language of the proceedings, and where the patent is a European patent with unitary effect in the 
-language of the defendant’s domicile  in a Member State of the EU or of the place of the alleged 
-infringement or threatened infringement in a Contracting Member State  if so requested by the defendant ; 
-(b) an explanation as to why the amendments satisfy the requirement s of Articles  84 and 123(2) , (3) EPC 
-and why the proposed amended claims are valid  and, if applicable, why they are  infringed ; and 
-(c) an indication whether the proposals are conditional or unconditional; the proposed amendments, if 
-conditional, must be reasonable in number in the circumstances of the case.  
-2. Any subsequent request to amend th e patent may only be admitted into the proceedings with the 
-permission of the Court.  
-3. Where other proceedings involving the patent subject to an Application to amend the patent  are 
-pending , the claimant shall notify the Court  or the authority  in question  that such an Application has 
-been made and provide the information required in paragraph  1(a).  
+(a) the proposed amendments of the claims of the patent concerned and/or specification, including where applicable and  appropriate one or more alternative sets of claims (auxiliary requests), in the language in which the patent was granted; where the language of the proceedings [Rule 14.3] is not the language in which the patent was granted, the proprietor shall lodge a t ranslation of the proposed amendments in the language of the proceedings, and where the patent is a European patent with unitary effect in the language of the defendant’s domicile  in a Member State of the EU or of the place of the alleged infringement or threatened infringement in a Contracting Member State  if so requested by the defendant ; 
+(b) an explanation as to why the amendments satisfy the requirement s of Articles  84 and 123(2) , (3) EPC and why the proposed amended claims are valid  and, if applicable, why they are  infringed ; and 
+(c) an indication whether the proposals are conditional or unconditional; the proposed amendments, if conditional, must be reasonable in number in the circumstances of the case.  
+2. Any subsequent request to amend th e patent may only be admitted into the proceedings with the permission of the Court.  
+3. Where other proceedings involving the patent subject to an Application to amend the patent  are pending , the claimant shall notify the Court  or the authority  in question  that such an Application has been made and provide the information required in paragraph 1(a).  
 
 ##### DEFENCE TO THE APPLICATION TO AMEND THE PATENT  
 
 ###### Rule 32 - Lodging of the Defence to the Application to amend the patent, the Reply to the Defence and the Rejoinder to the Reply  
 
-1. Within two month s of service of an Application to amend the patent , the defendant shall lodge a Defence to the Application to amend the patent setting out whether he opposes the Application to amend the patent and, if so, why : 
+1. Within two months of service of an Application to amend the patent, the defendant shall lodge a Defence to the Application to amend the patent setting out whether he opposes the Application to amend the patent and, if so, why : 
 
    (a) the proposed amendments are not allowable ; and  
 
    (b) the patent cannot be maintained as requested. 
 
-2. Where appropriate in view of the proposed amendments, the Defence to the Application to amend the patent may contain submissions in accordance with Rule 44(d) to (h) and alternative non -infringement submissions.   
+2. Where appropriate in view of the proposed amendments, the Defence to the Application to amend the patent may contain submissions in accordance with Rule 44(d) to (h) and alternative non-infringement submissions.   
 
-3. The proprietor may lodge a Reply to the Defence to the Application to amend the patent within one month of service of the Defence and the defendant may within one month  of the service of the Rep ly lodge a Rejoinder to the Reply.  The Rejoinder shall be limited to the matters raised in the Reply.  
+3. The proprietor may lodge a Reply to the Defence to the Application to amend the patent within one month of service of the Defence and the defendant may within one month  of the service of the Reply lodge a Rejoinder to the Reply.  The Rejoinder shall be limited to the matters raised in the Reply.  
 
 
 ##### APPLICATION FOR ALLOCATING A TECHNICALLY QUALIFIED JUDGE TO THE PANEL
@@ -634,13 +621,11 @@ been made and provide the information required in paragraph  1(a).
 3. If the requirements of paragraphs  1 and 2 have been complied with, the President of the Court of First Instance shall allocate a technically qualified judge to the panel, after consulting the judge-rapporteur.
 
 
-###### Rule 34 - Request by the judge-rapporteur for allocating a technic ally qualified judge
+###### Rule 34 - Request by the judge-rapporteur for allocating a technically qualified judge
 
 1. The judge-rapporteur may at any time during the written procedure, after consulting the presiding judge and the parties, request the President of the Court of First Instance to allocate a technically qualified judge to the panel.  
 
 2. Where a technically qualified judge is allocated to the panel, the judge-rapporteur may at any time consult the technically qualified judge. 
-
-
 
 ##### LAST STEPS IN THE WRITTEN PROCEDURE  
 
@@ -658,7 +643,7 @@ Following the exchange of written  pleadings in accordance with Rule 12.1 and, w
 Without prejudice to the powers of the judge-rapporteur pursuant to Rule 110.1, on a reasoned request by a party lodged before the date on which the judge-rapporteur intends to close the written procedure [Rule 35(a)], the judge-rapporteur may allow the ex change of further written pleadings, within a period to be specified. Where the exchange of further written pleadings is allowed, the written procedure shall be deemed closed upon expiry of the specified period. 
 
 
-###### Rule 37 - Application of Article 33(3) of t he Agreement
+###### Rule 37 - Application of Article 33(3) of the Agreement
 
 1. As soon as practicable after the closure of the written procedure the panel shall decide by way of order how to proceed with respect to the application of Article  33(3) of the Agreement.  The parties shall be given an opportunity to be heard  [Rule 264]. The panel shall set out in its order brief reasons for its decision.
 
@@ -672,10 +657,9 @@ Without prejudice to the powers of the judge-rapporteur pursuant to Rule 110.1, 
 
 ##### COUNTERCLAIM FOR REVOCAT ION REFERRED TO THE CENTRAL DIVISION UNDER ARTICLE 33(3)(B) OF THE AGREEMENT  
 
-
 ###### Rule 38 - Written procedure when the central division deals with a Counterclaim for revocation under Article  33(3)(b) of the Agreement
 
-When a Counterclaim for revocation is refe rred to the central division, it shall be dealt with as follows:  
+When a Counterclaim for revocation is referred to the central division, it shall be dealt with as follows:  
 
    (a) Rule 17.2 and .3  shall apply mutatis mutandis ; 
 
@@ -771,7 +755,7 @@ The claimant shall, subject to point (b), lodge a Statement for revocation at th
 
    (c) where applicable, an indication that the action sh all be heard by a single judge [Article  8(7) of the Agreement], accompanied by evidence of the defendant ’s agreement ; 
 
-   (d) an indication of the extent to which revocation of the patent is requested ; 
+   (d) an indication of the extent to which revocation of the patent is requested; 
 
    (e) one or more grounds for revocation, which shall as far  as possible be supported by arguments of law, and where appropriate an explanation of the claimant’s proposed claim construction;
 
@@ -812,7 +796,7 @@ Relation with Agreement: Articles 10 and 33
 
 ###### Rule 48 - Preliminary objection
 
-Rule 19.1 to .3 and .5 to .7 as well as Rules  20 and 21 shall apply mutatis mutandis . 
+Rule 19.1 to .3 and .5 to .7 as well as Rules 20 and 21 shall apply mutatis mutandis . 
 
 
 ##### DEFENCE TO REVOCATION  
@@ -821,14 +805,14 @@ Rule 19.1 to .3 and .5 to .7 as well as Rules  20 and 21 shall apply mutatis mut
 
 1. The defendant shall lodge a Defence to revocation within two months of service of the Statement for revocation.
    
-2. The Defence to revocation may include : 
+2. The Defence to revocation may include: 
 
-   (a) an Application to amend the patent ;  
+   (a) an Application to amend the patent;  
 
    (b) a Counterclaim for infringement.  
 
 
-###### Rule 50 - Contents of the Defence to revocation  and Counterclaim for infringement  
+###### Rule 50 - Contents of the Defence to revocation and Counterclaim for infringement  
 
 1. The Defence to revocation shall contain the matters referred to in Rule 24(a) to (c).  Rule 29A(a) to (d) and (f) shall apply mutatis mutandis.
 
@@ -844,14 +828,12 @@ Within two months of service of the Defence to revocation the claimant may lodge
 
 ###### Rule 52 - Rejoinder to the Reply  
 
-Within one month of the servic e of the Reply t he defendant may lodge a Rejoinder to the Reply to the Defence to revocation together with any Reply to the Defence to an Application to amend the patent  pursuant to Rule 43.3 and 55  as well as any Reply to the Defence to the Counterclaim f or infringement pursuant to Rule 56.3, if applicable . The Rejoinder shall be limited to a response to the matters raised in the Reply.
+Within one month of the service of the Reply the defendant may lodge a Rejoinder to the Reply to the Defence to revocation together with any Reply to the Defence to an Application to amend the patent  pursuant to Rule 43.3 and 55  as well as any Reply to the Defence to the Counterclaim f or infringement pursuant to Rule 56.3, if applicable . The Rejoinder shall be limited to a response to the matters raised in the Reply.
 
 
 ###### Rule 53 - Fee for the Counterclaim for infringement  
 
-The defendant shall pay the fixed fee and, where applicable,  the value based fee for the Counterclaim 
-for infringement in accordance with Part  6. Rule 15 and Rule 16.3 to 5 shall apply mutatis mutandis . 
-
+The defendant shall pay the fixed fee and, where applicable,  the value based fee for the Counterclaim for infringement in accordance with Part  6. Rule 15 and Rule 16.3 to 5 shall apply mutatis mutandis . 
 
 ###### Rule 54 - Examination as to formal requirements and further schedule  
 
@@ -867,7 +849,7 @@ Rule 32 shall apply mutatis mutandis.
 
 ###### Rule 56 - Lodging of the Defence to the Counterclaim for infringement  
 
-1. Within two month s of service of a Counterclaim for infringement, the claimant shall lodge a Defence to the Counterclaim for infringement.   
+1. Within two months of service of a Counterclaim for infringement, the claimant shall lodge a Defence to the Counterclaim for infringement.   
 
 2. The Defence to the Counterclaim  for infringement  shall contain the matters referred to in Rule 24.1(e) to (h) and (j) and a stateme nt whether the claimant disputes the defendant’s assessment of the value of the Counterclaim pursuant to Rule 50.3 and the reasons for such dispute.  
 
@@ -885,15 +867,15 @@ Rules 33 and 34 shall apply mutatis mutandis .
 
 Rules 35 and 36 shall apply mutatis mutandis . 
 
-###### Rule 60 - Determination of the v alue-based fee for the Counterclaim for infringement  
+###### Rule 60 - Determination of the value-based fee for the Counterclaim for infringement  
 
 1. The value of the Counterclaim for infringement shall be determined by the judge-rapporteur  under Rule 370.6 , taking into account the  value as assessed by the parties , by way of an order during the interim procedure . 
 2. Where the value of the Counterclaim for infringement exceeds EUR  500.000 , the defendant shall pay a value -based fee in accordance with Part  6. Rule 16.3 to .5 shall apply mutatis mutandis.  
 
 
-### SECTION  3 - ACTION FOR DECLARATION OF NON -INFRINGEMENT
+### SECTION  3 - ACTION FOR DECLARATION OF NON-INFRINGEMENT
 
-###### Rule 61 - Declaration of non -infringement
+###### Rule 61 - Declaration of non-infringement
 
 1. A declaration that the performance of a specific act does not, or a  proposed act would not, constitute an infringement of a patent may be made by the Court in proceedings between the person doing or proposing to do the act and the patent proprietor or licensee entitled to commence infringement proceedings pursuant to Arti cle 47 of the Agreement, if the patent proprietor or such licensee has asserted that the act is an infringement, or, if no such assertion has been made by the patent proprietor or licensee, if: 
 
@@ -906,7 +888,7 @@ Rules 35 and 36 shall apply mutatis mutandis .
 3. If the action for a declaration of  non-infringement is directed against the proprietor of the patent in accordance with Rule 8.6 (“the registered proprietor ”) but the registered proprietor is not a proprietor within the meaning of Rule 8.5(a) or (b)  (“the Rule 8.5 proprietor”) each such registered proprietor shall  as soon as possible after service of the Statement for a declaration of non -infringement apply to the Court pursuant to Rule 305.1(c) for the substitution of the  registered proprietor by th e Rule 8.5 proprietor.
 
  
-###### Rule 62 - Exchange of written pleadings (action for declaration of non -infringement)  
+###### Rule 62 - Exchange of written pleadings (action for declaration of non-infringement)  
 
 1. The written procedure shall consist of:  
 
@@ -921,7 +903,7 @@ Rules 35 and 36 shall apply mutatis mutandis .
 2. Rule 12.5 shall apply.
 
 
-###### Rule 63 - Contents of the Statement for a declaration of non -infringement
+###### Rule 63 - Contents of the Statement for a declaration of non-infringement
 
 The claimant shall, subject to point (b), lodge at the Registry in accordance with Article  33(4), Article 7(2) of the Agreement and Annex  II thereto, a Statement for a declaration of non -infringement which shall contain:
 
@@ -962,35 +944,34 @@ Rules  16 to 18 shall apply mutatis mutandis .
 Rule 19.1 to .3 and .5 to .7 as well as Rules  20 and  21 shall apply mutatis mutandis .
 
 
-###### Rule 67 - Lodging of the Defence to the Statement for a declaration of non -infringement  
+###### Rule 67 - Lodging of the Defence to the Statement for a declaration of non-infringement  
 
-The defendant shall lodge a Defence to the Statement for a declaration of non -infringement within two months of service of the Stateme nt for a declaration of non -infringement.
+The defendant shall lodge a Defence to the Statement for a declaration of non -infringement within two months of service of the Statement for a declaration of non -infringement.
 
 
 ###### Rule 68 - Contents of the Defence to the Statement for a declaration of non-infringement  
 
-The Defence to the Statement for a declaration of non -infringement shall contain the matters referred to in Rule 24(a) to ( j). Rule 13.2 and .3 shall apply mutatis mutandis . 
+The Defence to the Statement for a declaration of non -infringement shall contain the matters referred to in Rule 24(a) to ( j). Rule 13.2 and .3 shall apply mutatis mutandis. 
 
 
 ###### Rule 69 - Reply to Defence to the Statement for a declaration of non -infringement and Rejoinder to the Reply  
 
-1. The claimant may lodge a Reply to the Defence to the Statement for a declaration of non -infringement 
-within one month.  
+1. The claimant may lodge a Reply to the Defence to the Statement for a declaration of non-infringement within one month.  
 
 2. The defendant may lodge a Rejoinder to the Reply within one month of service of the Reply.  The Rejoinder shall be limited to the matters raised in the Reply.  
 
 
-###### Rule 70 - Fee for the action for a declaration of non -infringement 
+###### Rule 70 - Fee for the action for a declaration of non-infringement 
 
 The claimant shall pay the fixed fee and, where applicable,  the value based fee for the action for a declaration of non-infringement in accordance with Part  6. Rule 15.2 and Rule 16.3 to .5 shall apply mutatis mutandis . 
 
 
-###### Rule 71 - Examination as to formal req uirements and further schedule  
+###### Rule 71 - Examination as to formal requirements and further schedule  
 
 Rules 27 and 28 shall apply mutatis mutandis . 
 
 
-###### Rule 72 - Request for allocating a te chnically qualified judge  
+###### Rule 72 - Request for allocating a technically qualified judge  
 
 Rules 33 and 34 shall apply mutatis mutandis . 
 
@@ -1000,7 +981,7 @@ Rules 33 and 34 shall apply mutatis mutandis .
 Rules 35 and 36 shall apply mutatis mutandis .  
 
 
-###### Rule 74 - Value -based fee for the action for a declaration of non -infringement  
+###### Rule 74 - Value-based fee for the action for a declaration of non-infringement  
 
 1. The value of the action for a declaration of non -infringement shall be determined by the judge-rapporteur  under Rule 370.6 , taking into account  the value as assessed by the parties , by way of an order during the interim procedure .  
 
@@ -1011,9 +992,9 @@ Rules 35 and 36 shall apply mutatis mutandis .
 
 ###### Rule 75 - Revocation action and subsequent infringement action in a local or regional division (Article 33(5) of the Agreement)
 
-1. Where a claimant has lodged a Statement for revocation [Rule 44] before the cen tral division and the defendant or a licensee entitled to commence proceedings pursuant to Article  47 of the Agreement subsequently initiates an infringement action in a local or regional division against the claimant in respect of the same patent the foll owing procedures shall apply.  
+1. Where a claimant has lodged a Statement for revocation [Rule 44] before the central division and the defendant or a licensee entitled to commence proceedings pursuant to Article  47 of the Agreement subsequently initiates an infringement action in a local or regional division against the claimant in respect of the same patent the following procedures shall apply.  
 
-2. The Registry at the local or regional division shall proceed in accordance with Rules  16 and 17. The Registry shall as soon as practicable notify the President of the Court of First Instance  of the revocation action in the central division, the infringement action in the local or regional division and any Counterclaim for revocation in the infringement action.  The presiding judges of the panels seized shall be informed likewise about actions in the other divisions.  
+2. The Registry at the local or regional division shall proceed in accordance with Rules 16 and 17. The Registry shall as soon as practicable notify the President of the Court of First Instance  of the revocation action in the central division, the infringement action in the local or regional division and any Counterclaim for revocation in the infringement action.  The presiding judges of the panels seized shall be informed likewise about actions in the other divisions.  
 
 3. Where a Counterclaim for revocation is brought in the infringement action and there is identity of parties as between the two actions, u nless otherwise agreed by the parties , the panel appointed in the central division to hear the revocation action shall  stay all further proceedings in the revocation action pending a decision of the panel hearing the action for infringement pursuant to Article  33(3) of the Agreement and Rule 37. 
 
@@ -1021,10 +1002,10 @@ Rules 35 and 36 shall apply mutatis mutandis .
 
 5. Where the panel hearing the action for infringement decides to proceed in accordance with Article  33(3)(a) of the Agreement, Rules  33 and 34 shall apply mutatis mutandis  to the action for infringement.  
 
-6. Where the panel hearing the action for infringement decides to proceed in accordance with Article  33(3)(b) or (c) of the Agreement, Rules  37.4 and 39 to 41 shall apply mutatis mutandis .
+6. Where the panel hearing the action for infringement decides to proceed in accordance with Article  33(3)(b) or (c) of the Agreement, Rules  37.4 and 39 to 41 shall apply mutatis mutandis.
 
 
-###### Rule 76 - Actions for declaration of non -infringement within Article  33(6) of the Agreement
+###### Rule 76 - Actions for declaration of non-infringement within Article  33(6) of the Agreement
 
 1. Where a claimant has lodged an action for declaration of non -infringement (Rule 61) before the central division against the patent proprietor or a licensee entitled to commence infringement proceedings pursuant to Article  47 of the Agreement and the defendant proprietor or licensee subsequently initiates an action for infringement in a lo cal or regional division against the claimant in respect of the same patent and with respect to the same alleged infringement the following procedure shall apply.   
 
@@ -1033,9 +1014,9 @@ Rules 35 and 36 shall apply mutatis mutandis .
 3. If the date attributed by the Registry to the action for infringement pursuant to Rule 17.1(a) is within three months of the date attributed to the action for declaration of non -infringement the panel of the central division shall  stay all further proceedings in the action for a declaration.  If the date attributed to the action for infringement is outside the said three month period there shall be no stay but the presiding judges of the central division and the local or regional di vision concerned shall consult to agree on the future progress of proceedings including the possibility of a stay of one action pursuant to Rule 295(f) . 
 
 
-###### Rule 77 - Action for declaration of non -infringement and action for revocation  
+###### Rule 77 - Action for declaration of non-infringement and action for revocation  
 
-An action for declaratio n of non -infringement may be lodged together with an action for revocation of the patent in question.  Fees shall be paid in accordance with both Rules  46 and Rules  70 and 74. 
+An action for declaration of non-infringement may be lodged together with an action for revocation of the patent in question.  Fees shall be paid in accordance with both Rules  46 and Rules  70 and 74. 
 
 
 ### SECTION  5 - ACTION FOR COMPENSATION FOR LICENCES ON THE BASIS OF ARTICLE  8 OF REGULATION (EU) N o 1257 /2012  
@@ -1106,7 +1087,7 @@ An action against a decision of the Office may be brought on grounds of :
 Relation with Agreement: Articles 32(1)(i), 33(9), 47(7), 48(7) and 49(6)  
 
 
-###### Rule 89 - Examination as to formal requirements ( ex parte  proceedings)  
+###### Rule 89 - Examination as to formal requirements (ex parte  proceedings)  
 
 1. The Registry shall, as soon as practicable after an Application to annul or alter a decision of the Office has been lodged, examine whether the requirements of Articles  47(7) and 49(6) of the Agreement and Rule 88.1, .2(a) to (d) and .3 have been complied with.  
 
@@ -1225,13 +1206,13 @@ Relation with Agreement: Articles 43 and 52(2)
 
 ###### Rule 104 - Aim of the interim conference  
 
-The interim conference shall enable the judge-rapporteur to : 
+The interim conference shall enable the judge-rapporteur to: 
 
    (a) identify main issues and determine which relevant facts are in dispute ;  
 
    (b) where appropriate, clarify the position of the parties as regards those issues and facts ; 
 
-   (c) establish a schedule for the furt her progress of the proceedings ; 
+   (c) establish a schedule for the further progress of the proceedings ; 
 
    (d) explore with the parties the possibilities to settle the dispute or to make use of the facilities of the Centre ;
 
@@ -1287,11 +1268,11 @@ The judge-rapporteur shall summon the parties to the oral hearing which shall ta
 
 2. The judge-rapporteur shall decide whether and to what extent simultaneous interpretation is appropriate and shall instruct the Registry to make all necessary arrangements for simultaneous interpretation.  In the event that the judge-rapporteur refuses to order simultaneous interpretation the parties may request arran gements to be made, so far as practically possible, for simultaneous interpretation at their cost.  
 
-3. The judge-rapporteur may decide o f his own motion to order simultaneous interpretation and shall instruct the Registry and inform the parties accordingly .  
+3. The judge-rapporteur may decide o f his own motion to order simultaneous interpretation and shall instruct the Registry and inform the parties accordingly. 
 
 4. A party wishing to engage an interpreter at its own expense shall inform the Registry at the latest two weeks before the oral hearing.  
 
-5. Costs for simultaneous interpretation are costs of the proceedings to be decided upon under Rule 150 except where a party enga ges an interpreter at it s own expense under paragraph  4; these costs are borne solely by that  party . 
+5. Costs for simultaneous interpretation are costs of the proceedings to be decided upon under Rule 150 except where a party enga ges an interpreter at it s own expense under paragraph  4; these costs are borne solely by that  party. 
 
 Relation with Agreement: Article 51(2)  
 
@@ -1407,11 +1388,11 @@ Relation with Agreement: Article 77
 The Court may order an interim award of damages to the successful party in the decision on the merits, subject to any conditions that the Court may order. Such award shall at least cover the expected costs of he procedure for the award of damages and compensation on the part of the successful party.   
 
 
-### CHAPTER  4 - PROCEDURE FOR THE DETERMINATION OF D AMAGES  AND COMPENSATION 
+### CHAPTER  4 - PROCEDURE FOR THE DETERMINATION OF DAMAGES  AND COMPENSATION 
 
-###### Rule 125 - Separate proceedings for determining the amount of damages  ordered 
+###### Rule 125 - Separate proceedings for determining the amount of damages ordered 
 
-The determination of the amount of damages ordered for the successful party may be the subject of separate proceedings.  The determination shall include th e determination of the amount of compensation, if any, to be awarded as a result of the provisional protection conferred by a published European patent application [Article  32(1)(f) of the Agreement, Article  67 EPC ] and compensation to be paid pursuant to Rules  118.1, 198.2, 213.2 and 354. 2. The expression “damages” used in Chapter 4 shall be deemed to include such compensation and interest at the rate and for the period that the Court shall decide.
+The determination of the amount of damages ordered for the successful party may be the subject of separate proceedings.  The determination shall include the determination of the amount of compensation, if any, to be awarded as a result of the provisional protection conferred by a published European patent application [Article  32(1)(f) of the Agreement, Article  67 EPC ] and compensation to be paid pursuant to Rules  118.1, 198.2, 213.2 and 354. 2. The expression “damages” used in Chapter 4 shall be deemed to include such compensation and interest at the rate and for the period that the Court shall decide.
 
 
 ###### Rule 126 - Start of proceedings for the determination of damages
@@ -1473,7 +1454,7 @@ determination of damages in accordance with Part  6.
 
 ###### Rule 136 - Stay of the Application for a determination of damages  
 
-The Court may stay the Application for a determination of damages pending any appeal on the merits pursuant to Rule 295(h)  on a reasoned request by the unsuccessful party. The applicant shall be given the opportunity to be heard. If the Court continues the  proceedings on the Application , it may order the applicant to render a security according to Rule 352. 
+The Court may stay the Application for a determination of damages pending any appeal on the merits pursuant to Rule 295(h) on a reasoned request by the unsuccessful party. The applicant shall be given the opportunity to be heard. If the Court continues the  proceedings on the Application , it may order the applicant to render a security according to Rule 352. 
 
 
 ###### Rule 137 - Reply of the unsuccessful party  
@@ -1516,7 +1497,7 @@ The applicant may within one month lodge a Reply to the Defence to the Applicati
 
 ###### Rule 141 - Contents of the Request to lay open books  
 
-If the applicant has made a request pursuant to Rule 131.1(c), Rules  134 to 136 shall apply mutatis mutandis . The Request shall contain : 
+If the applicant has made a request pursuant to Rule 131.1(c), Rules  134 to 136 shall apply mutatis mutandis. The Request shall contain : 
 
    (a) particulars in accordance with Rule 131.1(a) and (b) ; 
 
@@ -1531,7 +1512,7 @@ If the applicant has made a request pursuant to Rule 131.1(c), Rules  134 to 136
    (f) the evidence offered in support.  
 
 
-###### Rule 142 - Defence of the unsuccessful party , Reply to the Defence and Rejoinder to the Reply  
+###### Rule 142 - Defence of the unsuccessful party, Reply to the Defence and Rejoinder to the Reply  
 
 1. If the unsuccessful party accepts the Request to lay open books, it shall within two months of service of the Request to lay open books inform the Registry. The judge-rapporteur shall make the order to lay open books in accordance with the Request to lay open books.  
 
@@ -1551,7 +1532,7 @@ Rule 140 shall apply mutatis mutandis .
 	- (a) order the unsuccessful party to open its books to the applicant within a time period to be specified and subject to such terms as the Court may deem appropriate having regard inter alia  to Article  58 of the Agreement and Rule 190.1  and .4 ;  
 	- (b) inform the applicant and specify a time period within which the procedure for the award of damages shall be continued.  
 
-2. Where the Request to lay open books is not allowable, the Court shall inform the applicant and specify a time period within which the procedure f or the award of damages shall be continued [Rule 131.2] .  
+2. Where the Request to lay open books is not allowable, the Court shall inform the applicant and specify a time period within which the procedure for the award of damages shall be continued [Rule 131.2] .  
 
 
 ### CHAPTER  5 - PROCEDURE FOR COST DECISION  
@@ -1623,7 +1604,7 @@ Relation with Agreement: Article 69
 
 ### CHAPTER  6 - SECURITY FOR COSTS 
 
-###### Rule 158 - Security for costs  of a party  
+###### Rule 158 - Security for costs of a party  
 
 1. At any time during proceedings, following a reasoned request by one party , the Court may order the other party  to provide , within a specified time period,  adequate security for the legal costs and other expenses incurred and/or to be incurred by the requesting party,  which the other party  may be liable to bear.  Where the Court decides to order  such security, it shall decide whether it is appropriate to order the security by deposit or bank guarantee.  
 
@@ -1905,7 +1886,7 @@ Relation with Agreement: Article  60
 
 ###### Rule 193 - Examination as to formal requirements, recording in the register, assignment to panel, designation of judge-rapporteur, single judge 
 
-1. Where main proceedings on the merits of the case have not yet been started before the Court, the Application for preserving evidence shall be dealt with in accordance with  Rule 16 (formalities examination by Registry), Rul e 17.1(a) to (c) and .2 (date of receipt, recording in the register, action number, assignment to panel) and Rule 18 (designation only of judge-rapporteur by presiding judge).  
+1. Where main proceedings on the merits of the case have not yet been started before the Court, the Application for preserving evidence shall be dealt within accordance with  Rule 16 (formalities examination by Registry), Rul e 17.1(a) to (c) and .2 (date of receipt, recording in the register, action number, assignment to panel) and Rule 18 (designation only of judge-rapporteur by presiding judge).  
 
 2. Where main proceedings on the merits of the case have already been started before the Court, an Application for preserving evidence shall immediately be examined by the Registry in accordance with Rule 16 and forwarded to the panel to which the action has been assigned or to the judge to whom the action has been assigned  [Rules  17.2, 194.3 and .4].  
 
@@ -2082,18 +2063,15 @@ Provisional measures are treated by way of s ummary proceedings which shall cons
 
 ###### Rule 207 - Protective letter 
 
-1. If a person entitled to start proceedings un der Article  47 of the Agreement considers it likely that an Application for provisional measures against him as a defendant may be lodged before the Court in the near future, he may file a Protective letter.  
+1. If a person entitled to start proceedings under Article  47 of the Agreement considers it likely that an Application for provisional measures against him as a defendant may be lodged before the Court in the near future, he may file a Protective letter.  
 
 2. The Protective letter shall be filed with the  Registry in the language of the patent and shall contain : 
 	- (a) the name of the defendant or defendants filing the Protective letter and of the defendant’s representative; 
-	- (b) the name of the presumed applicant  for provisional measures; 
-	- (c) postal and electronic addresses for service on the defendant filing the Protective letter and the names 
-	- of the persons authorised to accept service ; 
-	- (d) postal and, where available, electronic addresses for service on the presumed applicant  for 
-	- provisional measures and the names of the persons authorised to accept service if known ; 
-	- (e) where available, the number of the patent concerned and, where applicable, information about any 
-	- prior or pending proceedings referred to in Rule 13.1(h) ; and  
-	- (f) the statemen t that the letter is a Protective letter.  
+	- (b) the name of the presumed applicant for provisional measures; 
+	- (c) postal and electronic addresses for service on the defendant filing the Protective letter and the names of the persons authorised to accept service ; 
+	- (d) postal and, where available, electronic addresses for service on the presumed applicant  for provisional measures and the names of the persons authorised to accept service if known ; 
+	- (e) where available, the number of the patent concerned and, where applicable, information about any prior or pending proceedings referred to in Rule 13.1(h) ; and  
+	- (f) the statement that the letter is a Protective letter.  
 
 3. The Protective letter may contain : 
 	- (a) an indication of the facts relied on, which may include a challenge to the facts expected to be relied on by the presumed applicant  and/or, where applicable, any assertion that the patent is invalid and the grounds for such assertion ; 
@@ -2997,7 +2975,7 @@ The Court may of its own motion or at the request of a party request that opposi
 
 ###### Rule 300 - Calculation of periods  
 
-Any period of time prescribed by the Agreement, the Statute, these Rules or any ord er of the Court for the taking of any procedural step shall be laid down in terms of full days, weeks, months or years and shall be reckoned as follows:  
+Any period of time prescribed by the Agreement, the Statute, these Rules or any order of the Court for the taking of any procedural step shall be laid down in terms of full days, weeks, months or years and shall be reckoned as follows:  
 
    (a) computation shall start on the day following the day on which the relevant event occurred; in the case of service of a document, the relevant event shall be the receipt of that document in accordance with Part 5, Chapter 2;
 
@@ -3005,21 +2983,21 @@ Any period of time prescribed by the Agreement, the Statute, these Rules or any 
 
    (c) when a period is expressed as one month or a certain number of months, it shall expire in the relevant subsequent month on the day which has the same number as the day on which the said event occurred. If the relevant subsequent month has no day with the same n umber, the period shall expire on the last day of that month;  
 
-   (d) when a period is expressed as one week or a certain number of weeks, it shall expire in the relevant subsequent week on the day having the same name as the day on which the said event occurr ed; 
+   (d) when a period is expressed as one week or a certain number of weeks, it shall expire in the relevant subsequent week on the day having the same name as the day on which the said event occurred; 
 
    (e) day shall mean a calendar day unless expressed as a working day; 
 
-   (f) calendar days shall include official holidays of the Contracting Member State in which the division or the seat of the central division  or its section  concerned or the Court of Ap peal is located, Saturdays  and Sundays ; 
+   (f) calendar days shall include official holidays of the Contracting Member State in which the division or the seat of the central division or its section concerned or the Court of Appeal is located, Saturdays and Sundays; 
 
-   (g) working days shall not include official holidays of the Contracting Member State in which the division or the seat of the central division or its section concerned or the Court of Appeal is located, Saturdays and  Sundays ; 
+   (g) working days shall not include official holidays of the Contracting Member State in which the division or the seat of the central division or its section concerned or the Court of Appeal is located, Saturdays and Sundays; 
 
    (h) periods shall not be suspended during the judicial vacations.
 
 ###### Rule 301 - Automatic extension of periods  
 
-1. If a period expires on a Saturday, Sunday or official holiday of the Contracting Member State in which the division or the seat of the central division  or its section  concerned or the Court of Appeal is located, it shall be extended until the end of the fi rst following working day.  
+1. If a period expires on a Saturday, Sunday or official holiday of the Contracting Member State in which the division or the seat of the central division or its section concerned or the Court of Appeal is located, it shall be extended until the end of the first following working day.  
 
-2. Paragraph  1 shall apply mutatis mutandis  if documents filed in electronic form cannot be received by the Court. 
+2. Paragraph 1 shall apply mutatis mutandis if documents filed in electronic form cannot be received by the Court. 
 
 
 ### CHAPTER  6 - PARTIES TO PROCEEDINGS  
