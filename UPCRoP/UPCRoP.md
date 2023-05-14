@@ -140,15 +140,15 @@ Where these Rules refer to the Registry or Registrar and provide to  perform any
 
 4. Rule 8 shall not apply to Applications to opt out and to Applications to withdraw made pursuant to this Rule 5.
 
-5.  The Registrar shall as soon as practicable enter the Application to opt out in the register.  Subject to  paragraph  6, the opt -out which meets the requirements laid down in this Rule shall be regarded as effective from the date of entry in the register.  If the requirements recorded in the register are missing or incorrect, a correction may be lodged with the Registry. The date of entry of the correction shall be noted in the register. The opt-out shall be effective from the date of correction.
+5.  The Registrar shall as soon as practicable enter the Application to opt out in the register.  Subject to  paragraph  6, the opt-out which meets the requirements laid down in this Rule shall be regarded as effective from the date of entry in the register.  If the requirements recorded in the register are missing or incorrect, a correction may be lodged with the Registry. The date of entry of the correction shall be noted in the register. The opt-out shall be effective from the date of correction.
 
-6. In the event that an action has been commenced before the Court in respect of a patent and/or an application co ntained in an Application to opt out prior to the date of entry of the Application  to opt out  in the register  or prior to the date of correction pursuant to paragraph  5, the Application to opt out shall be ineffective in respect of the patent and/or applic ation in question , irrespective of whether the action is pending or has been concluded .
+6. In the event that an action has been commenced before the Court in respect of a patent and/or an application contained in an Application to opt out prior to the date of entry of the Application  to opt out in the register or prior to the date of correction pursuant to paragraph  5, the Application to opt out shall be ineffective in respect of the patent and/or application in question , irrespective of whether the action is pending or has been concluded .
 
-7. A proprietor of a patent or an application the subject of an opt -out pursuant to this Rule may lodge an Application to withdraw in respect of the patent or applicati on, but not in respect of different states for  which the European patent has been granted or which have been designated in the application . The Application  to withdraw  shall contain the particulars in accordance with paragraph  3. The Registrar shall as soon as practicable enter the Application to withdraw in the register and the withdrawal shall be regarded as effective from the date of entry in the register. Paragraph s 1(a) and 5 shall apply mutatis mutandis .
+7. A proprietor of a patent or an application the subject of an opt-out pursuant to this Rule may lodge an Application to withdraw in respect of the patent or application, but not in respect of different states for which the European patent has been granted or which have been designated in the application . The Application  to withdraw  shall contain the particulars in accordance with paragraph  3. The Registrar shall as soon as practicable enter the Application to withdraw in the register and the withdrawal shall be regarded as effective from the date of entry in the register. Paragraphs 1(a) and 5 shall apply mutatis mutandis .
 
-8. In the event that an action has been comm enced before a court of a Contracting Member State  in a matter over which the Court also has jurisdiction pursuant to Article  32 of the Agreement  in respect of a patent or application contained in an Application to withdraw, prior to the entry  of the Appli cation to withdraw  in the register  or any time before the date pursuant to paragraph  5, the Application to withdraw shall be ineffective in respect of the patent or application in question , irrespective of whether the action is pending or has been concluded. 
+8. In the event that an action has been commenced before a court of a Contracting Member State  in a matter over which the Court also has jurisdiction pursuant to Article 32 of the Agreement in respect of a patent or application contained in an Application to withdraw, prior to the entry  of the Application to withdraw  in the register or any time before the date pursuant to paragraph 5, the Application to withdraw shall be ineffective in respect of the patent or application in question , irrespective of whether the action is pending or has been concluded. 
 
-9. Where an application for a European patent subject to an opt -out pursuant to this Rule proceeds to grant  as a European patent with unitary effect  the opt -out shall be deemed to have been  withdrawn  and the Registrar shall as soon as practicable enter the withdrawal in the register .  
+9. Where an application for a European patent subject to an opt-out pursuant to this Rule proceeds to grant  as a European patent with unitary effect  the opt -out shall be deemed to have been  withdrawn  and the Registrar shall as soon as practicable enter the withdrawal in the register .  
   
 10. A patent or application the subject of an Application to withdraw which has been entered on the register may not thereafter be the subject of a further Application to opt out.
 
@@ -165,7 +165,7 @@ Relation with Agreement: Article 83(3) and (4)
 
 2. The Registrar shall mark the status of the Application to opt out or withdraw the opt -out entered in the register as subject to an Application for removal. The R egistrar shall decide on the Application for removal as soon as practicable. If the final decision is to remove the Application to opt out or withdrawal of an opt -out the Registrar shall delete it in the register.
 
-3. The decision on the Application for rem oval may be subject to an Application for review to the President of the Court of Appeal. The Application for review shall be lodged with the Registrar in one of the official languages of the European Patent Office, within one month of the notification of the challenged decision setting out the request, facts, evidence and arguments. If the Application for review is allowable, the President of the Court of Appeal shall order the Registrar to remove the opt-out or the withdrawal of the opt-out.
+3. The decision on the Application for removal may be subject to an Application for review to the President of the Court of Appeal. The Application for review shall be lodged with the Registrar in one of the official languages of the European Patent Office, within one month of the notification of the challenged decision setting out the request, facts, evidence and arguments. If the Application for review is allowable, the President of the Court of Appeal shall order the Registrar to remove the opt-out or the withdrawal of the opt-out.
 
 
 ###### Rule 6 - Service and supply of orders, decisions, written pleadings and other documents  
@@ -176,7 +176,7 @@ Relation with Agreement: Article 83(3) and (4)
 
 Where applicable, the Registry shall inform the parties of the opportunity to reply or to take any other appropriate step in the proceedings and of any time period for so doing. 
 
-2. The Registry shall als o as soon as practicable supply to the parties copies of documents referred to in these Rules and lodged with pleadings and written evidence.  
+2. The Registry shall also as soon as practicable supply to the parties copies of documents referred to in these Rules and lodged with pleadings and written evidence.  
 
 3. Where the postal or electronic address for service provided by a party pursuant to these Rules has changed that  party shall give notice to the Registry and to every other party as soon as such change has taken place.   
 
@@ -313,21 +313,21 @@ Relation with Agreement: Articles 35, 52(2) and 79
 
    (k) the nature of the claim, the order or the remedy sought by the claimant;
 
-   (l) an indi cation of the facts relied on, in particular: 
+   (l) an indication of the facts relied on, in particular: 
 
    (i) one or more instances of alleged infringements or threatened infringements specifying the date and place of each;
 
    (ii) the identification of the patent claims alleged to be infringed;
 
-   (m) the evidence relie d on [Rule 170.1], where available, and an indication of any further evidence which will be offered in support; 
+   (m) the evidence relied on [Rule 170.1], where available, and an indication of any further evidence which will be offered in support; 
 
-   (n) the reasons why the facts relied on constitute  an infringement of the patent claims, including arguments of law and where appropriate an ex planation of the proposed claim interpretation;
+   (n) the reasons why the facts relied on constitute an infringement of the patent claims, including arguments of law and where appropriate an ex planation of the proposed claim interpretation;
 
    (o) an indication of any order the claimant will seek during the interim procedure [Rule 104(e)];
 
    (p) where the claimant assesses that the value of the infringement action exceeds EUR 500.000 , an indication of the value;and  
 
-   (q) a list of the documents, including any witness statements, referred to in the Statement of  claim, together with any request that all or part of any such document need not be translated  and/or any request pursuant to Rule 26 2.2 or Rule 262A. 
+   (q) a list of the documents, including any witness statements, referred to in the Statement of  claim, together with any request that all or part of any such document need not be translated  and/or any request pursuant to Rule 262.2 or Rule 262A. 
 	
 2. The claimant shall at the same time supply a copy of each of the documents referred to in the Statement of claim.   
 
@@ -374,7 +374,7 @@ Relation with Agreement: Articles 36(3), 70 and 71
    - (a) correct the deficiencies within 14 days  of service of such notification;and  
    - (b) where applicable, pay the fee for the infringement action within  said 14 days.
 
-4. The Registry shall at the same time inform the claimant that if the claimant fails to correct the deficiencies  or pay the fee  within the time stated , a decision by default may be given, in accordance with Rule 355. 
+4. The Registry shall at the same time inform the claimant that if the claimant fails to correct the deficiencies or pay the fee within the time stated , a decision by default may be given, in accordance with Rule 355. 
 
 5. If the claimant fails to correct the deficie ncies or pay the fee , the Registry shall inform a judge of the division who may reject the action as inadmissible by a decision by default. The judge may give the claimant an opportunity to be heard beforehand. 
 
@@ -482,7 +482,6 @@ The defendant shall lodge a Statement of defence within three months of service 
 
 The Statement of defence shall contain:  
 
-
    (a) the names of the defendant and of the defendant ’s representative; 
 
    (b) postal and electronic addresses for service on the defendant and the names and addresses of the persons authorised to accept service; 
@@ -560,18 +559,17 @@ As soon as practicable after service of the Statement of defence, the judge-rapp
 
 ###### Rule 29 - Lodging  of Defence to the Counterclaim for revocation, Reply to the Statement of defence and Rejoinder to the Reply  
 
-
    (a) Within two months of service of a Statement of defence which includes a Counterclaim for revocation, the claimant shall lodge a Defence to the Counterclaim for revocation  together with a ny Reply to the Statement of defence and any Application to amend the patent pursuant t o Rule 30, if applicable .  
 
    (b) Within two months of service of a Statement of defence which does not include a Counterclaim for revocation, the claimant may lodge a Reply to the Statement of defence.  
 
    (c) Within one month of service of a Reply to the Statement of defence which does not include a Counterc laim for revocation the defendant may lodge a Rejoinder to the Reply to the Statement of defence.  The Rejoinder to the Reply to the Statement of defence shall be limited to a response to the matters raised in the Reply to the Statement of defence.  
 
-   (d) With in two month s of service of the Defence to Counterclaim the defendant may lodge a Reply to the Defence to the Counterclaim together with  any Rejoinder to the Reply to the Statement of defence and any Defence to an Application to amend the patent pursuant t o Rule 32, if applicable.  
+   (d) With in two months of service of the Defence to Counterclaim the defendant may lodge a Reply to the Defence to the Counterclaim together with  any Rejoinder to the Reply to the Statement of defence and any Defence to an Application to amend the patent pursuant t o Rule 32, if applicable.  
 
    (e) Within one month of the service of the Reply to the Defence to the Counterclaim, the claimant  may lodge a Rejoinder to the Reply together with any Reply to the Defence to an Application to amend the patent pursuant to Rule 32, if applicable. The Rejoinder to the Reply to the Statement of defence shall be limited to a response to the matters raised in the Reply to the Statement of defence . 
 
-   (f) Where the claimant is n ot the proprietor of the patent , all references to the claimant in this Rule 29 regarding an Application to amend the patent shall be read as including  the proprietor.  
+   (f) Where the claimant is not the proprietor of the patent, all references to the claimant in this Rule 29 regarding an Application to amend the patent shall be read as including the proprietor.  
 
 
 ###### Rule 29A - Contents  of the Defence to the Counterclaim  
@@ -821,7 +819,8 @@ Rule 19.1 to .3 and .5 to .7 as well as Rules  20 and 21 shall apply mutatis mut
 
 ###### Rule 49 - Lodging of the Defence to revocation  
 
-1. The defendant shall lodge a Defence to revocation within two months of service of the Statement for revocation.  
+1. The defendant shall lodge a Defence to revocation within two months of service of the Statement for revocation.
+   
 2. The Defence to revocation may include : 
 
    (a) an Application to amend the patent ;  
@@ -840,7 +839,7 @@ Rule 19.1 to .3 and .5 to .7 as well as Rules  20 and 21 shall apply mutatis mut
 
 ###### Rule 51 - Reply to Defence to revocation  
 
-Within two months of service of the Defence to revocation t he claimant may lodge a Reply to the Defence to revocation  together with any Defence to an Application to amend the patent  pursuant to Rule 43.3 and 55 as well as any Defence to the Counterclaim for infringement pursuant to Rule 56.1, if applicable.
+Within two months of service of the Defence to revocation the claimant may lodge a Reply to the Defence to revocation  together with any Defence to an Application to amend the patent  pursuant to Rule 43.3 and 55 as well as any Defence to the Counterclaim for infringement pursuant to Rule 56.1, if applicable.
 
 
 ###### Rule 52 - Rejoinder to the Reply  
@@ -965,11 +964,10 @@ Rule 19.1 to .3 and .5 to .7 as well as Rules  20 and  21 shall apply mutatis mu
 
 ###### Rule 67 - Lodging of the Defence to the Statement for a declaration of non -infringement  
 
-The defendant shall lodge a Defence to the Statement for a declaration of non -infringement within two 
-months of service of the Stateme nt for a declaration of non -infringement.
+The defendant shall lodge a Defence to the Statement for a declaration of non -infringement within two months of service of the Stateme nt for a declaration of non -infringement.
 
 
-###### Rule 68 - Contents of the Defence to the Statement for a declaration of non -infringement  
+###### Rule 68 - Contents of the Defence to the Statement for a declaration of non-infringement  
 
 The Defence to the Statement for a declaration of non -infringement shall contain the matters referred to in Rule 24(a) to ( j). Rule 13.2 and .3 shall apply mutatis mutandis . 
 
@@ -979,8 +977,7 @@ The Defence to the Statement for a declaration of non -infringement shall contai
 1. The claimant may lodge a Reply to the Defence to the Statement for a declaration of non -infringement 
 within one month.  
 
-2. The defendant may lodge a Rejoinder to the Reply within one month of service of the Reply.  The 
-Rejoinde r shall be limited to the matters raised in the Reply.  
+2. The defendant may lodge a Rejoinder to the Reply within one month of service of the Reply.  The Rejoinder shall be limited to the matters raised in the Reply.  
 
 
 ###### Rule 70 - Fee for the action for a declaration of non -infringement 
@@ -1359,8 +1356,7 @@ In exceptional cases, the Court may, after hearing the parties ’ oral submissi
 
 ###### Rule 115 - The oral hearing  
 
-The oral he aring and any separate hearing of witnesses shall be open to the public unless the Court 
-decides to make a hearing, to the extent necessary, confidential in the interests of one or both parties or third parties or in the general interests of justice or pub lic order.  The hearing shall be audio recorded. The recording shall be made available to the parties or their representatives at the premises of the Court after the hearing . Rule 103 shall apply mutatis mutandis . 
+The oral he aring and any separate hearing of witnesses shall be open to the public unless the Court decides to make a hearing, to the extent necessary, confidential in the interests of one or both parties or third parties or in the general interests of justice or pub lic order.  The hearing shall be audio recorded. The recording shall be made available to the parties or their representatives at the premises of the Court after the hearing. Rule 103 shall apply mutatis mutandis . 
 
 Relation with Agreement: Article 45  
 
@@ -1472,7 +1468,7 @@ determination of damages in accordance with Part  6.
 	- (d) inform the panel which has given the decision on the merits on infringement that an Application for the determination of damages has been lodged ;  
 	- (e) serve the Application upon the unsuccessful party.  
 
-2. The panel which has given the decision on the merits  on infringement  shall be the panel for the determination of damages unless for any reason this is not possible or practical in whic h case the presiding judge of the division concerned shall appoint a fresh panel. Rules  17.2 and 18 shall apply mutatis mutandis .  
+2. The panel which has given the decision on the merits on infringement  shall be the panel for the determination of damages unless for any reason this is not possible or practical in whic h case the presiding judge of the division concerned shall appoint a fresh panel. Rules  17.2 and 18 shall apply mutatis mutandis .  
 
 
 ###### Rule 136 - Stay of the Application for a determination of damages  
@@ -1888,7 +1884,7 @@ Relation with the Agreement: Article 67
 
 ###### Rule 192 - Application for preserving evidence 
 
-1. An Application for preserving evidence may be lodged by a party (within the meaning of Article  47 of the Agreement) (hereinafter "the ap plicant") at the division where the applicant has commenced infringement proceedings on the merits.  If the application is lodged before proceedings on the merits have been started it shall be lodged at the division where the applicant intends to start proceedings on the merits.
+1. An Application for preserving evidence may be lodged by a party (within the meaning of Article 47 of the Agreement) (hereinafter "the applicant") at the division where the applicant has commenced infringement proceedings on the merits.  If the application is lodged before proceedings on the merits have been started it shall be lodged at the division where the applicant intends to start proceedings on the merits.
 
 2. The Application for preserving evidence shall contain: 
 	- (a) particulars in accordance with Rule 13.1(a) to (i); 
@@ -2613,16 +2609,16 @@ All pleadings and documents lodged with ple adings shall bear a time and a date 
 
 1. Without prejudice to Articles  58 and 60(1) of the Agreement and subject to Rules  190.1, 194.5, 196.1, 197.4, 199.1, 207.7, 209.4, 315.2 and 365.2, and following, where applicable, redaction of personal data within the meaning of Regulation (EU)  2016/679 and confidential information according to paragraph 2  
 	- (a) decisions and orders made by the Court shall be published,  
-	- (b) written pleadings and evidence, lodged at the Court and recorded by the Registry shall be available to the public upon reaso ned request to the Registry; the decision is taken by the judge-rapporteur after consulting the parties.  
+	- (b) written pleadings and evidence, lodged at the Court and recorded by the Registry shall be available to the public upon reasoned request to the Registry; the decision is taken by the judge-rapporteur after consulting the parties.  
 
-2. A party may request that certain information of written pleadings or evidence be kept confidential and provide specific reasons for such confidentia lity. To this end content of the register is made publicly available according to paragraph 1 (b) only 14 days after it has been available to all recipients. The Registrar shall ensure that beyond this time period information subject of a request for confi dentiality shall not be made available pending an Application pursuant to paragraph  3 or an appeal pursuant to Rule 220.2. When a party lodges a request that parts of written pleadings or evidence shall be kept confidential, he shall also provide copies of  the said documents with the relevant parts redacted when making the request.   
+2. A party may request that certain information of written pleadings or evidence be kept confidential and provide specific reasons for such confidentia lity. To this end content of the register is made publicly available according to paragraph 1 (b) only 14 days after it has been available to all recipients. The Registrar shall ensure that beyond this time period information subject of a request for confidentiality shall not be made available pending an Application pursuant to paragraph  3 or an appeal pursuant to Rule 220.2. When a party lodges a request that parts of written pleadings or evidence shall be kept confidential, he shall also provide copies of  the said documents with the relevant parts redacted when making the request.   
 
 3. A member of the public may lodge an Application with the Court for an order that any information excluded from public access pursuant to paragraph  2 may be made available to the applicant.   
 
 4. The Application shall contain:   
 	- (a) details of the information alleged to be confidential , so far as possible ; 
 	- (b) the grounds upon which the applicant believes the reasons for confidentiality should not be accepted ;  and   
-	- (c) the purpose  for which the information is needed.  
+	- (c) the purpose for which the information is needed.  
 
 5. The Court shall invite written comments from the parties prior to making any order.  
 
@@ -2675,25 +2671,19 @@ Where these Rules provide that a party shall or may be given an opportunity to b
 
 1. As long as there is no final decision in an action, a claimant may apply to withdraw his action.  The 
 Court shall decide the application after hearing the other party.  The application to withdraw shall not be permitted if the other party has a  legitimate interest in the action being decided by the Court.   
-2. If withdrawal is permitted, the Court shall : 
-(a) give a decision declaring the proceedings closed ; 
-(b) order the decision to be entered on the register ; and  
+2. If withdrawal is permitted, the Court shall: 
+(a) give a decision declaring the proceedings closed; 
+(b) order the decision to be entered on the register; and  
 (c) issue a cost decision in accordance with Part  1, Chapter  5. 
-The withdrawal of an action by the claimant shall have no effect on any counterclaim in the action.  The 
-Court may however refer any counterclaim for revocation to the Central Division.  
+The withdrawal of an action by the claimant shall have no effect on any counterclaim in the action.  The Court may however refer any counterclaim for revocation to the Central Division.  
 
 
 ###### Rule 266 - Preliminary references to the Court of Justice of the European Union  
-1. At any stage of the proceedings where a question is raised before the Court and the Court considers 
-that a decision on the question by the Court of Justice of the European Union (“CJEU ”) is necessary 
-before the Court can give judgment, the Court of First Instance may and the Court of Appeal shall 
-request the CJEU to give a ruling thereon.  
+1. At any stage of the proceedings where a question is raised before the Court and the Court considers that a decision on the question by the Court of Justice of the European Union (“CJEU ”) is necessary before the Court can give judgment, the Court of First Instance may and the Court of Appeal shall request the CJEU to give a ruling thereon.  
 2. The Court shall in requesting a ruling follow the procedure set out in the Rules of the CJEU.  
-3. If the Court requests the CJEU to apply its expedited procedure the request shall in addition set out : 
-
+3. If the Court requests the CJEU to apply its expedited procedure the request shall in addition set out:
    (a) the matters of fact and law which establish its urgency ; and 
-
-   (b) the reasons why an expedited ruling is appropriate.  
+   (b) the reasons why an expedited ruling is appropriate.   
 4. The Registrar shall as soon  as practicable forward the request and any request to apply the expedited procedure to the Registrar of the CJEU.  
 5. The Court may stay the proceedings . Where it does not stay proceedings, it shall not give judgement  until the CJEU has given a ruling on t he question.   
 
@@ -2717,34 +2707,42 @@ Where an action for damages has been brought against a Contracting Member State 
 
    (b) on a representative of the defendant if the defendant has provided the electronic address of a representative pursuant to Rule 8.1 as an address at which the defendant may be served with the Statement of claim;  or  
 
-   (c) on a representative of the defendant pursuant to Rule 8.1 if the representative has notified the Registry or the claimant that he accepts service of the Statement of claim on behalf of the defendant at an electronic address.  
+   (c) on a representative of the defendant pursuant to Rule 8.1 if the representative has notified the Registry or the claimant that he accepts service of the Statement of claim on behalf of the defendant at an electronic address.
+   
 2. Where a representat ive pursuant to Rule 8.1 accepts service on behalf of a party service may be effected within the closed electronic system of the UPC Case Management System (CMS).  
-3. For the purpose of serving a Statement for revocation [Rule 44] or of serving a Statement for declaration of non -infringement [Rule 63], reference to representative under paragraph  2(b) or (c) shall additionally include professional representatives and legal practitioners as defined in Article  134 EPC who are recorded as the appointed  representative for the patent, the subject of the proceedings, in the Register for unitary patent protection [Regulation (EU) No  1257/2012, Article  2(e)] or in the national patent register [Rule 8.5(a)].   
+3. For the purpose of serving a Statement for revocation [Rule 44] or of serving a Statement for declaration of non -infringement [Rule 63], reference to representative under paragraph  2(b) or (c) shall additionally include professional representatives and legal practitioners as defined in Article  134 EPC who are recorded as the appointed  representative for the patent, the subject of the proceedings, in the Register for unitary patent protection [Regulation (EU) No  1257/2012, Article  2(e)] or in the national patent register [Rule 8.5(a)]. 
+
 4. Where service by electronic means cannot be eff ected, the Registry shall serve the Statement of claim on the defendant by:  
 
    (a) any other method foreseen by the law of the European Union on the service of documents in civil nd commercial matters [Regulation (EU) 2020/1784], in particular by registered letter with acknowledgement of receipt or equivalent [Article 18 Regulation (EU) 2020/1784]; or  
 
    (b) where service in accordance with paragraph  4(a) could not be effected any method permitted by the law of the Member State of the European Union where servic e is to be effected or authorised by the Court under Rule 275. 
-1. Service under this Section shall be effected at the following place:   
+
+5. Service under this Section shall be effected at the following place:   
 
    (a) where the defendant is a company or other legal person, at its statutory seat, central administration or principal pl ace of business within the Contracting Member States or at any place within the Contracting Member States where the company or other legal person has a permanent or temporary place of business;
 
    (b) where the defendant is an individual, at his usual or last  known residence within the Contracting Member States; or 
 
-   (c) for the purpose of serving a Statement for revocation [Rule 44] or of serving a Statement for a declaration of non -infringement [Rule 63], at the place of business of a professional representative or legal practitioner as defined in Article  134 EPC who is recorded as the appointed representative for the patent, the subject of the proceedings, in the Register for unitary patent protection [Regulation (EU) No 1257/2012, Article  2(e)] or of the patent office of a Contracting Member State. 
+   (c) for the purpose of serving a Statement for revocation [Rule 44] or of serving a Statement for a declaration of non -infringement [Rule 63], at the place of business of a professional representative or legal practitioner as defined in Article  134 EPC who is recorded as the appointed representative for the patent, the subject of the proceedings, in the Register for unitary patent protection [Regulation (EU) No 1257/2012, Article  2(e)] or of the patent office of a Contracting Member State.
+   
 6. Subject to Rule 272.2 and .3, a Statement of claim served in accordance with paragraphs 1  to 5 is deemed to be served on the defendant: 
 
    (a) where service takes place by means of electronic communication, on the day when the relevant electronic message was sent (GMT+1);  
 
-   (b) where service takes place by registered letter with acknowledgement of receipt or equivalent such letter shall be dee med to be served on the addressee on the tenth day following posting unless it has failed to reach the addressee, has in fact reached him on a later date or the acknowledgement of receipt or equivalent has not been returned. Such service shall, except wher e paragraph  8 applies, be deemed effective even if acceptance of the letter has been refused.  
-1. The Registry shall advise the defendant that he may refuse to accept a Statement of Claim if it is not written or not accompanied by a translation into a langu age that he understands or that is an official language of the place where service is to be effected, by enclosing with the document to be served form L in Annex I of Regulation (EU) 2020/1784.  
-2. Where the defendant is entitled to refuse service and where  he has notified the refusal to the Registry within two weeks of the attempted service together with an indication of the language(s) he understands, the Registry shall inform the claimant. The claimant shall provide to the Registry translations of at least the Statement of claim and the information required in Rule 13.1(a) to (p) in a language provided for by paragraph 7.  
+   (b) where service takes place by registered letter with acknowledgement of receipt or equivalent such letter shall be dee med to be served on the addressee on the tenth day following posting unless it has failed to reach the addressee, has in fact reached him on a later date or the acknowledgement of receipt or equivalent has not been returned. Such service shall, except wher e paragraph  8 applies, be deemed effective even if acceptance of the letter has been refused.
+   
+7. The Registry shall advise the defendant that he may refuse to accept a Statement of Claim if it is not written or not accompanied by a translation into a langu age that he understands or that is an official language of the place where service is to be effected, by enclosing with the document to be served form L in Annex I of Regulation (EU) 2020/1784.
+
+8. Where the defendant is entitled to refuse service and where  he has notified the refusal to the Registry within two weeks of the attempted service together with an indication of the language(s) he understands, the Registry shall inform the claimant. The claimant shall provide to the Registry translations of at least the Statement of claim and the information required in Rule 13.1(a) to (p) in a language provided for by paragraph 7.  
 
 
 ###### Rule 272 - Notice of service and non -service of the Statement of claim  
 
 1. The Registry shall inform the claimant of the date on which t he Statement of claim is deemed served under Rule 271.6.  
+
 2. Where the Registry has served the Statement of claim by registered letter with acknowledgement of receipt or equivalent and the Statement of claim is returned to the Registry for any reason, the Registry shall inform the claimant.  
+
 3. Paragraph  2 shall apply mutatis mutandis  where the Registry has served the Statement of claim by means of electronic communication and the relevant electronic message appears not to have been received.    
 
 
@@ -2757,8 +2755,7 @@ This Section applies to service  of a Statement of claim outside the Contracting
 
 ###### Rule 274 - Service outside the Contracting Member States  
 
-1. Where a Statement of claim is to be served outside the Contracting Member States, it shall be so 
-served by the Registry  
+1. Where a Statement of claim is to be served outside the Contracting Member States, it shall be so served by the Registry  
 
    (a) by any method provided by:  
 	- (i) The law of the European Union on the service of documents in civil and commercial matters [Regulation (EU) 2020/1784] wher e it applies;   
@@ -2766,10 +2763,12 @@ served by the Registry
 	- (iii) to the extent that there is no such convention  or agreement  in force, either by service through diplomatic or consular channels from the Contracting Member State in which the sub-registry of the relevant division is established;  
 
    (b) where service in accordance with paragraph 1(a) could not be effected by any metho d permitted by the law of the state where service is to be effected  or as authorised by the Court under Rule 275. 
-1. No Statement of claim may be served  under this Rule 274 in a manner which is contrary to the law of the state where service is effected.  
-2. The Registry shall inform the claimant of the date on which the Statement of claim is deemed served under paragraph  1.  
-3. The Registry shall inform the claimant if for any reason service pursuant to paragraph  1 cannot be 
-effected.  
+
+2. No Statement of claim may be served  under this Rule 274 in a manner which is contrary to the law of the state where service is effected.  
+
+3. The Registry shall inform the claimant of the date on which the Statement of claim is deemed served under paragraph  1. 
+
+4. The Registry shall inform the claimant if for any reason service pursuant to paragraph 1 cannot be effected.  
 
 
 #### SECTION  3 - SERVICE BY AN ALTERNATIVE METHOD  
@@ -2777,7 +2776,9 @@ effected.
 ###### Rule 275 - Service of the Statement of claim by an alternative method or at an alternative place  
 
 1. Where service in accordance with Section 1 or 2 could not be effected the Court on an application by the claimant that ther e is a good reason to authorise service by a method or at a place not otherwise permitted by this Chapter, the Court may by way of order permit service by an alternative method or at an alternative place.  
+
 2. On a reasoned request by the claimant, the Court  may order that steps already taken to bring the Statement of claim to the attention of the defendant by an alternative method or at an alternative place is good service.  
+
 3. An order under this rule shall specify : 
 
    (a) the method or place of service ; 
@@ -2785,6 +2786,7 @@ effected.
    (b) the date on which the Statement of claim is deemed served ; and  
 
    (c) the period for filing the Statement of defence.  
+
 4. No order for alternative service under this Rule shall be made permitting service in a manner that is contrary to the law of the state where  service is to be effected.
 
 
@@ -2792,6 +2794,7 @@ effected.
 
 ###### Rule 276 - Service of orders and decisions  
 1. Any order or decision of the Court shall be served on each of the parties in accordance with the provisions of Sections  1, 2 or 3  of this Chapter  2, as the case may be.  
+
 2. Decisions by default pursuant to Rule 355 resulting from failure of the defendant to lodge a Defence to revocation [Rule 50 ] or failure to lodge a Defence to the Statement for a declaration of non -infringement [Rule 6 7] within the time limit set by these Rules or by the Court, may be served on the defendant at the place of business of a professional representative or legal practitioner as defined in Article 134 EPC who is recorded as the appointed representative for the subject European patent with unitary effect, the subject of the proceedings , in the Register for unitary patent protection [Regulation (EU) No  1257/2012, Article  2(e)] or in the national patent register  [Rule 8.5(a)] .  
 
 
@@ -2815,16 +2818,17 @@ No decision by default shall be entered under Part  5, Chapter  11 unless the Co
    
 3. Service under paragraph  2(a) shall be effected at the following place:  
   
-   (a) where the party is a company or other legal person: at its statutory seat, central administration, principal place of business or at any place within the Contracting Member  States where the company or other legal person has a place of business;  
+  (a) where the party is a company or other legal person: at its statutory seat, central administration, principal place of business or at any place within the Contracting Member  States where the company or other legal person has a place of business;  
   
    (b) where the party is an individual: at his usual or last known residence within the Contracting Member States.  
+
 4. Rule 271.6  and 272 shall apply mutatis mutandis .  
-5. Where a party is represented pursuant to Rule 8.1, the pleadings and other documents referred to in 
-paragraph  1 shall be served on that representative. Paragraph  2 shall apply mutatis mutandis .
+
+5. Where a party is represented pursuant to Rule 8.1, the pleadings and other documents referred to in paragraph  1 shall be served on that representative. Paragraph 2 shall apply mutatis mutandis .
 
 ###### Rule 279 - Change of electronic address for service  
 
-Where t he electronic address for service of a party changes, that party must give notice in writing of the change as soon as it has taken place to the  Registry and every other party  [Rule 6.3].  
+Where the electronic address for service of a party changes, that party must give notice in writing of the change as soon as it has taken place to the  Registry and every other party [Rule 6.3].  
 
 
 ### CHAPTER  3 - RIGHTS AND OBLIGATIONS OF REPRESENTATIVES  
@@ -2832,14 +2836,15 @@ Where t he electronic address for service of a party changes, that party must gi
 
 ###### Rule 284 - Duty of representatives not to misrepresent facts or cases  
 
-A representative of a party shall  not misrepresent cases or facts before the Court  either knowingly or 
-with good reasons to know . 
-Relation to Agreement: Article 48(6)  
+A representative of a party shall  not misrepresent cases or facts before the Court  either knowingly or with good reasons to know . 
+
+*Relation to Agreement: Article 48(6)*  
 
 
 ###### Rule 285 - Powers of attorney  
 
 1. A representative who claims to be representing a party shall be accepted as such provided however the Court may order a representative to produce a written authority if his representative powers are challenged.  
+
 2. In the event of a successful challenge to a representative’s authority pursuant to paragraph  1 the Court may make an order pursuant to Rule 291.  
 
 
@@ -2854,7 +2859,7 @@ Relation to Agreement: Article 48(6)
 
 1. Where a client seeks advice from a lawyer or a patent attorney he has instructed in a professional capacity, whether in connection with proceedings before the Court or otherwise, then any confidential communication (whether written or oral) between them relating to the seeking or the provision of that advice is privil eged from disclosure, whilst it remains confidential, in any proceedings before the Court or in arbitration or mediation proceedings before the Centre.  
 
-2. This privilege applies also to communications between a client and a lawyer or patent attorney emplo yed by the client and instructed to act in a professional capacity , whether in connection with proceedings before the Court or otherwise . 
+2. This privilege applies also to communications between a client and a lawyer or patent attorney emplo yed by the client and instructed to act in a professional capacity, whether in connection with proceedings before the Court or otherwise. 
 
 3. This privilege extends to the work product of the lawyer or patent attorney (including communications between lawye rs and/or patent attorneys employed in the same firm or entity or between lawyers and/or patent attorneys employed by the same client) and to any record of a privileged communication.  
 
@@ -3021,7 +3026,7 @@ Any period of time prescribed by the Agreement, the Statute, these Rules or any 
 
 #### SECTION  1 - PLURALITY OF PARTIES
 
-###### Rule 302 - Plurality of claimants  or patents  
+###### Rule 302 - Plurality of claimants or patents  
 
 1. The Court may order that proceedings commenced by a plurality of claimants or in respect of a plurality of patents be heard in separate proceedings.   
 
@@ -3034,9 +3039,9 @@ Any period of time prescribed by the Agreement, the Statute, these Rules or any 
 
 1. Proceedings may be started against a plurality of defendants if the Court has competence in respect of all of them.  
 
-2. The Court  may separate the proceedings into two or more separate proceedings against different defendants.  
+2. The Court may separate the proceedings into two or more separate proceedings against different defendants.  
 
-3. Where the Court orders a separation of proceedings under paragraph  2, the claimants in the new proceedings shall pay a new court fee in accordance with Pa rt 6, unless the Court decides otherwise.   
+3. Where the Court orders a separation of proceedings under paragraph 2, the claimants in the new proceedings shall pay a new court fee in accordance with Part 6, unless the Court decides otherwise.   
 
 
 ### SECTION  2 - CHANGE IN PARTIES  
@@ -3055,7 +3060,8 @@ Any period of time prescribed by the Agreement, the Statute, these Rules or any 
 
 ###### Rule 306 - Consequences for the proceedings  
 
-1. Where the Court orders that a party be added, removed or substituted under Rule 305.1, it shall give directions to regulate the consequences  as to case management.  
+1. Where the Court orders that a party be added, removed or substituted under Rule 305.1, it shall give directions to regulate the consequences  as to case management.
+   
 2. The Court shall also determine the extent to which a new party is bound by the proceedings as then constituted. 
 
 
@@ -3065,7 +3071,7 @@ Any period of time prescribed by the Agreement, the Statute, these Rules or any 
 
 1. If a party dies or cease s to exist during proceedings, the proceedings shall be stayed until such party is replaced by his successor. The Court may specify a period in this respect.  
 
-2. If there are more than two parties to the proceedings, the Court may decide that : 
+2. If there are more than two parties to the proceedings, the Court may decide that: 
 	- (a) proceedings between the remaining parties be continued separately ; and  
 	- (b) the stay shall only concern the proceedings regarding the party that no longer exists.  
 
@@ -3468,7 +3474,7 @@ The Court may, by way of order, of its own motio n or on application by a party 
 	- (a) the Rules of Procedure so provide if a party fails to take a step within the time limit foreseen in these Rules or set by the Court; or  
 	- (b) without prejudice to Rules  116 and 117, the party whic h was duly summoned fails to appear at an oral hearing.  
 
-2. A decision by default against the defendant of the claim or counterclaim may only be given where the facts put forward by the claimant justify the remedy sought and the procedural conduct of the de fendant does not preclude to give such decision.  
+2. A decision by default against the defendant of the claim or counterclaim may only be given where the facts put forward by the claimant justify the remedy sought and the procedural conduct of the defendant does not preclude to give such decision.  
 
 3. A decision by default against the defendant of the claim or counterclaim may only be given where the time limits for the defence to the claim or counterclaim have expired and thus, it is established that the service of the claim or counterclaim was effected in sufficient time to enable the defendant to enter a defence.  
 
@@ -3482,7 +3488,7 @@ The Court may, by way of order, of its own motio n or on application by a party 
 
 2. The Application to set aside a decision by default shall contain  the party’s explanation for the default. It shall mention the date and number of the decision by default. The party shall pay a fee for the Application to set aside the decision by default , in accordance with Part 6 . In the case of Rule 355.1(a) the Application shall be accompanied by the step the party has failed to take.  
 
-3. If the provisions of paragraph  2 are met the Application shall be allowed unless a party has been put on notice in an earlier decision that a further decision by default shall be fina l. If the Application is allowed, a note of allowance shall be included in any publication of the decision by default.
+3. If the provisions of paragraph 2 are met the Application shall be allowed unless a party has been put on notice in an earlier decision that a further decision by default shall be final. If the Application is allowed, a note of allowance shall be included in any publication of the decision by default.
 
 Relation with Statute: Article 37 
 
@@ -3708,8 +3714,7 @@ The Court may at any time, on the application of a party or of its own  motion, 
 
 ###### Rule 378 - Application for legal aid
 
-1. An application for legal aid may be lodged before or after proceedings have been started before the 
-Court.  
+1. An application for legal aid may be lodged before or after proceedings have been started before the Court.  
 
 2. The Application for legal aid shall contain in a language of a Contracting Member State:  
 	- (a) the name of the applicant;  

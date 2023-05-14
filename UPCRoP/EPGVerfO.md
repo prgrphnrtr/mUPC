@@ -124,7 +124,7 @@ Bezug zum Übereinkommen: Artikel  44
 
 2. Der Kanzler nimmt den Antrag auf Inanspruchnahme der Ausnahmeregelung so bald wie möglich in das Register auf. Vorbehaltlich des Absatzes 6 gilt eine den Anforderungen dieser Regel entsprechende Inanspruchnahme der Ausnahmeregelung als ab dem Tag der Eintragung in das Register wirksam. Soweit Anforderungen im Register fehlen oder nicht k orrekt verzeichnet sind, kann bei der Kanzlei eine Korrektur eingereicht werden. Der Tag der Eintragung der Korrektur ist im Register zu verzeichnen. Die Inanspruchnahme der Ausnahmeregelung ist ab dem Tag der Korrektur wirksam. 
 
-3. Wurde in Bezug auf ein Patent und/oder eine Anmeldung, das bzw. die Gegenstand eines Antrags auf Inanspruchnahme der Ausnahmeregelung ist, vor dem Tag der Eintragung des Antrags auf Inanspruchnahme der Ausnahmeregelung in das Register oder vor dem Tag der Eintragung der Korrektur  in das Register gemäß Absatz 5 Klage vor dem Gericht erhoben, ist der Antrag auf Inanspruchnahme der Ausnahmeregelung in Bezug auf das betreffende Patent bzw. die betreffende Anmeldung unwirksam, unabhängig davon, ob die Klage noch anhängig ist oder abges chlossen wurde.
+3. Wurde in Bezug auf ein Patent und/oder eine Anmeldung, das bzw. die Gegenstand eines Antrags auf Inanspruchnahme der Ausnahmeregelung ist, vor dem Tag der Eintragung des Antrags auf Inanspruchnahme der Ausnahmeregelung in das Register oder vor dem Tag der Eintragung der Korrektur  in das Register gemäß Absatz 5 Klage vor dem Gericht erhoben, ist der Antrag auf Inanspruchnahme der Ausnahmeregelung in Bezug auf das betreffende Patent bzw. die betreffende Anmeldung unwirksam, unabhängig davon, ob die Klage noch anhängig ist oder abgeschlossen wurde.
  
 5. Der Inhaber eines Patents oder einer Anmeldung, das bzw. die Gegenstand eines Antrags auf Inanspruchnahme der Ausnahmeregelung nach dieser Regel unterliegt, kann in Bezug auf das Patent oder die Anmeldung einen Antrag auf Rücktritt stell en, jedoch nicht in Bezug auf verschiedene Staaten,  für die das europäische Patent erteilt wurde oder die in der Anmeldung benannt sind. Der Antrag auf Rücktritt muss die Angaben gemäß Absatz 3 enthalten. Der Kanzler trägt den Antrag auf Rücktritt so bald wie möglich in das Register ein. Der Rücktritt gilt als ab dem Tag der Eintragung in das Register wirksam. Die Absätze 1(a) und 5 gelten entsprechend.  
 
@@ -2126,10 +2126,10 @@ Bezug zum Übereinkommen: Artikel 32 Absatz 1 Buchstabe c und 62
 	- (b) alle verfügbaren schriftlichen Beweismittel;  
 	- (c) rechtliche Ausführungen, einschließlich der Gründe, warum ein Antrag auf einstweilige Maßnahmen abgelehnt werden sollte. 
 
-4. Der/Die Antragsgegner, der/die die Schutzschrift einreicht/einreichen, hat/haben die Gebühr für die Einreichung einer Schutzschrift gemäß Teil 6 zu entrichte n. Regel 15.2 gilt entsprechend.
+4. Der/Die Antragsgegner, der/die die Schutzschrift einreicht/einreichen, hat/haben die Gebühr für die Einreichung einer Schutzschrift gemäß Teil 6 zu entrichten. Regel 15.2 gilt entsprechend.
 
 5. Die Kanzlei prüft so bald wie möglich, ob die Anforderungen der Absätze 2(a) bis (f) und 4 erfüllt sind. Sind diese Anforderungen erfüllt, hat die Kanzlei so bald wie möglich  
-	- (a) das Eingangsdatum einzutragen und der Sch utzschrift eine Registrierungsnummer zuzuweisen,  
+	- (a) das Eingangsdatum einzutragen und der Schutzschrift eine Registrierungsnummer zuzuweisen,  
 	- (b) die Schutzschrift vorbehaltlich des Absatzes 7 in das Register aufzunehmen,  
 	- (c) Einzelheiten der Schutzschrift an alle Kammern weiterzugeben und  
 	- (d) den mit dem Antrag befassten Spruchkörper oder Einzelr ichter über die Einreichung der Schutzschrift zu unterrichten, sofern bereits ein Antrag auf einstweilige Maßnahmen gestellt wurde.
@@ -2142,27 +2142,17 @@ Bezug zum Übereinkommen: Artikel 32 Absatz 1 Buchstabe c und 62
 
 8. Wird in der Folge ein Antrag auf einstweilige Maßnahmen gestellt, leitet der Kanzler dem gemäß Regel 208 bestimmten Spruchkörper oder Einzelrichter eine Abschrift der Schutzschrift zusammen mit dem Antrag auf einstweilige Maßnahmen sowie dem Antragsteller sobald wie möglich eine Abschrift der Schutzschrift zu.  
 
-9. Wird innerhalb von sechs Monaten nach Eingang d er Schutzschrift kein Antrag auf einstweilige Maßnahmen gestellt, wird die Schutzschrift aus dem Register entfernt, sofern nicht die Person, welche die Schutzschrift eingereicht hat, vor Ablauf dieser Frist eine Verlängerung von sechs Monaten beantragt und  eine Gebühr für die Verlängerung gemäß Teil 6 entrichtet hat. Bei weiteren Zahlungen der Gebühr ist die Erlangung weiterer Verlängerungen möglich.  
+9. Wird innerhalb von sechs Monaten nach Eingang der Schutzschrift kein Antrag auf einstweilige Maßnahmen gestellt, wird die Schutzschrift aus dem Register entfernt, sofern nicht die Person, welche die Schutzschrift eingereicht hat, vor Ablauf dieser Frist eine Verlängerung von sechs Monaten beantragt und  eine Gebühr für die Verlängerung gemäß Teil 6 entrichtet hat. Bei weiteren Zahlungen der Gebühr ist die Erlangung weiterer Verlängerungen möglich.  
 
 10. Regel 15.2 gilt entsprechend.  
 
 
 ###### Regel 208 - Prüfung der Formerfordernisse, Aufnahme in das Register, Zuweisung an einen Spruchkörper, Benennung des Berichterstatters, Einzelrichter
 
-1. Der Antrag auf einstweilige Maßnahmen wird von der Kanzlei gemäß Regel 16 geprüft. Die Kanzlei 
-prüft außerdem, ob eine für den Antrag maßgebliche Schutzschrift im Register einget ragen ist.  
-2. Wenn das Hauptverfahren in der Sache beim Gericht noch nicht eingeleitet worden ist, gelten Regel 
-17 (Eingangsdatum, Eintragung in das Register, Aktenzeichen, Zuweisung zu einem Spruchkörper) und Regel 18 (Benennung des Berichterstatters durc h den Vorsitzenden Richter) entsprechend. In 
-dringenden Fällen kann der Vorsitzende Richter beschließen, dass er oder ein erfahrener Richter des 
-Spruchkörpers gemäß den Regeln 209 bis 213 mit verkürztem Zeitplan als Einzelrichter über den Antrag 
-entscheidet. 
-3. Wenn das Hauptverfahren in der Sache beim Gericht bereits eingeleitet worden ist, ist der Antrag auf 
-einstweilige Maßnahmen sofort dem Spruchkörper, dem die Klage zugewiesen wurde, oder dem 
-Einzelrichter vorzulegen. In dringenden Fällen (wenn die Kla ge noch keinem Einzelrichter zugewiesen 
-wurde) kann der Vorsitzende Richter beschließen, dass er oder der Berichterstatter gemäß den Regeln 
-209 bis 213 mit verkürztem Zeitplan als Einzelrichter über den Antrag entscheidet.  
-4. Der Einzelrichter, der über de n Antrag auf einstweilige Maßnahmen entscheidet, verfügt über alle 
-erforderlichen Befugnisse des Gerichts.  
+1. Der Antrag auf einstweilige Maßnahmen wird von der Kanzlei gemäß Regel 16 geprüft. Die Kanzlei prüft außerdem, ob eine für den Antrag maßgebliche Schutzschrift im Register einget ragen ist.  
+2. Wenn das Hauptverfahren in der Sache beim Gericht noch nicht eingeleitet worden ist, gelten Regel 17 (Eingangsdatum, Eintragung in das Register, Aktenzeichen, Zuweisung zu einem Spruchkörper) und Regel 18 (Benennung des Berichterstatters durch den Vorsitzenden Richter) entsprechend. In dringenden Fällen kann der Vorsitzende Richter beschließen, dass er oder ein erfahrener Richter des Spruchkörpers gemäß den Regeln 209 bis 213 mit verkürztem Zeitplan als Einzelrichter über den Antrag entscheidet. 
+3. Wenn das Hauptverfahren in der Sache beim Gericht bereits eingeleitet worden ist, ist der Antrag auf einstweilige Maßnahmen sofort dem Spruchkörper, dem die Klage zugewiesen wurde, oder dem Einzelrichter vorzulegen. In dringenden Fällen (wenn die Kla ge noch keinem Einzelrichter zugewiesen wurde) kann der Vorsitzende Richter beschließen, dass er oder der Berichterstatter gemäß den Regeln 209 bis 213 mit verkürztem Zeitplan als Einzelrichter über den Antrag entscheidet.  
+4. Der Einzelrichter, der über de n Antrag auf einstweilige Maßnahmen entscheidet, verfügt über alle erforderlichen Befugnisse des Gerichts.  
 
 
 Bezug zur Satzung: Artikel 19
@@ -3058,39 +3048,34 @@ Gericht kann sein Verfahren gemäß Regel 295(a) aussetzen, bis über einen solc
 nachfolgendes beschleunigtes Verfahren entschieden ist.  
   
 ### KAPITEL 5 - FRISTEN  
+
 ###### Regel 300 - Berechnung von Fristen  
-Alle in dem Übereinkommen, der Satzung, dieser Verfahrensordnung oder einer Anordnung des 
-Gerichts vorgesehenen Fristen für Verfahrenshandlungen sind in vollen Tagen, Wochen, Monaten oder 
-Jahren anzugeben und wie folgt zu berechnen:  
-(a) Die Berechnung beginnt mit dem Tag, der auf den Tag folgt, an dem das maßgebliche Ereignis 
-eingetreten ist; im Falle der Zustellung  eines Schriftstückes ist das maßgebliche Ereignis der Zugang 
-des Schriftstücks gemäß Teil 5, Kapitel 2;  
-(b) ist als Frist ein Jahr oder eine bestimmte Anzahl von Jahren bestimmt, so endet die Frist in dem 
-maßgeblichen folgenden Jahr in dem Monat und an de m Tag, die durch ihre Benennung oder Zahl dem 
-Monat oder Tag entsprechen, an dem das Ereignis eingetreten ist; hat der betreffende nachfolgende 
-Monat keinen Tag mit der entsprechenden Zahl, so läuft die Frist am letzten Tag dieses Monats ab;  
-(c) ist als Fr ist ein Monat oder eine bestimmte Anzahl von Monaten bestimmt, so endet die Frist in dem 
-maßgeblichen folgenden Monat an dem Tag, der durch seine Zahl dem Tag entspricht, an dem das 
-Ereignis eingetreten ist; hat der maßgebliche folgende Monat keinen Tag mi t der entsprechenden Zahl, 
-so läuft die Frist am letzten Tag dieses Monats ab;  
-(d) ist als Frist eine Woche oder eine bestimmte Anzahl von Wochen bestimmt, so endet die Frist in der 
-maßgeblichen folgenden Woche an dem Tag, der durch seine Benennung dem Tag  entspricht, an dem 
-das Ereignis eingetreten ist;  
+Alle in dem Übereinkommen, der Satzung, dieser Verfahrensordnung oder einer Anordnung des Gerichts vorgesehenen Fristen für Verfahrenshandlungen sind in vollen Tagen, Wochen, Monaten oder Jahren anzugeben und wie folgt zu berechnen:
+
+(a) Die Berechnung beginnt mit dem Tag, der auf den Tag folgt, an dem das maßgebliche Ereignis eingetreten ist; im Falle der Zustellung  eines Schriftstückes ist das maßgebliche Ereignis der Zugang des Schriftstücks gemäß Teil 5, Kapitel 2;
+
+(b) ist als Frist ein Jahr oder eine bestimmte Anzahl von Jahren bestimmt, so endet die Frist in dem maßgeblichen folgenden Jahr in dem Monat und an de m Tag, die durch ihre Benennung oder Zahl dem Monat oder Tag entsprechen, an dem das Ereignis eingetreten ist; hat der betreffende nachfolgende Monat keinen Tag mit der entsprechenden Zahl, so läuft die Frist am letzten Tag dieses Monats ab;  
+
+(c) ist als Frist ein Monat oder eine bestimmte Anzahl von Monaten bestimmt, so endet die Frist in dem maßgeblichen folgenden Monat an dem Tag, der durch seine Zahl dem Tag entspricht, an dem das Ereignis eingetreten ist; hat der maßgebliche folgende Monat keinen Tag mit der entsprechenden Zahl, so läuft die Frist am letzten Tag dieses Monats ab;  
+
+(d) ist als Frist eine Woche oder eine bestimmte Anzahl von Wochen bestimmt, so endet die Frist in der maßgeblichen folgenden Woche an dem Tag, der durch seine Benennung dem Tag  entspricht, an dem das Ereignis eingetreten ist; 
+
 (e) Tag bedeutet Kalendertag, wenn nicht als Werktag angegeben;  
-(f) zu den Kalendertagen zählen offizielle Feiertage des Vertragsmitgliedstaats, in dem die Kammer 
-oder der Sitz der Zentralkammer oder die be treffende Abteilung der Zentralkammer oder das 
-Berufungsgericht belegen ist, sowie Samstage und Sonntage;  
-(g) nicht zu den Werktagen gehören die offiziellen Feiertage des Vertragsmitgliedstaats, in dem die 
-Kammer oder der Sitz der Zentralkammer oder die be treffende Abteilung der Zentralkammer oder das 
-Berufungsgericht belegen ist, sowie Samstage und Sonntage;  
-(h) Der Lauf einer Frist wird durch die Gerichtsferien nicht gehemmt.  
-###### Regel 301 - Automatische Fristverlängerungen  
-1. Endet eine Frist an einem Samsta g oder Sonntag oder einem offiziellen Feiertag des 
-Vertragsmitgliedsstaats, in dem die Kammer oder der Sitz der Zentralkammer oder die betreffende 
-Abteilung der Zentralkammer oder das Berufungsgericht belegen ist, so wird sie bis zum Ablauf des 
-folgenden W erktags verlängert.  
-2. Absatz 1 gilt entsprechend, falls in elektronischer Form eingereichte Unterlagen vom Gericht nicht 
-empfangen werden können.  
+
+(f) zu den Kalendertagen zählen offizielle Feiertage des Vertragsmitgliedstaats, in dem die Kammer oder der Sitz der Zentralkammer oder die be treffende Abteilung der Zentralkammer oder das Berufungsgericht belegen ist, sowie Samstage und Sonntage;  
+
+(g) nicht zu den Werktagen gehören die offiziellen Feiertage des Vertragsmitgliedstaats, in dem die Kammer oder der Sitz der Zentralkammer oder die be treffende Abteilung der Zentralkammer oder das Berufungsgericht belegen ist, sowie Samstage und Sonntage;  
+
+(h) Der Lauf einer Frist wird durch die Gerichtsferien nicht gehemmt. 
+
+
+###### Regel 301 - Automatische Fristverlängerungen 
+
+1. Endet eine Frist an einem Samstag oder Sonntag oder einem offiziellen Feiertag des Vertragsmitgliedsstaats, in dem die Kammer oder der Sitz der Zentralkammer oder die betreffende Abteilung der Zentralkammer oder das Berufungsgericht belegen ist, so wird sie bis zum Ablauf des folgenden Werktags verlängert. 
+
+2. Absatz 1 gilt entsprechend, falls in elektronischer Form eingereichte Unterlagen vom Gericht nicht empfangen werden können. 
+
+
 ### KAPITEL 6 - VERFAHRENSPARTEIEN  
 #### ABSCHNITT 1 - MEHRERE PARTEIEN  
 ###### Regel 302 - Mehrere Kläger oder Patente  

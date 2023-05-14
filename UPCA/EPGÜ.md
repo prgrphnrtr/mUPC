@@ -5,7 +5,7 @@ language: German
 [PDF:: [[EPGÜ (DE).pdf]]]
 
 # DE - ÜBEREINKOMMEN  über ein Einheitliches Patentgericht  
-[[UPCRoP - All Languages (2023-01-05).pdf#Rule 25]]
+[[UPC Laws - All Languages (2023-01-05).pdf#Rule 25]]
 (2013/C 175/01)
 
 DIE VERTRAGSMITGLIEDSTAATEN —  
@@ -1042,6 +1042,7 @@ Erhebung und Verwendung von Beweisen in den vor ihm ge ­
 führten Verfahren eingeschränkt oder für unzulässig erklärt wer ­
 den oder der Zugang zu solchen Beweismitteln auf bestimmte 
 Personen beschränkt wird.  
+
 Artikel 59  
 Anordnung der Beweisvorlage  
 (1) Auf Antrag einer Partei, die alle vernünftigerweise verfüg ­

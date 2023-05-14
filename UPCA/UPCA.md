@@ -418,7 +418,7 @@ The international jurisdiction of the Court shall be established in accordance w
 
 9. Actions referred to in Article 32(1)(i) shall be brought before the central division.
 
-107. A party shall inform the Court of any pending revo ­cation, limitation or opposition proceedings before the European Patent Office, and of any request for accelerated processing before the European Patent Office. The Court may stay its proceedings when a rapid decision may be expected from the European Patent Office.  
+10. A party shall inform the Court of any pending revocation, limitation or opposition proceedings before the European Patent Office, and of any request for accelerated processing before the European Patent Office. The Court may stay its proceedings when a rapid decision may be expected from the European Patent Office.  
 
 
 ###### Article 34 - Territorial scope of decisions
