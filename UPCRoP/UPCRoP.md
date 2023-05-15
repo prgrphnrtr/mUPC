@@ -183,9 +183,9 @@ Where applicable, the Registry shall inform the parties of the opportunity to re
 
 ###### Rule 7 - Language of written pleadings and written evidence  
 
-1. Written pleadings and other documents, including written evidence, shall be lodged in the language of the proceedings  unless the Court or these Rules otherwise provide. 
+1. Written pleadings and other documents, including written evidence, shall be lodged in the language of the proceedings unless the Court or these Rules otherwise provide. 
 
-2. Where these Rules or the Court require a pleading or other document to be translated it shall not be necessary to provide a formal certification by the translator as to t he accuracy of such translation unless the accuracy is challenged by a party or such certification is ordered by the Court  or required by these Rules.  
+2. Where these Rules or the Court require a pleading or other document to be translated it shall not be necessary to provide a formal certification by the translator as to the accuracy of such translation unless the accuracy is challenged by a party or such certification is ordered by the Court or required by these Rules.  
 
 
 ###### Rule 8 - Party and party’s representative  
@@ -196,11 +196,11 @@ Where applicable, the Registry shall inform the parties of the opportunity to re
    
 3. Except where these Rules provide otherwise, a party shall not communicate with the Court without informing the other party. Where such communication is in writing, the communication should be copied to the other party unless these Rules provide that the Court will supply a copy to the other party.  
    
-4. For the purposes of proceedings under these Rules in relation to the proprietor of a European patent  with unitary effect , the person shown in the Register  for unitary patent protection [Regulation (EU) No 1257/2012, Article  2(e)]  as the proprietor  shall be treated as such . If during proceedings before the Court a new pr oprietor is recorded in the Register for unitary  patent  protection, the former registered proprietor may apply to the Court pursuant to Rule 305.1(c) for the substitution of the new proprietor.  
+4. For the purposes of proceedings under these Rules in relation to the proprietor of a European patent with unitary effect , the person shown in the Register  for unitary patent protection [Regulation (EU) No 1257/2012, Article  2(e)]  as the proprietor  shall be treated as such . If during proceedings before the Court a new pr oprietor is recorded in the Register for unitary  patent  protection, the former registered proprietor may apply to the Court pursuant to Rule 305.1(c) for the substitution of the new proprietor.  
    
-5. Subject to paragraph  6, for the purposes of proceedings und er these Rules:  
+5. Subject to paragraph 6, for the purposes of proceedings und er these Rules:  
 
-   (a) in relation to the proprietor of a European patent, the person entitled to be registered as proprietor under the law of each Contracting Member State in which such European patent has been validated shall be treated as the proprietor wh ether or not such person is in fact recorded in the register of patents maintained in such Contracting Member State  (hereinafter “national patent register”);and  
+   (a) in relation to the proprietor of a European patent, the person entitled to be registered as proprietor under the law of each Contracting Member State in which such European patent has been validated shall be treated as the proprietor whether or not such person is in fact recorded in the register of patents maintained in such Contracting Member State  (hereinafter “national patent register”); and  
 
    (b) in relation to the applicant for a European patent, the person entitled to be registered as applicant whether or not such person is in fact recorded as such in the European Patent Register kept by the European Patent Office.  
 
@@ -333,21 +333,21 @@ Relation with Agreement: Articles 35, 52(2) and 79
 
 ###### Rule 14 - Use of languages under Article 49(1) and (2) of the Agreement  
 
-1. Without prejudice to Articles  49(3) to (6) of the Agreement and subject to paragraph  2 and Rules 271.7, 321 to 323, proceedings shall be conducted:  
+1. Without prejudice to Articles  49(3) to (6) of the Agreement and subject to paragraph 2 and Rules 271.7, 321 to 323, proceedings shall be conducted:  
 
-   (a) in the official language or one of the official languages designated as language(s) of proceedings pursuant to Article  49(1) of the Agreement; or 
+   (a) in the official language or one of the official languages designated as language(s) of proceedings pursuant to Article 49(1) of the Agreement; or 
 
    (b) in a language designated as language of proceedings by a Contracting Member State pursuant to Article  49(2) of the Agreement. 
 
-2. Where a Contracting Member State hosts a local division or participates in a regional division for which several languages have been designated pursuant to Article  49(1) and/or Article  49(2) of the Agreement:  
+2. Where a Contracting Member State hosts a local division or participates in a regional division for which several languages have been designated pursuant to Article 49(1) and/or Article  49(2) of the Agreement:  
 
    (a) subject to paragraphs  2(b) and (c), the claimant may choose as the language of proceedings any of the language(s) designated pursuant to Article  49(1) and/or Article  49(2)  of the Agreement;
 
-   (b) in proceedings before a local or regional division in a Contracting Member State against a defendant who has his domicile or principal place of business in that Contracting Member State where the action could not be brought pursuant to Article  33(1)(a) of the Agreement before any other local or regional division, proceedings shall be conducted in the official language of the Contracting Member State (paragraph  1(a)). Where a designation by a Contracting Member State having several official regional languages so indicates , proceedings shall be conducted in the official language of the region in which the defendant has his domicile or principal place of business. Where there are two or more such defendants whose domicile or principle place of business has different regional languages, the claimant may choose the language from the regional languages in question.  Where a designation by a Contracting Member State having several official languages so indicates, proceedings shall be conducted in the official language of the defend ant. Where there are two or more such defendants with different official languages, the claimant may choose the language from the official languages in question.  
+   (b) in proceedings before a local or regional division in a Contracting Member State against a defendant who has his domicile or principal place of business in that Contracting Member State where the action could not be brought pursuant to Article  33(1)(a) of the Agreement before any other local or regional division, proceedings shall be conducted in the official language of the Contracting Member State (paragraph  1(a)). Where a designation by a Contracting Member State having several official regional languages so indicates, proceedings shall be conducted in the official language of the region in which the defendant has his domicile or principal place of business. Where there are two or more such defendants whose domicile or principle place of business has different regional languages, the claimant may choose the language from the regional languages in question.  Where a designation by a Contracting Member State having several official languages so indicates, proceedings shall be conducted in the official language of the defend ant. Where there are two or more such defendants with different official languages, the claimant may choose the language from the official languages in question.  
 
-   (c) Where a designation of a  language under Article  49(2) of the Agreement for a regional divi sion or for one or more local division(s) hosted in a Member State so indicates, the judge-rapporteur may order in the interest of the panel to provide that judges may use in the oral proceedings the language according to paragraph  1(a) and/or to provide t hat the Court may make any order and deliver any decision in the language according to paragraph 1(a) together with a certified translation for the purpose of Rule 118.8 into the language according to paragraph 1(b).
+   (c) Where a designation of a language under Article 49(2) of the Agreement for a regional division or for one or more local division(s) hosted in a Member State so indicates, the judge-rapporteur may order in the interest of the panel to provide that judges may use in the oral proceedings the language according to paragraph 1(a) and/or to provide t hat the Court may make any order and deliver any decision in the language according to paragraph 1(a) together with a certified translation for the purpose of Rule 118.8 into the language according to paragraph 1(b).
 
-3. The Registrar shall maintain a list of languages communicated by Contracting Member States pursuant to Article  49(1) and Article  49(2)  of the Agreement  as well as designations by Contracting Member States made pursuant to paragraph  2(b) and (c). The list shall be made publically available online.
+3. The Registrar shall maintain a list of languages communicated by Contracting Member States pursuant to Article 49(1) and Article 49(2) of the Agreement  as well as designations by Contracting Member States made pursuant to paragraph 2(b) and (c). The list shall be made publically available online.
 
 4. The Registrar shall return any pleading lodged in a language other than the language of proceedings.  
 
@@ -390,20 +390,17 @@ Relation with Agreement: Articles 36(3), 70 and 71
 
 3. The following shall determine  the distribution of actions  between the seat of the central division and its sections.
 
-
    (a) Where  an action involves a single paten t having a single classification , the Registry shall allocate the action  to the seat or the section  of the central division  appropriate to the classification of the p atent according to Annex  II of the Agreement. The Registry shall assign the action to a panel  in accordance ith Rule 345.3.  
-	
 
    (b) Where a n action  involves more than one patent and a majority of the patents have a single classification  appropriate to  the seat or a single section  of the central division  according to  Annex  II of the Agreement, the Registry shall allocate the action  to the seat or that section  of the central division. The Registry shall assign the action to a panel in accordance with Rule 345.3.
 	  
-
    (c) Where neither paragraph (a) nor (b) applies , especially where  
 	
    (i) the action involves a single patent having more than one classification or  
 	
    (ii) where the action involves more than one patent and no majority of the patents have a single classification corresponding to the seat or to one of the sections  of the central division,
 		
-		the Registry shall assign the action in accordance with Rule 345.3 to the panel at the seat or the section appropriate to the  first classification of  either the single patent or, where the action involves more than one patent,  the patent  first listed  in the Statement of claim , according to  Annex II of the Agreement . If the presiding judge of the respective panel considers that the reference of the action  is appropriate , he shall accept it. If he considers otherwise, he shall instruct the Registry to refer the action  in accordance with Rule 345.3 to the presiding judge of a panel of either the seat or the other section  of the central division  he considers appropriate, who shall likewise consider whether the re-allocation of the action  is appropriate . If that presiding judge  considers otherwise, he shall inform the President of the Court of First Instance, who shall allocate the action to the seat or the section  of the central division he considers appropriate . The Registry shall assign the action to a panel  in accordance with Rule 345.3.
+	the Registry shall assign the action in accordance with Rule 345.3 to the panel at the seat or the section appropriate to the  first classification of  either the single patent or, where the action involves more than one patent,  the patent  first listed  in the Statement of claim , according to  Annex II of the Agreement . If the presiding judge of the respective panel considers that the reference of the action  is appropriate , he shall accept it. If he considers otherwise, he shall instruct the Registry to refer the action  in accordance with Rule 345.3 to the presiding judge of a panel of either the seat or the other section  of the central division  he considers appropriate, who shall likewise consider whether the re-allocation of the action  is appropriate . If that presiding judge  considers otherwise, he shall inform the President of the Court of First Instance, who shall allocate the action to the seat or the section  of the central division he considers appropriate . The Registry shall assign the action to a panel  in accordance with Rule 345.3.
 
 4. The action shall be regarded as having commenced before the Court as from the date of receipt attributed to the Statement of claim.   
 
@@ -436,7 +433,7 @@ The presiding judge of the panel to which the action has been assigned [Rule 17.
 
    (d) where appropriate the facts and evidence relied on.
 
-3. The Preliminary objection shall be drawn up  in the language pursuant to Rule 14.
+3. The Preliminary objection shall be drawn up in the language pursuant to Rule 14.
 
 4. If the action has been commenced before a regional division the defendant may by a Preliminary objection request a transfer of the action to the central division pursuant to Article  33(2) of the Agreement.  The Preliminary objection shall in such a case contain all facts and evidence supporting the existence of the same  infringement in the territories of three  or more regional divisions.
 
@@ -588,11 +585,16 @@ will be offered in support ;
 
 ###### Rule 30 - Application to amend the patent
 
-1. The Defence to the Counterclaim for revocation may include an Application by the proprietor of the patent to amend the patent which shall contain: 
-(a) the proposed amendments of the claims of the patent concerned and/or specification, including where applicable and  appropriate one or more alternative sets of claims (auxiliary requests), in the language in which the patent was granted; where the language of the proceedings [Rule 14.3] is not the language in which the patent was granted, the proprietor shall lodge a t ranslation of the proposed amendments in the language of the proceedings, and where the patent is a European patent with unitary effect in the language of the defendant’s domicile  in a Member State of the EU or of the place of the alleged infringement or threatened infringement in a Contracting Member State  if so requested by the defendant ; 
-(b) an explanation as to why the amendments satisfy the requirement s of Articles  84 and 123(2) , (3) EPC and why the proposed amended claims are valid  and, if applicable, why they are  infringed ; and 
-(c) an indication whether the proposals are conditional or unconditional; the proposed amendments, if conditional, must be reasonable in number in the circumstances of the case.  
-2. Any subsequent request to amend th e patent may only be admitted into the proceedings with the permission of the Court.  
+1. The Defence to the Counterclaim for revocation may include an Application by the proprietor of the patent to amend the patent which shall contain:
+
+(a) the proposed amendments of the claims of the patent concerned and/or specification, including where applicable and  appropriate one or more alternative sets of claims (auxiliary requests), in the language in which the patent was granted; where the language of the proceedings [Rule 14.3] is not the language in which the patent was granted, the proprietor shall lodge a t ranslation of the proposed amendments in the language of the proceedings, and where the patent is a European patent with unitary effect in the language of the defendant’s domicile  in a Member State of the EU or of the place of the alleged infringement or threatened infringement in a Contracting Member State  if so requested by the defendant;
+
+(b) an explanation as to why the amendments satisfy the requirement s of Articles  84 and 123(2) , (3) EPC and why the proposed amended claims are valid and, if applicable, why they are infringed; and
+
+(c) an indication whether the proposals are conditional or unconditional; the proposed amendments, if conditional, must be reasonable in number in the circumstances of the case.
+
+2. Any subsequent request to amend the patent may only be admitted into the proceedings with the permission of the Court.
+
 3. Where other proceedings involving the patent subject to an Application to amend the patent  are pending , the claimant shall notify the Court  or the authority  in question  that such an Application has been made and provide the information required in paragraph 1(a).  
 
 ##### DEFENCE TO THE APPLICATION TO AMEND THE PATENT  
@@ -1150,9 +1152,9 @@ During the interim procedure , the judge-rapporteur shall invite the claimant to
 2. If an oral hearing is not convened, the panel shall decide in accordance with Rule 117.  
 
 
-###### Rule 97 - Application to annul a decision of the Office to re ject a request for unitary effect  
+###### Rule 97 - Application to annul a decision of the Office to reject a request for unitary effect  
 
-1. The proprietor of a patent whose request for unitary effect has been re jected  by the Office shall lodge an Application at the  Registry  in accordance with Article  7(2) of the Agreement and Annex  II thereto, to reverse the decision of the Office, in the language in which the patent was granted, within three weeks of service of the decision of the European Patent Office.
+1. The proprietor of a patent whose request for unitary effect has been rejected  by the Office shall lodge an Application at the  Registry  in accordance with Article  7(2) of the Agreement and Annex  II thereto, to reverse the decision of the Office, in the language in which the patent was granted, within three weeks of service of the decision of the European Patent Office.
 
 2. The Application shall contain particulars in accordance with Rule 88.2(a), (c), (d) and ( g) to ( j) and the proprietor shall pay the fee for the action against the decision of the  Office in accordance with Part 6. Rule 15.2 and Rule 89 shall apply mutatis mutandis.  
 
@@ -1218,11 +1220,11 @@ The interim conference shall enable the judge-rapporteur to:
 
    (e) where appropriate, issue orders regarding production of further pleadings, documents, experts (including court experts), experiments, inspections, further written evidence, the matters to be the subject of oral evidence and the scope of questions to be put to the witnesses ;
 
-   (f) where appropriate, but only in the presence of the parties, hold preparatory di scussions with witnesses and experts with a view to properly preparing for the oral hearing ; 
+   (f) where appropriate, but only in the presence of the parties, hold preparatory discussions with witnesses and experts with a view to properly preparing for the oral hearing; 
 
    (g) make any other decision or order as he deems necessary for the preparation of the oral hearing including, after consultation with the presiding judge, an order  for a separate hearing of witnesses and experts before the panel ; 
 
-   (h) set a date for any separate hearing pursuant to point (g) of this Rule, confirm the date for the oral hearing and order, where appropriate, after consultation with the presiding judge a nd the parties that the oral hearing or a separate hearing of witnesses and experts be wholly or partly by video conference in accordance with Rule 112.3;   
+   (h) set a date for any separate hearing pursuant to point (g) of this Rule, confirm the date for the oral hearing and order, where appropriate, after consultation with the presiding judge and the parties that the oral hearing or a separate hearing of witnesses and experts be wholly or partly by video conference in accordance with Rule 112.3;   
 
    (i) decide the value of the action in accordance with Rule 370.6. ; 
 
@@ -1237,13 +1239,13 @@ Relation with Agreement: Article 52(2)
 
 1. The interim conference should, where practicable, be held by telephone conference or by video conference.  
 
-2. On request by a party , subject to paragraph  1 and the approval of the judge-rapporteur, the interim conference may be held in Court.  If the interim conference is held in Court, it shall be open to the public unless the Court decides to make it, to the extent necessary, confidential in the interests of one or both parties  or third parties or in the general interests of justice or public order.   
+2. On request by a party, subject to paragraph  1 and the approval of the judge-rapporteur, the interim conference may be held in Court.  If the interim conference is held in Court, it shall be open to the public unless the Court decides to make it, to the extent necessary, confidential in the interests of one or both parties  or third parties or in the general interests of justice or public order.   
 
-3. The judge-rapporteur may hold the interim conference in any language agreed by the parties ’ representatives.  
+3. The judge-rapporteur may hold the interim conference in any language agreed by the parties’ representatives.  
 
 4. Rule 103 shall apply mutatis mutandis . 
 
-5. Following the interim conference, the judge-rapporteur shall issue an order setting out  the decisions taken.   
+5. Following the interim conference, the judge-rapporteur shall issue an order setting out the decisions taken.   
 
 ###### Rule 106 - Recording of the interim conference  
 
@@ -1317,7 +1319,7 @@ The presiding judge shall:
 
 5. Under the control of the presiding judge, the parties may put questions to the witness or expert. The presiding judge may prohibit any question which is not designed to adduce admissible evidence.  
 
-6. With the consent of the Court a witness may giv e evidence  in a language other than the language of proceedings.  
+6. With the consent of the Court a witness may give evidence in a language other than the language of proceedings.  
 
 Relation with Agreement: Articles 52(3) a nd 53(1)  
 
@@ -2065,7 +2067,7 @@ Provisional measures are treated by way of s ummary proceedings which shall cons
 
 1. If a person entitled to start proceedings under Article  47 of the Agreement considers it likely that an Application for provisional measures against him as a defendant may be lodged before the Court in the near future, he may file a Protective letter.  
 
-2. The Protective letter shall be filed with the  Registry in the language of the patent and shall contain : 
+2. The Protective letter shall be filed with the Registry in the language of the patent and shall contain : 
 	- (a) the name of the defendant or defendants filing the Protective letter and of the defendant’s representative; 
 	- (b) the name of the presumed applicant for provisional measures; 
 	- (c) postal and electronic addresses for service on the defendant filing the Protective letter and the names of the persons authorised to accept service ; 
@@ -2293,7 +2295,7 @@ The Statement of grounds of appeal shall contain :
 
 ###### Rule 227 - Language of the Statement of appeal and of the Statement of grounds of appeal  
 
-The Statement of appeal and the Statement of grounds of appeal shall be drawn up :  
+The Statement of appeal and the Statement of grounds of appeal shall be drawn up:  
 
    (a) without prejudice to Article  50(3) of the Agreement, in the language of the proceedings before the Court of First Instance ; or 
 
@@ -2342,11 +2344,11 @@ The presiding judge of the panel to which the action has been assigned shall des
 
 ###### Rule 232 - Translation of file
 
-1. If the language of the proceedings before the Court of Appeal is not the language of  the proceedings before the Court of First Instance, the judge-rapporteur may order the appellant to lodge, within a time period to be specified, translations into the language of the proceedings before the Court of Appeal of:
-	- (a) written pleadings and oth er documents lodged by the parties before the Court of First Instance, as specified by the judge-rapporteur ;  
+1. If the language of the proceedings before the Court of Appeal is not the language of the proceedings before the Court of First Instance, the judge-rapporteur may order the appellant to lodge, within a time period to be specified, translations into the language of the proceedings before the Court of Appeal of:
+	- (a) written pleadings and other documents lodged by the parties before the Court of First Instance, as specified by the judge-rapporteur ;  
 	- (b) decisions or orders of the Court of First Instance.  
 	
-	The judge-rapporteur shall at the same time inform the appellant that if the appellant fai ls to lodge the translations within the time period specified, a decision by default may be given in accordance with Rule 357.
+	The judge-rapporteur shall at the same time inform the appellant that if the appellant fails to lodge the translations within the time period specified, a decision by default may be given in accordance with Rule 357.
 
 2. If the appellant fails to lodge t he translations under paragraph  1 within the time period specified, the judge-rapporteur shall reject the appeal by a decision by default in accordance with Rule 357. He may give the appellant an opportunity to be heard beforehand.
 
@@ -2674,8 +2676,8 @@ Where an action for damages has been brought against a Contracting Member State 
 
 ###### Rule 270 - Scope of this Section  
 
-1. For service of the Statement of claim within the Contracting Member States the law of the European Union on the service of documents in civil and commercial matters [Regulation (EU) 2020/1784] and the rules set out in this Section, in parti cular Rule 271.2 shall apply.   
-2. For the purpose of Rules  270 to 275 the term Statement of claim shall,  where appropriate, mean all originating pleadings in actions  referred to in Article  32(1) of the Agreement . 
+1. For service of the Statement of claim within the Contracting Member States the law of the European Union on the service of documents in civil and commercial matters [Regulation (EU) 2020/1784] and the rules set out in this Section, in particular Rule 271.2 shall apply.   
+2. For the purpose of Rules  270 to 275 the term Statement of claim shall, where appropriate, mean all originating pleadings in actions referred to in Article  32(1) of the Agreement . 
 
 ###### Rule 271 - Service of the Statement of claim  
 
@@ -2687,10 +2689,11 @@ Where an action for damages has been brought against a Contracting Member State 
 
    (c) on a representative of the defendant pursuant to Rule 8.1 if the representative has notified the Registry or the claimant that he accepts service of the Statement of claim on behalf of the defendant at an electronic address.
    
-2. Where a representat ive pursuant to Rule 8.1 accepts service on behalf of a party service may be effected within the closed electronic system of the UPC Case Management System (CMS).  
-3. For the purpose of serving a Statement for revocation [Rule 44] or of serving a Statement for declaration of non -infringement [Rule 63], reference to representative under paragraph  2(b) or (c) shall additionally include professional representatives and legal practitioners as defined in Article  134 EPC who are recorded as the appointed  representative for the patent, the subject of the proceedings, in the Register for unitary patent protection [Regulation (EU) No  1257/2012, Article  2(e)] or in the national patent register [Rule 8.5(a)]. 
+2. Where a representative pursuant to Rule 8.1 accepts service on behalf of a party service may be effected within the closed electronic system of the UPC Case Management System (CMS).
 
-4. Where service by electronic means cannot be eff ected, the Registry shall serve the Statement of claim on the defendant by:  
+3. For the purpose of serving a Statement for revocation [Rule 44] or of serving a Statement for declaration of non-infringement [Rule 63], reference to representative under paragraph 2(b) or (c) shall additionally include professional representatives and legal practitioners as defined in Article  134 EPC who are recorded as the appointed representative for the patent, the subject of the proceedings, in the Register for unitary patent protection [Regulation (EU) No  1257/2012, Article  2(e)] or in the national patent register [Rule 8.5(a)]. 
+
+4. Where service by electronic means cannot be effected, the Registry shall serve the Statement of claim on the defendant by:  
 
    (a) any other method foreseen by the law of the European Union on the service of documents in civil nd commercial matters [Regulation (EU) 2020/1784], in particular by registered letter with acknowledgement of receipt or equivalent [Article 18 Regulation (EU) 2020/1784]; or  
 
@@ -2710,14 +2713,13 @@ Where an action for damages has been brought against a Contracting Member State 
 
    (b) where service takes place by registered letter with acknowledgement of receipt or equivalent such letter shall be dee med to be served on the addressee on the tenth day following posting unless it has failed to reach the addressee, has in fact reached him on a later date or the acknowledgement of receipt or equivalent has not been returned. Such service shall, except wher e paragraph  8 applies, be deemed effective even if acceptance of the letter has been refused.
    
-7. The Registry shall advise the defendant that he may refuse to accept a Statement of Claim if it is not written or not accompanied by a translation into a langu age that he understands or that is an official language of the place where service is to be effected, by enclosing with the document to be served form L in Annex I of Regulation (EU) 2020/1784.
+7. The Registry shall advise the defendant that he may refuse to accept a Statement of Claim if it is not written or not accompanied by a translation into a language that he understands or that is an official language of the place where service is to be effected, by enclosing with the document to be served form L in Annex I of Regulation (EU) 2020/1784.
 
-8. Where the defendant is entitled to refuse service and where  he has notified the refusal to the Registry within two weeks of the attempted service together with an indication of the language(s) he understands, the Registry shall inform the claimant. The claimant shall provide to the Registry translations of at least the Statement of claim and the information required in Rule 13.1(a) to (p) in a language provided for by paragraph 7.  
+8. Where the defendant is entitled to refuse service and where he has notified the refusal to the Registry within two weeks of the attempted service together with an indication of the language(s) he understands, the Registry shall inform the claimant. The claimant shall provide to the Registry translations of at least the Statement of claim and the information required in Rule 13.1(a) to (p) in a language provided for by paragraph 7.  
 
 
-###### Rule 272 - Notice of service and non -service of the Statement of claim  
-
-1. The Registry shall inform the claimant of the date on which t he Statement of claim is deemed served under Rule 271.6.  
+###### Rule 272 - Notice of service and non-service of the Statement of claim  
+1. The Registry shall inform the claimant of the date on which the Statement of claim is deemed served under Rule 271.6.  
 
 2. Where the Registry has served the Statement of claim by registered letter with acknowledgement of receipt or equivalent and the Statement of claim is returned to the Registry for any reason, the Registry shall inform the claimant.  
 
@@ -2728,23 +2730,24 @@ Where an action for damages has been brought against a Contracting Member State 
 
 ###### Rule 273 - Scope of this Section  
 
-This Section applies to service  of a Statement of claim outside the Contracting Member States.  
+This Section applies to service of a Statement of claim outside the Contracting Member States.  
 
 
 ###### Rule 274 - Service outside the Contracting Member States  
 
 1. Where a Statement of claim is to be served outside the Contracting Member States, it shall be so served by the Registry  
 
-   (a) by any method provided by:  
-	- (i) The law of the European Union on the service of documents in civil and commercial matters [Regulation (EU) 2020/1784] wher e it applies;   
+   (a) by any method provided by:
+   
+	- (i) The law of the European Union on the service of documents in civil and commercial matters [Regulation (EU) 2020/1784] where it applies;   
 	- (ii) The Hague Service Convention or any other applicable convention or agreement where it applies; or 
-	- (iii) to the extent that there is no such convention  or agreement  in force, either by service through diplomatic or consular channels from the Contracting Member State in which the sub-registry of the relevant division is established;  
+	- (iii) to the extent that there is no such convention or agreement in force, either by service through diplomatic or consular channels from the Contracting Member State in which the sub-registry of the relevant division is established;
 
-   (b) where service in accordance with paragraph 1(a) could not be effected by any metho d permitted by the law of the state where service is to be effected  or as authorised by the Court under Rule 275. 
+   (b) where service in accordance with paragraph 1(a) could not be effected by any method permitted by the law of the state where service is to be effected or as authorised by the Court under Rule 275. 
 
-2. No Statement of claim may be served  under this Rule 274 in a manner which is contrary to the law of the state where service is effected.  
+2. No Statement of claim may be served under this Rule 274 in a manner which is contrary to the law of the state where service is effected.  
 
-3. The Registry shall inform the claimant of the date on which the Statement of claim is deemed served under paragraph  1. 
+3. The Registry shall inform the claimant of the date on which the Statement of claim is deemed served under paragraph 1. 
 
 4. The Registry shall inform the claimant if for any reason service pursuant to paragraph 1 cannot be effected.  
 
@@ -2773,22 +2776,23 @@ This Section applies to service  of a Statement of claim outside the Contracting
 ###### Rule 276 - Service of orders and decisions  
 1. Any order or decision of the Court shall be served on each of the parties in accordance with the provisions of Sections  1, 2 or 3  of this Chapter  2, as the case may be.  
 
-2. Decisions by default pursuant to Rule 355 resulting from failure of the defendant to lodge a Defence to revocation [Rule 50 ] or failure to lodge a Defence to the Statement for a declaration of non -infringement [Rule 6 7] within the time limit set by these Rules or by the Court, may be served on the defendant at the place of business of a professional representative or legal practitioner as defined in Article 134 EPC who is recorded as the appointed representative for the subject European patent with unitary effect, the subject of the proceedings , in the Register for unitary patent protection [Regulation (EU) No  1257/2012, Article  2(e)] or in the national patent register  [Rule 8.5(a)] .  
+2. Decisions by default pursuant to Rule 355 resulting from failure of the defendant to lodge a Defence to revocation [Rule 50 ] or failure to lodge a Defence to the Statement for a declaration of non -infringement [Rule 6 7] within the time limit set by these Rules or by the Court, may be served on the defendant at the place of business of a professional representative or legal practitioner as defined in Article 134 EPC who is recorded as the appointed representative for the subject European patent with unitary effect, the subject of the proceedings , in the Register for unitary patent protection [Regulation (EU) No  1257/2012, Article  2(e)] or in the national patent register  [Rule 8.5(a)].  
 
 
-###### Rule 277 - Decisions by default under Part 5, Chapter 11  
-No decision by default shall be entered under Part  5, Chapter  11 unless the Court is satisfied that either : 
+###### Rule 277 - Decisions by default under Part 5, Chapter 11
+
+No decision by default shall be entered under Part 5, Chapter  11 unless the Court is satisfied that either : 
   
-   (a) the Statement of claim was served by a method prescribed by the internal law of the state addressed for the service of documents in domestic act ions upon persons who are within its territory; or  
+   (a) the Statement of claim was served by a method prescribed by the internal law of the state addressed for the service of documents in domestic actions upon persons who are within its territory; or  
   
    (b) the Statement of claim was actually served on  the defendant under this Chapter 2.  
 
 
-###### Rule 278 - Service of written  pleadings  and other documents  
+###### Rule 278 - Service of written  pleadings and other documents  
 
 1. As soon as practicable after written pleadings have been received at the Registry, the Registry shall serve the pleadings and any other document lodged with the pleadings on the other party by means of electronic communication  except if the pleading contains a request for an ex parte proceeding. 
 
-2. Where service by means of electronic communication cannot be effected, the Registry shall serve the written pleadings on the party by : 
+2. Where service by means of electronic communication cannot be effected, the Registry shall serve the written pleadings on the party by: 
   
    (a) registered letter with acknowledgement of receipt or equivalent; or  
   
@@ -2796,13 +2800,13 @@ No decision by default shall be entered under Part  5, Chapter  11 unless the Co
    
 3. Service under paragraph  2(a) shall be effected at the following place:  
   
-  (a) where the party is a company or other legal person: at its statutory seat, central administration, principal place of business or at any place within the Contracting Member  States where the company or other legal person has a place of business;  
+  (a) where the party is a company or other legal person: at its statutory seat, central administration, principal place of business or at any place within the Contracting Member States where the company or other legal person has a place of business;  
   
    (b) where the party is an individual: at his usual or last known residence within the Contracting Member States.  
 
 4. Rule 271.6  and 272 shall apply mutatis mutandis .  
 
-5. Where a party is represented pursuant to Rule 8.1, the pleadings and other documents referred to in paragraph  1 shall be served on that representative. Paragraph 2 shall apply mutatis mutandis .
+5. Where a party is represented pursuant to Rule 8.1, the pleadings and other documents referred to in paragraph 1 shall be served on that representative. Paragraph 2 shall apply mutatis mutandis .
 
 ###### Rule 279 - Change of electronic address for service  
 
@@ -3173,25 +3177,25 @@ There shall be no appeal against an order refusing an Application to intervene.
 
 ###### Rule 322 - Proposal from the judge-rapporteur to use of the language in which the patent was granted as language of the proceedings
 
-At any time during the written procedure and the interim procedure, the judge-rapporteur may, of his own motion or on a request by a party, after consulting the panel, propose to the parties that the language of the proceedings be changed to the language in which the patent was granted, in accordance with Article  49(4) of the Agreement. If the parties and panel agree the language of the proceedings shall be changed.
+At any time during the written procedure and the interim procedure, the judge-rapporteur may, of his own motion or on a request by a party, after consulting the panel, propose to the parties that the language of the proceedings be changed to the language in which the patent was granted, in accordance with Article 49(4) of the Agreement. If the parties and panel agree the language of the proceedings shall be changed.
 
 *Relation with Agreement: Article 49(4)*  
 
 
 ###### Rule 323 - Application by one party to use the language in which the patent was granted as language of the proceedings
 
-1. If a party wishes to use the language in which the patent was granted as language of the proceedings, in accordance with Article  49(5) of the Agreement, the party shall include such Application in the Statement of Claim, in the case of a claimant, or in the Statement of Defence, in the case of a defendant. The judge-rapporteur shall forward the Application to the President of the Court of First Instance.
+1. If a party wishes to use the language in which the patent was granted as language of the proceedings, in accordance with Article 49(5) of the Agreement, the party shall include such Application in the Statement of Claim, in the case of a claimant, or in the Statement of Defence, in the case of a defendant. The judge-rapporteur shall forward the Application to the President of the Court of First Instance.
 
 2. The President shall invite the other party to indicate, within 10 days, its position on the use of the language in which the patent was granted as language of the proceedings.
 
-3. The President, having consulted the panel of the division, may order that the language in which the patent was granted shall be the language of the proceedings and may make the order conditional on specific translation or interpretation arrangements . 
+3. The President, having consulted the panel of the division, may order that the language in which the patent was granted shall be the language of the proceedings and may make the order conditional on specific translation or interpretation arrangements. 
 
 *Relation with Agreement: Article 49(5)*
 
 
 ###### Rule 324 - Consequences where the language of the proceedings is changed in the course of the proceedings
 
-An Application under Rule 321.1 or 323.1 shall specify whether existing pleadings and other documents should  be translated and at whose cost. If the parties cannot agree the judge-rapporteur or the President of the Court of First Instance, as the case may be, shall decide in accordance with Rule 323.3.   
+An Application under Rule 321.1 or 323.1 shall specify whether existing pleadings and other documents should be translated and at whose cost. If the parties cannot agree the judge-rapporteur or the President of the Court of First Instance, as the case may be, shall decide in accordance with Rule 323.3.
 
 ### CHAPTER  8 - CASE MANAGEMENT
 
@@ -3291,11 +3295,11 @@ parties.
 
 ###### Rule 340 - Connection Joinder  
 
-1. In the interests of the proper administration of justice  and of avoiding inconsistent decisions , where more than one action concerning the same  patent (whether or not between the same parties) is pending before:  
-	- (a) different panels (whether in the same or different divisions) ; or 
+1. In the interests of the proper administration of justice and of avoiding inconsistent decisions, where more than one action concerning the same  patent (whether or not between the same parties) is pending before:  
+	- (a) different panels (whether in the same or different divisions); or 
 	- (b) different panels of the Court of Appeal,
 
-	the panels may by agreement, at any time, after hearing the parties, order that two or more actions shall, on account of the connection between them, be heard together. Article  33 of the Agreement shall be respected.
+	the panels may by agreement, at any time, after hearing the parties, order that two or more actions shall, on account of the connection between them, be heard together. Article 33 of the Agreement shall be respected.
 
 2. The actions may subsequently be disjoined.
 
@@ -3306,11 +3310,11 @@ parties.
 
 1. With the exception of the President of the Court of Appeal and the President of the Court of First Instance, the judges shall rank in precedence according to their seniority in office.  
 
-2. Where there is equal seniority in office, precedence shall be determined by age.  
+2. Where there is equal seniority in office, precedence shall be determined by age. 
 
 3. Retiring judges who are reappointed shall retain their former precedence.  
 
-4. The Presidium may  determine the presiding judge  of a panel. In the absence of such a determination by the Presidium and u nless otherwise agreed by the panel the most senior judge shall be the presiding judge.  
+4. The Presidium may  determine the presiding judge  of a panel. In the absence of such a determination by the Presidium and unless otherwise agreed by the panel the most senior judge shall be the presiding judge.  
 
 ###### Rule 342 - Dates, times and place of the sittings of the Court  
 
@@ -3419,7 +3423,8 @@ Relation with Statute: Article 7
 
 3. All orders shall be recorded in the register.  
 
-###### Rule 352 - Binding effect  of decisions or orders  subject to security 
+
+###### Rule 352 - Binding effect  of decisions or orders subject to security 
 
 1. Decisions and orders may be subject to the rendering of a security (whether by deposit or bank guarantee or otherwise) by a party to the other party for legal costs and other expenses and compensation for any damage incurred or likely to be incurred by the  other party if the decisions and orders are enforced and subsequently revoked.  
 
@@ -3460,6 +3465,7 @@ The Court may, by way of order, of its own motio n or on application by a party 
 	- (a) grant a stay of enforcement until it has given its decision on a ny Application under Rule 356; or  
 	- (b) make enforcement subject to the provision of security; this security shall be released if no Application is made or if the Application fails.
 
+
 ###### Rule 356 - Application to set aside a decision by default  
 
 1. A party agains t whom a decision by default has been given may lodge an Application to set aside that decision within one month of service of the decision.  
@@ -3495,9 +3501,9 @@ Where it is clear that the Court has no jurisdiction to take cognisance of an ac
 
 The Court may at any time, on the application of a party or of its own  motion, after giving the parties an opportunity to be heard, decide that there exists an absolute bar to proceeding with an action, for example because of the application of the principle of res judicata .
 
-###### Rule 363 - Orders dismissing manifestly inadmissi ble claims  
+###### Rule 363 - Orders dismissing manifestly inadmissible claims  
 
-1. Orders under Rules  360, 361 and 362 shall be taken by the panel  upon the recommendation of the judge-rapporteur.  
+1. Orders under Rules 360, 361 and 362 shall be taken by the panel upon the recommendation of the judge-rapporteur.  
 
 2. Where the decision is taken by the Court of First Instance pursuant to Rules  360, 361 and 362 it is a final decision within the meaning of Rule 220.1(a).
 
@@ -3521,8 +3527,10 @@ The Court may at any time, on the application of a party or of its own  motion, 
 
 ##### COURT FEES
 
-###### Rule 370 - Court fees  
-1. Court fees provided for in these Rules shall be paid in accordance with the provisions contained in this Part and the table of fees adopted by the Administrative Committee pursuant to Article 36 (3)  of the Agreement  (hereinafter: table of fees) . 
+###### Rule 370 - Court fees
+
+1. Court fees provided for in these Rules shall be paid in accordance with the provisions contained in this Part and the table of fees adopted by the Administrative Committee pursuant to Article 36 (3)  of the Agreement  (hereinafter: table of fees).
+
 2. A fixed fee shall be paid in accordance with Section I (fixe d fees) of the table of fees for the following actions at the Court of First Instance:  
 	- (a) Infringement action [Rule 15], 
 	- (b) Counterclaim for infringement [Rule 53], 
@@ -3574,7 +3582,7 @@ The Court may at any time, on the application of a party or of its own  motion, 
 	
    (f) Application to review a case management order pursuant to Rule 220.2 [R. 333.3] , 
 	
-   (g) Application to set aside decision by default pursuant to Rule 357 [Rule 356.2] , 
+   (g) Application to set aside decision by default pursuant to Rule 357 [Rule 356.2], 
 	
    (h) Application for rehearing pursuant to Rule 245.2 [Rule 250] .  
 
@@ -3622,7 +3630,7 @@ The Court may at any time, on the application of a party or of its own  motion, 
 	
    (e) In exceptional cases, having regard, in particular, to the stage of the proceedings and the procedural behavio ur of the party, the Court may deny or decrease the reimbursement payable according to paragraph 9 (b) and (c) of the aforementioned provisions.
 
-10. If the amount of Court fees threatens the economic existence of a party who is not a natural person, and has presented reasonably available and plausible evidence to support that the amount of Court fees threatens its economic existence, the Court may u pon request by that party, wholly or partially reimburse the fixed and value -based fee. In reaching a decision the Court shall reflect on all circumstances of the case including the procedural behaviour of the party. Before making such a decision the Court  may give the other party an opportunity to be heard.  
+10. If the amount of Court fees threatens the economic existence of a party who is not a natural person, and has presented reasonably available and plausible evidence to support that the amount of Court fees threatens its economic existence, the Court may upon request by that party, wholly or partially reimburse the fixed and value -based fee. In reaching a decision the Court shall reflect on all circumstances of the case including the procedural behaviour of the party. Before making such a decision the Court  may give the other party an opportunity to be heard.  
 
 11. The party seeking reimbursement under paragraphs 9 and 10 shall lodge a reasoned Application for reimbursement to the Court . The Court shall deal with the application without delay and if satisfied that the reimbursement is appropriate shall direct the Registrar to make the payment as soon as practicable.  
  
@@ -3672,7 +3680,7 @@ The Court may at any time, on the application of a party or of its own  motion, 
 
 ###### Rule 377 - Conditions for granting legal aid  
 
-1.  The applicant  shall be entitled to apply fo r legal aid where:  
+1.  The applicant  shall be entitled to apply for legal aid where:  
 	- (a) owing to his economic situation, he is wholly or partly unable to meet the costs referred to in Rule 376; and  
 	- (b) the action in respect of which the application for legal aid is made has a reasonable prospect of success, considering the applicant’s procedural position; and  
 	- (c) the claimant applying for legal aid is entitled to bring actions under Article 47 of the Agreement .  
@@ -3715,13 +3723,13 @@ The Court may at any time, on the application of a party or of its own  motion, 
 
 ###### Rule 378A  - Type of proof
 
-1. To be admissible, the application must contain a statement of the facts and legal situation, with pecific mention of the evidence to be presented. The application must also contain a statement regarding the economic and financia l situation of the applicant. The following documents shall be attached to the application:  
+1. To be admissible, the application must contain a statement of the facts and legal situation, with specific mention of the evidence to be presented. The application must also contain a statement regarding the economic and financial situation of the applicant. The following documents shall be attached to the application:  
 	- (a) latest property and income declarations of the applicant;  
 	- (b) a document showing the personal monthly income for the previous year, or a declaration of unemployment delivered by the competent authorities, or a certificate proving that the applicant is receiving aid or financial support under a social welfare scheme;   
 	- (c) a certificate of composition of household;  
-	- (d) any other official document that can pr ovide proof of the financial situation of the applicant.  
+	- (d) any other official document that can provide proof of the financial situation of the applicant.  
 
-2. Where appropriate, a certificate relating to the income of other members of the household of the applicant should also be attached to the application. The official documents shall not be older th an 3 months. At the request of the Court, the applicant shall produce further documentation and, if so requested, an affidavit of the truthfulness of his statements, otherwise the application will not be admissible.
+2. Where appropriate, a certificate relating to the income of other members of the household of the applicant should also be attached to the application. The official documents shall not be older than 3 months. At the request of the Court, the applicant shall produce further documentation and, if so requested, an affidavit of the truthfulness of his statements, otherwise the application will not be admissible.
 
 
 ###### Rule 379 - Examination and decision  
@@ -3732,7 +3740,7 @@ The Court may at any time, on the application of a party or of its own  motion, 
 
 3. If the requirements referred to in Rules  377.1(a), .2, 377A, 378 and 378A have been met or the applicant fails to corr ect a deficiency, the decision on such application shall be taken, by way of order, by the judge-rapporteur or, where the application is lodged before the action has been brought, by the standing judge.  
 
-4. Before making a decision on an application for leg al aid, the Court shall invite the other party to submit written observations unless it is already apparent from the information submitted that the conditions referred to in Rule 377.1(b) have  not been met. Documents regarding the economic and financial si tuation of the applicant shall be made accessible to the other party only where the applicant has consented or the applicant’s refusal of consent is unreasonable or in the view of the Court the other party has a right to information on the economic or fina ncial situation of the applicant.  
+4. Before making a decision on an application for leg al aid, the Court shall invite the other party to submit written observations unless it is already apparent from the information submitted that the conditions referred to in Rule 377.1(b) have  not been met. Documents regarding the economic and financial si tuation of the applicant shall be made accessible to the other party only where the applicant has consented or the applicant’s refusal of consent is unreasonable or in the view of the Court the other party has a right to information on the economic or financial situation of the applicant.  
 
 5. An order refusing legal aid shall state the reasons on which it is based.  
 
@@ -3742,11 +3750,11 @@ The Court may at any time, on the application of a party or of its own  motion, 
 	- (c) an amount to be paid to the representative of the applicant or a limit which the representative’s disbursements and fees may not exceed;   
 	- (d) a contribution to be made by the applicant to the costs referred to in Rule 376.1(c).  
 
-7. Legal aid may be granted only for the period from receipt of the application with the Co urt. 
+7. Legal aid may be granted only for the period from receipt of the application with the Court. 
 
 8. Where the legal aid covers, in whole or in part, the costs of legal assistance and representation the order granting legal aid shall designate the representative of the applicant . 
 
-9. On a request by the designated representative, the Court may orde r that an amount shall be paid by way of advance .  
+9. On a request by the designated representative, the Court may order that an amount shall be paid by way of advance .  
 
 10. Where requested by the applicant in accordance with Rule 378.2( h), the Court shall decide on the suspension of any time limit.
 
@@ -3754,7 +3762,7 @@ The Court may at any time, on the application of a party or of its own  motion, 
 
 ###### Rule 379A  - Alteration of economic situation 
 
-The applicant shall inform the  Court promptly of any alteration in his economic situation.  
+The applicant shall inform the Court promptly of any alteration in his economic situation.  
 
 
 ###### Rule 380 - Withdrawal of legal aid  
@@ -3769,6 +3777,7 @@ The applicant shall inform the  Court promptly of any alteration in his economic
 
 3. An order withdrawing legal aid shall state the reasons on which it is based. 
 
+
 ###### Rule 381 - Appeal  
 
 1. An order wholly or partly refusing or withdrawing legal aid may be appe aled to the Court of Appeal. The appeal shall be filed with the Court of Appeal within a period of one month after receiving the order and satisfy the provisions of Rules 377 to 379. The President of the Court of Appeal shall appoint a panel which shall de cide on the appeal having heard the applicant.
@@ -3780,4 +3789,4 @@ The applicant shall inform the  Court promptly of any alteration in his economic
 
 1. Where the Court has ordered another party to pay the costs of the applicant for legal aid, that other party shall be required to refund to the Court any sums advanced by way of legal aid.  In the event of a shortfall between the costs so ordered and the sums advanced by way of legal aid the applicant may be required to meet such shortfall from any damages or compensation awarded by the Court or from any sum received by way of settlement.
 
-2. In the event of withdr awal of legal aid under Rule 380, the applicant may be required to refund to the Court any sums advanced by way of legal aid.  
+2. In the event of withdrawal of legal aid under Rule 380, the applicant may be required to refund to the Court any sums advanced by way of legal aid.  

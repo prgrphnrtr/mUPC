@@ -565,15 +565,15 @@ Any natural or legal person, or any body equivalent to a legal person entitled t
 
 1. The language of proceedings before any local or regional division shall be an official European Union language which is the official language or one of the official languages of the Contracting Member State hosting the relevant division, or the official language(s) designated by Contracting Member States sharing a regional division.  
 
-1. Notwithstanding paragraph 1, Contracting Member States may designate one or more of the official languages of the European Patent Office as the language of proceedings of their local or regional division.  
+2. Notwithstanding paragraph 1, Contracting Member States may designate one or more of the official languages of the European Patent Office as the language of proceedings of their local or regional division.  
 
-1. The parties may agree on the use of the language in which the patent was granted as the language of proceedings, subject to approval by the competent panel. If the panel does not approve their choice, the parties may request that the case be referred to the central division.  
+3. The parties may agree on the use of the language in which the patent was granted as the language of proceedings, subject to approval by the competent panel. If the panel does not approve their choice, the parties may request that the case be referred to the central division.  
 
-1. With the agreement of the parties the competent panel may, on grounds of convenience and fairness, decide on the use of the language in which the patent was granted as the language of proceedings.  
+4. With the agreement of the parties the competent panel may, on grounds of convenience and fairness, decide on the use of the language in which the patent was granted as the language of proceedings.  
 
-1. At the request of one of the parties and after having heard the other parties and the competent panel, the President of the Court of First Instance may, on grounds of fairness and taking into account all relevant circumstances, including the position of parties, in particular the position of the defendant, decide on the use of the language in which the patent was granted as language of proceedings. In this case the President of the Court of First Instance shall assess the need for specific trans ­lation and interpretation arrangements.  
+5. At the request of one of the parties and after having heard the other parties and the competent panel, the President of the Court of First Instance may, on grounds of fairness and taking into account all relevant circumstances, including the position of parties, in particular the position of the defendant, decide on the use of the language in which the patent was granted as language of proceedings. In this case the President of the Court of First Instance shall assess the need for specific translation and interpretation arrangements.  
 
-1. The language of proceedings at the central division shall be the language in which the patent concerned was granted.  
+6. The language of proceedings at the central division shall be the language in which the patent concerned was granted.  
 
 
 ###### Article 50 - Language of proceedings at the Court of Appeal
