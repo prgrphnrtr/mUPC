@@ -161,9 +161,9 @@ Relation with Agreement: Article 83(3) and (4)
 
 ###### Rule 5A - Application to remove an unauthorised application to opt out or unauthorised withdrawal of an opt -out 
 
-1. Without prejudice to the lodging of an Application to opt out or withdraw an opt -out in accordance with Rule 5, the proprietor of a European patent or the applicant for a publi shed application for a European patent or holder of a supplementary protection certificate in relation to which an Application to opt out or withdraw the opt -out is entered in the register may lodge an Application to remove the entry of an unauthorised App lication to opt out or withdrawal of the opt -out from the Registry setting out the reasons.
+1. Without prejudice to the lodging of an Application to opt out or withdraw an opt -out in accordance with Rule 5, the proprietor of a European patent or the applicant for a published application for a European patent or holder of a supplementary protection certificate in relation to which an Application to opt out or withdraw the opt -out is entered in the register may lodge an Application to remove the entry of an unauthorised Application to opt out or withdrawal of the opt -out from the Registry setting out the reasons.
 
-2. The Registrar shall mark the status of the Application to opt out or withdraw the opt -out entered in the register as subject to an Application for removal. The R egistrar shall decide on the Application for removal as soon as practicable. If the final decision is to remove the Application to opt out or withdrawal of an opt -out the Registrar shall delete it in the register.
+2. The Registrar shall mark the status of the Application to opt out or withdraw the opt -out entered in the register as subject to an Application for removal. The Registrar shall decide on the Application for removal as soon as practicable. If the final decision is to remove the Application to opt out or withdrawal of an opt -out the Registrar shall delete it in the register.
 
 3. The decision on the Application for removal may be subject to an Application for review to the President of the Court of Appeal. The Application for review shall be lodged with the Registrar in one of the official languages of the European Patent Office, within one month of the notification of the challenged decision setting out the request, facts, evidence and arguments. If the Application for review is allowable, the President of the Court of Appeal shall order the Registrar to remove the opt-out or the withdrawal of the opt-out.
 
@@ -215,7 +215,7 @@ Relation with Agreement: Article  48
 
 1. The Court may, at any stage of the proceedings, of its own motion or on a reasoned request by a party, make a procedural order such as to order a party to take any step, answer any question or provide any clarification or evidence, within time periods to b e specified.
 
-2. The Court may disregard any step, fact, evidence or argument which a party has not  taken or  submitted in accordance with a time limit set by the Court or these Rules . 
+2. The Court may disregard any step, fact, evidence or argument which a party has not  taken or  submitted in accordance with a time limit set by the Court or these Rules. 
 
 3. Subject to paragraph 4, on a reasoned request by a party, the Court may:
 
@@ -227,7 +227,7 @@ Relation with Agreement: Article  48
 
 ## PART  1 - PROCEDURES BEFORE THE COURT OF FIRST INSTANCE
 
-###### Rule 10 - Stages of the proceedings (inter partes  proceedings)
+###### Rule 10 - Stages of the proceedings (inter partes proceedings)
 
 Proceedings before the Court of First Instance shall consist of the following stages:
 
@@ -288,21 +288,21 @@ Relation with Agreement: Articles 35, 52(2) and 79
 
 1. The claimant shall lodge a Statement of claim with the division chosen by him [Article  33 of the Agreement ] which shall contain: 
 
-   (a) the name of the claimant , and, where the claimant is a corporate entity, the location of its registered office, and of the claimant ’s representative; 
+   (a) the name of the claimant, and, where the claimant is a corporate entity, the location of its registered office, and of the claimant ’s representative; 
 
    (b) the name of the party against whom the Statement is made (the defendant) , and, where the defendant is a corporate entity, the locati on of its registered office; 
 
    (c) postal and electronic addresses for service on the claimant and the names of the persons authorised to accept service; 
 
-   (d) postal and, where available, electronic addresses for service on the defendant and the names of the persons authorised to accept service , if known; 
+   (d) postal and, where available, electronic addresses for service on the defendant and the names of the persons authorised to accept service, if known; 
 
-   (e) where the claimant is not the proprietor or not the only proprietor of the patent concerned, postal and where available, electronic addresses for service on the  proprietor and the names and addresses of the persons authorised to accept service, if known; 
+   (e) where the claimant is not the proprietor or not the only proprietor of the patent concerned, postal and where available, electronic addresses for service on the proprietor and the names and addresses of the persons authorised to accept service, if known; 
 
    (f) where the claimant is not the proprietor of the patent concerned, or not the only proprietor, evidence to show the claimant is entitled to commence proceedings [Article  47(2) and (3)  of the Agreement]; 
 
    (g) details of the patent concerned, including the number; 
 
-   (h) where applicable, information about any prior or pending proceedings relating to the patent concerned before the Court including any action for revocation or a declaration of non -infringement pending before the central division and the date of any such action, the European Patent Office or any other court or authority;
+   (h) where applicable, information about any prior or pending proceedings relating to the patent concerned before the Court including any action for revocation or a declaration of non-infringement pending before the central division and the date of any such action, the European Patent Office or any other court or authority;
 
    (i) an indication of the division which shall hear the action [Article  33(1) to (6) of the Agreement] with an explanation of why that division has competence; where the parties have agreed in accordance with Article  33(7) of the Agreement, the indication of the division which shall hear the action shall be accompanied by evidence of the defendant ’s agreement;
 
@@ -312,9 +312,9 @@ Relation with Agreement: Articles 35, 52(2) and 79
 
    (l) an indication of the facts relied on, in particular: 
 
-   (i) one or more instances of alleged infringements or threatened infringements specifying the date and place of each;
-
-   (ii) the identification of the patent claims alleged to be infringed;
+	   (i) one or more instances of alleged infringements or threatened infringements specifying the date and place of each;
+	
+	   (ii) the identification of the patent claims alleged to be infringed;
 
    (m) the evidence relied on [Rule 170.1], where available, and an indication of any further evidence which will be offered in support; 
 
@@ -322,7 +322,7 @@ Relation with Agreement: Articles 35, 52(2) and 79
 
    (o) an indication of any order the claimant will seek during the interim procedure [Rule 104(e)];
 
-   (p) where the claimant assesses that the value of the infringement action exceeds EUR 500.000 , an indication of the value;and  
+   (p) where the claimant assesses that the value of the infringement action exceeds EUR 500.000, an indication of the value; and  
 
    (q) a list of the documents, including any witness statements, referred to in the Statement of  claim, together with any request that all or part of any such document need not be translated  and/or any request pursuant to Rule 262.2 or Rule 262A. 
 	
@@ -363,38 +363,38 @@ Relation with Agreement: Articles 36(3), 70 and 71
 
 ###### Rule 16 - Examination as to formal requirements of the Statement of claim
 
-1. The Registry shall as soon as practicable check whether the patent concerned is the subject of an opt-out pursuant to Article  83(3) of the Agreement and Rule 5. In the event of an opt -out the Registry shall as soon as practicable inform the claimant who may withdraw or amend the Statement of claim as appropriate.
+1. The Registry shall as soon as practicable check whether the patent concerned is the subject of an opt-out pursuant to Article 83(3) of the Agreement and Rule 5. In the event of an opt-out the Registry shall as soon as practicable inform the claimant who may withdraw or amend the Statement of claim as appropriate.
 
 2. The Registry shall, as soon as practicable after the lodging of the Statement of claim, examine whether the requirements of Rules 13.1 (a) to ( j), .2, 14 and 15.1 have been complied with. 
 
-1. If the claimant has not complied with the requirements referred to  in paragraph  2, the Registry shall as soon as practicable invite the claimant to:
-   - (a) correct the deficiencies within 14 days  of service of such notification;and  
-   - (b) where applicable, pay the fee for the infringement action within  said 14 days.
+3. If the claimant has not complied with the requirements referred to in paragraph  2, the Registry shall as soon as practicable invite the claimant to:
+   - (a) correct the deficiencies within 14 days of service of such notification;and  
+   - (b) where applicable, pay the fee for the infringement action within said 14 days.
 
 4. The Registry shall at the same time inform the claimant that if the claimant fails to correct the deficiencies or pay the fee within the time stated , a decision by default may be given, in accordance with Rule 355. 
 
-5. If the claimant fails to correct the deficie ncies or pay the fee , the Registry shall inform a judge of the division who may reject the action as inadmissible by a decision by default. The judge may give the claimant an opportunity to be heard beforehand. 
+5. If the claimant fails to correct the deficiencies or pay the fee, the Registry shall inform a judge of the division who may reject the action as inadmissible by a decision by default. The judge may give the claimant an opportunity to be heard beforehand. 
 
 
 ###### Rule 17 - Recording in the register and assignment (Court of First Instance, infringement action)  
 
 1. If the requirements referred to in Rule 16.2 or 16.3 have been complied with, the Registry shall as soon as practicable:  
 
-   (a) record the date of receipt of the Statem ent of claim and attribute an action number to the file;
+   (a) record the date of receipt of the Statement of claim and attribute an action number to the file;
 
-   (b) record the file in the register;and  
+   (b) record the file in the register; and  
 
-   (c) inform the claimant of the action number of the file and the date of receipt .
+   (c) inform the claimant of the action number of the file and the date of receipt.
  
-2. The action shall be assign ed to a panel  of a division according to Rule 345.3. Where requested by the parties the action shall be assigned to a single judge in accordance with Rule 345.6. 
+2. The action shall be assigned to a panel of a division according to Rule 345.3. Where requested by the parties the action shall be assigned to a single judge in accordance with Rule 345.6. 
 
-3. The following shall determine  the distribution of actions  between the seat of the central division and its sections.
+3. The following shall determine the distribution of actions between the seat of the central division and its sections.
 
-   (a) Where  an action involves a single paten t having a single classification , the Registry shall allocate the action  to the seat or the section  of the central division  appropriate to the classification of the p atent according to Annex  II of the Agreement. The Registry shall assign the action to a panel  in accordance ith Rule 345.3.  
+   (a) Where an action involves a single patent having a single classification, the Registry shall allocate the action  to the seat or the section  of the central division  appropriate to the classification of the patent according to Annex II of the Agreement. The Registry shall assign the action to a panel  in accordance ith Rule 345.3.  
 
-   (b) Where a n action  involves more than one patent and a majority of the patents have a single classification  appropriate to  the seat or a single section  of the central division  according to  Annex  II of the Agreement, the Registry shall allocate the action  to the seat or that section  of the central division. The Registry shall assign the action to a panel in accordance with Rule 345.3.
+   (b) Where an action  involves more than one patent and a majority of the patents have a single classification appropriate to  the seat or a single section  of the central division according to  Annex II of the Agreement, the Registry shall allocate the action  to the seat or that section  of the central division. The Registry shall assign the action to a panel in accordance with Rule 345.3.
 	  
-   (c) Where neither paragraph (a) nor (b) applies , especially where  
+   (c) Where neither paragraph (a) nor (b) applies, especially where  
 	
    (i) the action involves a single patent having more than one classification or  
 	
@@ -417,7 +417,7 @@ The presiding judge of the panel to which the action has been assigned [Rule 17.
 
 1. Within one month of service of the Statement of claim, the defendant may lodge a Preliminary objection concerning : 
 
-   (a) the jurisdiction and competence of the Court , including any objection that an opt -out pursuant to Rule 5 applies to the patent that is the subject of the proceedings;
+   (a) the jurisdiction and competence of the Court, including any objection that an opt-out pursuant to Rule 5 applies to the patent that is the subject of the proceedings;
 
    (b) the competence of the division indicated by the claimant [Rule 13.1(i)];
 
@@ -441,14 +441,15 @@ The presiding judge of the panel to which the action has been assigned [Rule 17.
    
 6. The period for lodging the Statement of defence [Rule 23] shall not be affected by the lodging of a Preliminary objection, unless the judge-rapporteur decides otherwise.
    
-7. The defendant ’s failure to lodge a Preliminary objection within the time period referred to in paragraph  1 shall be treated as a submission to the jurisdiction and competence of the Court and the competence of the division chosen by the claimant . 
+7. The defendant ’s failure to lodge a Preliminary objection within the time period referred to in paragraph 1 shall be treated as a submission to the jurisdiction and competence of the Court and the competence of the division chosen by the claimant . 
 
 
 ###### Rule 20 - Decision or order on a Preliminary objection  
 
-1. As soon as practicable after the expiry of the period referred to in Rule 19.5, the judge-rapporteur shall decide the Preliminary objection.  The judge-rapporteur shall give the parties an opportunity to be heard.  The dec ision shall include instructions to the parties and to the Registry concerning the next step in the proceedings.
+1. As soon as practicable after the expiry of the period referred to in Rule 19.5, the judge-rapporteur shall decide the Preliminary objection. The judge-rapporteur shall give the parties an opportunity to be heard. The decision shall include instructions to the parties and to the Registry concerning the next step in the proceedings.
 
 2. Where the Preliminary objection is to be dealt with in the main proceedings, the judge-rapporteur shall inform the parties.  
+
 
 ###### Rule 21 - Appeal against decision or order on a Preliminary objection  
 
@@ -461,9 +462,9 @@ The presiding judge of the panel to which the action has been assigned [Rule 17.
 
 ###### Rule 22 - Determination of value-based fee for the infringement action 
 
-1. The value of the infringement action shall be determined by the judge-rapporteur  under Rule 370.6, taking into account the  value as assessed by the parties , by way of an order during the interim procedure.
+1. The value of the infringement action shall be determined by the judge-rapporteur under Rule 370.6, taking into account the  value as assessed by the parties, by way of an order during the interim procedure.
 
-2. Where the value of the infringement action exceeds EUR  500.000, the claimant shall pay a value-based fee for the infringement action, in accordance with Part 6.  [[UPCRoP#Rule 16 - Examination as to formal requirements of the Statement of claim|Rule 16.3 to .5]] shall apply mutatis mutandis. 
+2. Where the value of the infringement action exceeds EUR 500.000, the claimant shall pay a value-based fee for the infringement action, in accordance with Part 6.  [[UPCRoP#Rule 16 - Examination as to formal requirements of the Statement of claim|Rule 16.3 to .5]] shall apply mutatis mutandis. 
 
 ##### STATEMENT OF DEFENCE  
 
@@ -525,7 +526,7 @@ The Statement of defence shall contain:
 The defendant shall pay the fee for the Counterclaim for revocation in accordance with Part  6. Rule 15.2 shall apply mutatis mutandis .  
 
 
-###### Rule 27 - Examination as to formal requirements of the Statement of defence  and Counterclaim for revocation
+###### Rule 27 - Examination as to formal requirements of the Statement of defence and Counterclaim for revocation
 
 1. The Registry shall, as soon as practicable after the lodging of the Statement of defence: 
 
@@ -541,7 +542,7 @@ The defendant shall pay the fee for the Counterclaim for revocation in accordanc
 
 3. The Registry shall at the same time inform the defendant that if the defendant fails to correct the deficiencies or pay the fee within the time stated, a decision by default may be given, in accordance with Rule 355.
 
-4. If the defendant fails to correct the deficiencies or to pay the fee for the Counterclaim for revocation, as appropriate, within  said 14 days, the Registry shall inform the judge-rapporteur who may give a decision by default.  He may give the defendant an opportunity to be heard beforehand. 
+4. If the defendant fails to correct the deficiencies or to pay the fee for the Counterclaim for revocation, as appropriate, within said 14 days, the Registry shall inform the judge-rapporteur who may give a decision by default.  He may give the defendant an opportunity to be heard beforehand. 
 
 
 ###### Rule 28 - Further schedule  
@@ -559,7 +560,7 @@ As soon as practicable after service of the Statement of defence, the judge-rapp
 
    (c) Within one month of service of a Reply to the Statement of defence which does not include a Counterclaim for revocation the defendant may lodge a Rejoinder to the Reply to the Statement of defence.  The Rejoinder to the Reply to the Statement of defence shall be limited to a response to the matters raised in the Reply to the Statement of defence.  
 
-   (d) Within two months of service of the Defence to Counterclaim the defendant may lodge a Reply to the Defence to the Counterclaim together with  any Rejoinder to the Reply to the Statement of defence and any Defence to an Application to amend the patent pursuant t o Rule 32, if applicable.  
+   (d) Within two months of service of the Defence to Counterclaim the defendant may lodge a Reply to the Defence to the Counterclaim together with any Rejoinder to the Reply to the Statement of defence and any Defence to an Application to amend the patent pursuant t o Rule 32, if applicable.  
 
    (e) Within one month of the service of the Reply to the Defence to the Counterclaim, the claimant  may lodge a Rejoinder to the Reply together with any Reply to the Defence to an Application to amend the patent pursuant to Rule 32, if applicable. The Rejoinder to the Reply to the Statement of defence shall be limited to a response to the matters raised in the Reply to the Statement of defence . 
 
@@ -568,12 +569,11 @@ As soon as practicable after service of the Statement of defence, the judge-rapp
 
 ###### Rule 29A - Contents  of the Defence to the Counterclaim  
 
-The Defence to the Counterclaim for revocation shall contain: 
+The Defence to the Counterclaim for revocation shall contain:
+
+   (a) an indication of the facts relied on, including any challenge to the facts relied on by the defendant ; 
   
-(a) an indication of the facts relied on, including any challenge to the facts relied on by the defendant ; 
-  
-   (b) the evidence relied on [Rule 170.1], where available, and an indication of any further evidence which 
-will be offered in support ; 
+   (b) the evidence relied on [Rule 170.1], where available, and an indication of any further evidence which will be offered in support ; 
   
    (c) the reasons why the Counterclaim for revocation shall fail, including arguments of law and any argument as to why any dependent claim of the patent is independ ently valid;  
    
@@ -633,7 +633,7 @@ will be offered in support ;
 
 ###### Rule 35 - Closure of the written procedure 
 
-Following the exchange of written  pleadings in accordance with Rule 12.1 and, where applicable, in accordance with Rule 12.2 to .4, the judge-rapporteur shall : 
+Following the exchange of written pleadings in accordance with Rule 12.1 and, where applicable, in accordance with Rule 12.2 to .4, the judge-rapporteur shall : 
 
    (a) inform the parties of the date on which he intends to close the written procedure, without prejudice to Rule 36; and  
 
@@ -871,7 +871,8 @@ Rules 35 and 36 shall apply mutatis mutandis .
 
 ###### Rule 60 - Determination of the value-based fee for the Counterclaim for infringement  
 
-1. The value of the Counterclaim for infringement shall be determined by the judge-rapporteur  under Rule 370.6 , taking into account the  value as assessed by the parties , by way of an order during the interim procedure . 
+1. The value of the Counterclaim for infringement shall be determined by the judge-rapporteur under Rule 370.6 , taking into account the  value as assessed by the parties, by way of an order during the interim procedure.
+
 2. Where the value of the Counterclaim for infringement exceeds EUR  500.000 , the defendant shall pay a value -based fee in accordance with Part  6. Rule 16.3 to .5 shall apply mutatis mutandis.  
 
 
@@ -1097,11 +1098,11 @@ Relation with Agreement: Articles 32(1)(i), 33(9), 47(7), 48(7) and 49(6)
 	- (a) correct the deficiencies noted, within 14 days  from the date of service of such notification ; and  
 	- (b) where applicable, pay the fee for the action against a decision of the Office , within  said 14 days.  
 
-3. The Registry shall at the same time inform the claimant that if the claimant fails to correct the  deficiencies or pay the fee within the time stated , a decision by default may be given in accordance with Rule 355. 
+3. The Registry shall at the same time inform the claimant that if the claimant fails to correct the deficiencies or pay the fee within the time stated, a decision by default may be given in accordance with Rule 355. 
 
 4. If the claimant fails to correct the deficiencies noted or to pay the fee for the action against a decision of the Office, the Registry shall inform the President of the Court of First Instance who may reject the action as inadmissible by a decision by defau lt. He may give the claimant an opportunity to be heard beforehand.  
 
-###### Rule 90 - Recording in the register ( ex parte  proceedings)  
+###### Rule 90 - Recording in the register (ex parte proceedings)  
 
 If the requirements referred to in Rule 89.1 have been complied with, the Registry shall as soon as practicable: 
 
@@ -1128,7 +1129,7 @@ Where the action is not closed in accordance with Rule 91.2, the action shall, a
 
 ###### Rule 93 - Examination of the Application to annul or alter a decision of the Office  
 
-1. In the examination of the Application to annul or alter a decision of the Office, the judge-rapporteur may invite the claimant to lodge further written pleadings, within a time pe riod to be specified.
+1. In the examination of the Application to annul or alter a decision of the Office, the judge-rapporteur may invite the claimant to lodge further written pleadings, within a time period to be specified.
 
 2. Where appropriate, the judge-rapporteur may, after consulting the claimant, set a date and time for an interim conference.
 
@@ -1137,12 +1138,12 @@ Where the action is not closed in accordance with Rule 91.2, the action shall, a
 
 ###### Rule 94 - Invitation to the President of the European Patent Office  to comment  
 
-The judge-rapporteur may, on his own initiative or on request by the President of the European Patent Office, invite the President of the European Patent Office to comment in writing on any question arising in the course of proceedings under th is Section  including any appeal by the claimant pursuant to Rule 220. The claimant shall be entitled to submit his observations on the President ’s comments. 
+The judge-rapporteur may, on his own initiative or on request by the President of the European Patent Office, invite the President of the European Patent Office to comment in writing on any question arising in the course of proceedings under this Section  including any appeal by the claimant pursuant to Rule 220. The claimant shall be entitled to submit his observations on the President ’s comments. 
 
  
-###### Rule 95 - Lex specialis  for the interim procedure ( ex parte  procedure)  
+###### Rule 95 - Lex specialis  for the interim procedure (ex parte  procedure)  
 
-During the interim procedure , the judge-rapporteur shall invite the claimant to indicate whether he wishes that an oral hearing be convened. The judge-rapporteur may convene an oral hearing at his own instance.  
+During the interim procedure, the judge-rapporteur shall invite the claimant to indicate whether he wishes that an oral hearing be convened. The judge-rapporteur may convene an oral hearing at his own instance.  
 
 
 ###### Rule 96 - Lex specialis  for the oral procedure ( ex parte  procedure)  
@@ -1176,7 +1177,7 @@ The parties shall bear their own costs in any action pursuant to Rule 85 or 97.
 
 ###### Rule 101 - Role of the judge-rapporteur (Case management) 
 
-1. During the interim procedure, the judge-rapporteur shall make all necessary preparations for the oral hearing. He may in particular, where appropriate, and subject to the mandate of the panel, hold an interim conference with the parties which may be held on more than one occasion and may e xercise the powers provided for in Rule 334.
+1. During the interim procedure, the judge-rapporteur shall make all necessary preparations for the oral hearing. He may in particular, where appropriate, and subject to the mandate of the panel, hold an interim conference with the parties which may be held on more than one occasion and may exercise the powers provided for in Rule 334.
 
 2. The judge-rapporteur shall have the obligation to ensure a fair, orderly and efficient interim procedure.  
 
@@ -1354,7 +1355,7 @@ Relation with Agreement: Article 45
 
 4. If due to an exceptional occurrence a party is prevented from being represented at the oral hearing, the Court shall on a reasoned request of that party, adjourn the oral hearing.  
 
-5. The provisions of this Rule are without prejudice to the power of the C ourt to give a decision by default pursuant to Rule 355. 
+5. The provisions of this Rule are without prejudice to the power of the Court to give a decision by default pursuant to Rule 355. 
 
 
 ###### Rule 117 - Absence of both parties from the oral hearing  
@@ -1492,7 +1493,7 @@ The applicant may within one month lodge a Reply to the Defence to the Applicati
 
 1. The judge-rapporteur may order further exchange of written pleadings, within time periods to be specified.  
 
-2. The provisions of Part  1, Chapters  2 (Interim procedure) and 3 (Oral procedure) shall apply mutatis mutandis  but with such reduced timetable as the judge-rapporteur may order.  He shall decide on the obligation to bear the legal costs of the proceedings for the determination of damages in accordance with Article 69 of the Agreement.  
+2. The provisions of Part  1, Chapters 2 (Interim procedure) and 3 (Oral procedure) shall apply mutatis mutandis  but with such reduced timetable as the judge-rapporteur may order.  He shall decide on the obligation to bear the legal costs of the proceedings for the determination of damages in accordance with Article 69 of the Agreement.  
 
 
 #### SECTION  2 - REQUEST TO LAY OPEN BOOKS  
@@ -1614,7 +1615,7 @@ Relation with Agreement: Article 69
 
 3. The order for security shall indicate that an appeal may be lodged in accordance with Article  73 of the Agreement and Rule 220.2.  
 
-4. The Court shall , when specifying the time period in paragraph  1, inform the party concerned that if the party fails to provide adequate security within the time stated, a decision by default may be given,  in accordance with Rule 355. 
+4. The Court shall , when specifying the time period in paragraph 1, inform the party concerned that if the party fails to provide adequate security within the time stated, a decision by default may be given,  in accordance with Rule 355. 
 
 5. If a party fails to provide adequate security within the time stated, the Court may give a decision by default pursuant to Rule 355. 
 
@@ -1837,7 +1838,7 @@ Relation with Agreement: Article 57
 
 2. During the written and interim procedures, a party may request such an order to produce evidence.  
 
-3. The judge-rapporteur may make such order in the written procedure or in the interim procedure having given the other/third party an opportunity to be heard.  
+3. The judge-rapporteur may make such order in the written procedure or in the interim procedure having given the other/third party an opportunity to be heard. 
 
 4. An order to produce evidence shall in particular specify : 
 	- (a) under which conditions, in what f orm and within what time period the evidence shall be produced ;  
@@ -2034,7 +2035,7 @@ Relation with Agreement: Article 60
 
 ###### Rule 205 - Stages of the proceedings (summary proceedings)  
 
-Provisional measures are treated by way of s ummary proceedings which shall consist of the following stages:  
+Provisional measures are treated by way of summary proceedings which shall consist of the following stages:  
 
    (a) a written procedure;  and 
 
@@ -2046,19 +2047,19 @@ Provisional measures are treated by way of s ummary proceedings which shall cons
 1. An Application for provisional measures may be lodged by a party (hereinafter "the applicant") before or after main proceedings on the merits of the case have been started before the Court. 
 
 2. An Application for provisional measures shall contain : 
-	- (a) particulars in ac cordance with Rule 13.1(a) to (i) ; 
+	- (a) particulars in accordance with Rule 13.1(a) to (i) ; 
 	- (b) a indication of the provisional measures which are being requested [Rule 211.1] ; 
 	- (c) the reasons why provisional measures are necessary to prevent a threatened infringement, to forbid the continuation of an alleged in fringement or to make such continuation subject to the lodging of guarantees ; 
 	- (d) the facts and evidence relied on in support of the Application, including evidence to support the claim that provisional measures are necessary including the matters referred  to in Rule 211.2 and .3 ; and  
 	- (e) a concise description of the action which will be started before the Court, including an indication of the facts and evidence which will be relied on in support of the main proceedings on the merits of the case.
 
-3. Where the applicant requests that provisional measures be ordered without hearing the other party (hereinafter "the defendant"), the Application for provisional measures shall in addition contain: 
+3. Where the applicant requests that provisional measures be ordered without hearing the other party (hereinafter "the defendant"), the Application for provisional measures shall in addition contain:
 	- (a) the reasons for not hearing the defendant having regard in par ticular to Rule 197; and  
 	- (b) information about any prior correspondence between the parties concerning the alleged infringement.
   
 4. The applicant shall be under a duty to disclose any material fact known to it which might influence the Court in deciding whether to make an order without hearing the defendant including any pending proceedings and/or any unsuccessful attempt in the past to obtain provisional measures in respect of the patent.
 
-5. Rule 14 shall apply mutatis mutandis . The applicant sh all pay the fee for the Application for provisional measures, in accordance with Part  6. Rule 15.2 shall apply mutatis mutandis .  
+5. Rule 14 shall apply mutatis mutandis. The applicant sh all pay the fee for the Application for provisional measures, in accordance with Part  6. Rule 15.2 shall apply mutatis mutandis.  
 
 *Relation with Agreement: Articles 32(1)(c) and 62*   
 
@@ -2067,7 +2068,7 @@ Provisional measures are treated by way of s ummary proceedings which shall cons
 
 1. If a person entitled to start proceedings under Article  47 of the Agreement considers it likely that an Application for provisional measures against him as a defendant may be lodged before the Court in the near future, he may file a Protective letter.  
 
-2. The Protective letter shall be filed with the Registry in the language of the patent and shall contain : 
+2. The Protective letter shall be filed with the Registry in the language of the patent and shall contain: 
 	- (a) the name of the defendant or defendants filing the Protective letter and of the defendant’s representative; 
 	- (b) the name of the presumed applicant for provisional measures; 
 	- (c) postal and electronic addresses for service on the defendant filing the Protective letter and the names of the persons authorised to accept service ; 
@@ -2076,11 +2077,11 @@ Provisional measures are treated by way of s ummary proceedings which shall cons
 	- (f) the statement that the letter is a Protective letter.  
 
 3. The Protective letter may contain : 
-	- (a) an indication of the facts relied on, which may include a challenge to the facts expected to be relied on by the presumed applicant  and/or, where applicable, any assertion that the patent is invalid and the grounds for such assertion ; 
+	- (a) an indication of the facts relied on, which may include a challenge to the facts expected to be relied on by the presumed applicant  and/or, where applicable, any assertion that the patent is invalid and the grounds for such assertion; 
 	- (b) any available written evidence relied on ; 
 	- (c) the arguments of law, including the reasons why any Application for provisional measures should be rejected.  
 
-4. The defendant  or defendants  filing the Protective letter shall pay the fee for filing a Protective letter, in accordance with Part  6. Rule 15.2 shall apply mutatis mutandis . 
+4. The defendant or defendants filing the Protective letter shall pay the fee for filing a Protective letter, in accordance with Part  6. Rule 15.2 shall apply mutatis mutandis. 
 
 5. The Registry shall as soon as practicable examine whether the requirements of paragraphs 2(a) to (f) and 4 have been complied with. If these requirements have been complied with, the Registry shall as soon as practicable:  
 	- (a) record the date of receipt and assign a number to the Protective letter ; 
@@ -2090,11 +2091,11 @@ Provisional measures are treated by way of s ummary proceedings which shall cons
 
 6. If the defendant has not complied with the requirements of paragraph  2 the Registry shall as soon as practicable invite the defendant to:  
 	- (a) correct the deficiencies within 14 days  of service of such notification ; and  
-	- (b) where applicable, pay th e fee referred to in paragraph 4.  
+	- (b) where applicable, pay the fee referred to in paragraph 4.  
 
 7. The protective letter shall not be publicly available on the register until it has been forwarded to the applicant pursuant to paragraph  8.  
 
-8. Where an Application for provisional measures is subsequently lodged the Re gistrar shall forward a copy of the protective letter to the panel or judge appointed under Rule 208 together with the Application for provisional measures and shall forward a copy to the applicant  as soon as practicable.  
+8. Where an Application for provisional measures is subsequently lodged the Registrar shall forward a copy of the protective letter to the panel or judge appointed under Rule 208 together with the Application for provisional measures and shall forward a copy to the applicant  as soon as practicable.  
 
 9. If no Application for provision al measures has been lodged within six months from the date of receipt of the Protective letter, the Protective letter shall be removed from the register unless the person who has lodged the Protective letter has prior to the expiry of such period applied for an extension of six months and paid a fee for the extension in accordance with Part  6. Further extensions may be obtained on further payments of the fee.  
 
@@ -2116,21 +2117,21 @@ Provisional measures are treated by way of s ummary proceedings which shall cons
 
 ###### Rule 209 - Examination of the Application for provisional measures  
 
-1. Without prejudice to the Court’s decision on the Application for provisional measures, the Court shall have the discretion - including where the Application is made pursuant to Rule 206.3 - to: 
-	- (a) inform the defenda nt about the Application and invite him to lodge, within a time period to be specified, an Objection to the Application for provisional measures which shall contain: 
+1. Without prejudice to the Court’s decision on the Application for provisional measures, the Court shall have the discretion - including where the Application is made pursuant to Rule 206.3 - to:
+	- (a) inform the defendant about the Application and invite him to lodge, within a time period to be specified, an Objection to the Application for provisional measures which shall contain: 
 		- (i) the reasons why the Application shall fail ;  
 		- (ii) the facts and evidence relied on, in particular any challenge to the facts and evidence relied on by the applicant ; and 
 		- (iii) where main proceedings on the merits of the case have not yet been started before the Court, the reasons why the action which will be started before the Court shall  fail and the facts and evidence relied on in support; 
 	- (b) summon the parties to an oral hearing ; 
 	- (c) summon the applicant to an oral hearing without the presence of the defendant. 
 
-2. In exercising its discretion pursuant to paragraph  1, the Court shall in  particular take into account: 
+2. In exercising its discretion pursuant to paragraph  1, the Court shall in particular take into account: 
 	- (a) whether the patent has been upheld in an opposition procedure before the European Patent Office or has been the subject of proceedings in any other court ; 
 	- (b) the urgency of the action ; 
-	- (c) whether the applicant has reque sted provisional measures without hearing the defendant and whether the reasons for not hearing the defendant appear well -founded ; and  
-	- (d) any Protective letter filed by the defendant; the Court shall in particular consider summoning parties to an oral hea ring if a relevant Protective letter has been filed by the defendant.  
+	- (c) whether the applicant has requested provisional measures without hearing the defendant and whether the reasons for not hearing the defendant appear well -founded ; and  
+	- (d) any Protective letter filed by the defendant; the Court shall in particular consider summoning parties to an oral hearing if a relevant Protective letter has been filed by the defendant.  
 
-3. In cases of extreme urgency the standing judge ap pointed in accordance with Rule 345.5 may decide immediately on the Application for provisional measures and the procedure to be follo wed on the Application.  
+3. In cases of extreme urgency the standing judge appointed in accordance with Rule 345.5 may decide immediately on the Application for provisional measures and the procedure to be followed on the Application.  
 
 4. If the applicant has applied for provisional measures without hearing the defendant and the Court decides not to grant provisional measures without hearing the defendant the applicant may withdraw the application and may request that the Court order that the Application and the contents of the Application remain confidential.
 
@@ -2148,7 +2149,7 @@ Provisional measures are treated by way of s ummary proceedings which shall cons
 4. The decision of the Court on the Application for provisional measures shall be given in writing as soon as possible after the closure of the oral hearing. If the Court deems appropriate, its decision may be given orally to the parties at th e end of the oral hearing , prior to providing its decision in writing.  
 
 
-###### Rule 211 - Order  on the Application for provisional measures  
+###### Rule 211 - Order on the Application for provisional measures  
 
 1. The Court may in particular order the following provisional measures:  
 	- (a) injunctions against a defendant;  
@@ -2160,11 +2161,11 @@ Provisional measures are treated by way of s ummary proceedings which shall cons
 
 3. In taking its decision the Court shall in the exercise of its discretion weigh up the interests of the parties  and, in particular, take into account the potential harm for either of the parties resulting from the granting or the refusal of the injunction . 
 
-4. The Court shall have regard to any unreasonable delay in seeking provisional measures.  
+4. The Court shall have regard to any unreasonable delay in seeking provisional measures.
 
-5. The Court may order the applicant to provide adequate security for appropriate compensation for any injury likely to be caused to the defendant which the applican t may be liable to bear in the event that the Court revokes the order for provisional measures.  The Court shall do so where interim measures are ordered without the defendant having been heard  unless there are special circumstances not to do so . The Court shall decide whether it is appropriate to order the security by deposit or bank guarantee.  The order shall be effective only after the security has been given  to the defendant  in accordance with the Court’s decision.  
+5. The Court may order the applicant to provide adequate security for appropriate compensation for any injury likely to be caused to the defendant which the applicant may be liable to bear in the event that the Court revokes the order for provisional measures.  The Court shall do so where interim measures are ordered without the defendant having been heard  unless there are special circumstances not to do so . The Court shall decide whether it is appropriate to order the security by deposit or bank guarantee.  The order shall be effective only after the security has been given  to the defendant  in accordance with the Court’s decision.  
 
-6. The order on provisional measures s hall indicate that an appeal may be bro ught in accordance with Article  73 of the Agreement  and Rule 220.1 . 
+6. The order on provisional measures s hall indicate that an appeal may be brought in accordance with Article  73 of the Agreement  and Rule 220.1 . 
 
 *Relation with Agreement: Article 62(2) and (4)*
 
@@ -2411,7 +2412,7 @@ The presiding judge of the panel to which the action has been assigned shall des
 
 #### SECTION  3 - REPLY TO A STATEMENT OF CROSS -APPEAL  
 
-###### Rule 238 - Reply to a Statement of cross -appeal  and further schedule  
+###### Rule 238 - Reply to a Statement of cross-appeal  and further schedule  
 
 1. The appellant may, within two months of service of any Statement of cross -appeal under  Rules  237,  235.1 , lodge a Reply to the Statement of cross -appeal which shall contain a response to the grounds of appeal raised in the Statement  of cross -appeal.  
 
@@ -2434,7 +2435,7 @@ The presiding judge of the panel to which the action has been assigned shall des
 
 ###### Rule 239 - Role of the judge-rapporteur  
 
-1. Upon the expiry of the periods specified in Rules  224 to 238 the judge-rapporteur shall make all necessary preparations for the oral hearing. Subject always to the provisions of Rule 222, the judge-rapporteur shall, to the extent appropriate, have the powers and exercise the duties set out in Rules  101 to 110 mutatis mutandis . 
+1. Upon the expiry of the periods specified in Rules 224 to 238 the judge-rapporteur shall make all necessary preparations for the oral hearing. Subject always to the provisions of Rule 222, the judge-rapporteur shall, to the extent appropriate, have the powers and exercise the duties set out in Rules  101 to 110 mutatis mutandis . 
 
 2. As soon as the judge-rapporteur considers that the appeal is ready for oral hearing he shall summon the parties to the  oral hearing.  Except for appeals against the orders referred to in Rule 220.1(c) and 220.2 , and subject to any order for expedition pursuant to Rule 230.3 , at least two months ’ notice shall be given unless the parties agree to a shorter time period.  The i nterim procedure shall be deemed closed and oral procedure shall start immediately on the giving of such summons.  The presiding judge shall, in consultation with the judge-rapporteur take over the management of the action.    
 
@@ -2756,7 +2757,7 @@ This Section applies to service of a Statement of claim outside the Contracting 
 
 ###### Rule 275 - Service of the Statement of claim by an alternative method or at an alternative place  
 
-1. Where service in accordance with Section 1 or 2 could not be effected the Court on an application by the claimant that ther e is a good reason to authorise service by a method or at a place not otherwise permitted by this Chapter, the Court may by way of order permit service by an alternative method or at an alternative place.  
+1. Where service in accordance with Section 1 or 2 could not be effected the Court on an application by the claimant that there is a good reason to authorise service by a method or at a place not otherwise permitted by this Chapter, the Court may by way of order permit service by an alternative method or at an alternative place.  
 
 2. On a reasoned request by the claimant, the Court  may order that steps already taken to bring the Statement of claim to the attention of the defendant by an alternative method or at an alternative place is good service.  
 
@@ -2798,7 +2799,7 @@ No decision by default shall be entered under Part 5, Chapter  11 unless the Cou
   
    (b) any method authorised by the Court under Rule 275.
    
-3. Service under paragraph  2(a) shall be effected at the following place:  
+3. Service under paragraph 2(a) shall be effected at the following place:  
   
   (a) where the party is a company or other legal person: at its statutory seat, central administration, principal place of business or at any place within the Contracting Member States where the company or other legal person has a place of business;  
   
@@ -2970,7 +2971,7 @@ The Court may stay proceedings :
 Any decision referred to in Rule 296.2 ordering the resumption of proceedings before the end of the stay shall be made by order of the judge-rapporteur after hearing the parties. The judge-rapporteur may refer the matter to the panel.
 
 
-###### Rule 298 - Accelerated proceedings before the European Patent Office  
+###### Rule 298 - Accelerated proceedings before the European Patent Office
 
 The Court may of its own motion or at the request of a party request that opposition proceedings or limitation proceedings (including any subsequent appeal proceedings) before the European Patent Office be accelerated in accordance with the proceedings of the European Patent Office.  The Court may stay its proceedings in accordance with Rule 295(a) pending the outcome of such request and any subsequent accelerated proceedings. 
 
@@ -3444,9 +3445,9 @@ The Court may, by way of order, of its own motio n or on application by a party 
 
 3. The Court’s decisions and orders may provide for periodic penalty payments payable to the Court in the event that a party fails to comply with the  terms of the order or an earlier order.  The value of such payments shall be set by the Court having regard to the importance of the order in question.   
 
-4. If it is alleged that a party has failed to comply with the terms of the orde r of the C ourt, the first instance panel of the division in question may decide on penalty payments provided for in the order upon the request of the other party or o f its own motion. The procedure foreseen in Rule 264 shall apply. After having heard bo th parties the C ourt ma y make an appropriate order which may be subject to an appeal pursuant to Rule 220.2.  
+4. If it is alleged that a party has failed to comply with the terms of the orde r of the C ourt, the first instance panel of the division in question may decide on penalty payments provided for in the order upon the request of the other party or o f its own motion. The procedure foreseen in Rule 264 shall apply. After having heard both parties the Court may make an appropriate order which may be subject to an appeal pursuant to Rule 220.2.  
 
-*Relation with Agreement: Article 82* 
+*Relation with Agreement: Article 82*
 
 
 ### CHAPTER  11 - DECISION BY DEFAULT  
@@ -3738,9 +3739,9 @@ The Court may at any time, on the application of a party or of its own  motion, 
 
 2. If the requirements referred to in Rules  377.1(a), .2, 377A, 378 and 378 A have not been met, the applicant shall, as soon as practicable, be invited to correct the deficiencies within 14 days.  
 
-3. If the requirements referred to in Rules  377.1(a), .2, 377A, 378 and 378A have been met or the applicant fails to corr ect a deficiency, the decision on such application shall be taken, by way of order, by the judge-rapporteur or, where the application is lodged before the action has been brought, by the standing judge.  
+3. If the requirements referred to in Rules  377.1(a), .2, 377A, 378 and 378A have been met or the applicant fails to correct a deficiency, the decision on such application shall be taken, by way of order, by the judge-rapporteur or, where the application is lodged before the action has been brought, by the standing judge.  
 
-4. Before making a decision on an application for leg al aid, the Court shall invite the other party to submit written observations unless it is already apparent from the information submitted that the conditions referred to in Rule 377.1(b) have  not been met. Documents regarding the economic and financial si tuation of the applicant shall be made accessible to the other party only where the applicant has consented or the applicant’s refusal of consent is unreasonable or in the view of the Court the other party has a right to information on the economic or financial situation of the applicant.  
+4. Before making a decision on an application for leg al aid, the Court shall invite the other party to submit written observations unless it is already apparent from the information submitted that the conditions referred to in Rule 377.1(b) have  not been met. Documents regarding the economic and financial situation of the applicant shall be made accessible to the other party only where the applicant has consented or the applicant’s refusal of consent is unreasonable or in the view of the Court the other party has a right to information on the economic or financial situation of the applicant.  
 
 5. An order refusing legal aid shall state the reasons on which it is based.  
 
