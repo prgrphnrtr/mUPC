@@ -1,0 +1,4 @@
+---
+fileClass: term
+aliases: Definitionen
+---
