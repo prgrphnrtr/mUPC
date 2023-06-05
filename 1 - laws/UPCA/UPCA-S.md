@@ -93,7 +93,7 @@ judge shall end when that judge resigns.
 2. Where a judge resigns, the letter of resignation shall be addressed to the President of the Court of 
 Appeal or, in the case of judges of the Court of First Instance, the President of the Court of First Instance for 
 transmission to the Chairman of the Administrative Committee.  
-3. Save where Article 10 applies, a judge shall continue to hold office until that judge’s successor takes 
+3. Save where Article 10 applies, a judge shall continue to hold office until that judge's successor takes 
 up his or her duties.  
 4. Any vacancy shall by filled by the appointment of a new judge for the remainder of his or her 
 predecessor's term. 

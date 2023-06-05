@@ -21,7 +21,7 @@ CONSIDERING that cooperation amongst the Member States of the European Union in 
 
 CONSIDERING that the fragmented market for patents and the significant variations between national court systems are detrimental for innovation, in particular for small and medium-sized enterprises which have difficulties to enforce their patents and to defend themselves against unfounded claims and claims relating to patents which should be revoked;  
 
-CONSIDERING that the European Patent Convention (‘EPC’) which has been ratified by all Member States of the European Union provides for a single procedure for granting European patents by the European Patent Office;  
+CONSIDERING that the European Patent Convention (‘EPC') which has been ratified by all Member States of the European Union provides for a single procedure for granting European patents by the European Patent Office;  
 
 CONSIDERING that by virtue of Regulation (EU) No 1257/2012[^2], patent proprietors can request unitary effect of their European patents so as to obtain unitary patent protection in the Member States of the European Union participating in the enhanced cooperation;  
 
@@ -62,16 +62,16 @@ A Unified Patent Court for the settlement of disputes relating to European paten
 ###### Article 2 - Definitions 
 
 For the purposes of this Agreement:
-- (a) ‘Court’ means the Unified Patent Court created by this Agreement. 
-- (b) ‘Member State’ means a Member State of the European Union.  
-- (c) ‘Contracting Member State’ means a Member State party to this Agreement.
-- (d) ‘EPC’ means the Convention on the Grant of European Patents of 5 October 1973, including any subsequent amendments.  
-- (e) ‘European patent’ means a patent granted under the provisions of the EPC, which does not benefit from unitary effect by virtue of Regulation (EU) No 1257/2012.  
-- (f) ‘European patent with unitary effect’ means a patent granted under the provisions of the EPC which benefits from unitary effect by virtue of Regulation (EU) No 1257/2012.  
-- (g) ‘Patent’ means a European patent and/or a European patent with unitary effect.  
-- (h) ‘Supplementary protection certificate’ means a supple ­mentary protection certificate granted under Regulation (EC) No 469/2009[^9] or under Regulation (EC) No 1610/96[^14]. 
-- (i) ‘Statute’ means the Statute of the Court as set out in Annex I, which shall be an integral part of this Agreement.  
-- (j) ‘Rules of Procedure’ means the Rules of Procedure of the Court, as established in accordance with Article 41.
+- (a) ‘Court' means the Unified Patent Court created by this Agreement. 
+- (b) ‘Member State' means a Member State of the European Union.  
+- (c) ‘Contracting Member State' means a Member State party to this Agreement.
+- (d) ‘EPC' means the Convention on the Grant of European Patents of 5 October 1973, including any subsequent amendments.  
+- (e) ‘European patent' means a patent granted under the provisions of the EPC, which does not benefit from unitary effect by virtue of Regulation (EU) No 1257/2012.  
+- (f) ‘European patent with unitary effect' means a patent granted under the provisions of the EPC which benefits from unitary effect by virtue of Regulation (EU) No 1257/2012.  
+- (g) ‘Patent' means a European patent and/or a European patent with unitary effect.  
+- (h) ‘Supplementary protection certificate' means a supple ­mentary protection certificate granted under Regulation (EC) No 469/2009[^9] or under Regulation (EC) No 1610/96[^14]. 
+- (i) ‘Statute' means the Statute of the Court as set out in Annex I, which shall be an integral part of this Agreement.  
+- (j) ‘Rules of Procedure' means the Rules of Procedure of the Court, as established in accordance with Article 41.
 
 
 
@@ -323,7 +323,7 @@ A patent shall confer on its proprietor the right to prevent any third party not
 
 ###### Article 26 - Right to prevent the indirect use of the invention
 
-1. A patent shall confer on its proprietor the right to prevent any third party not having the proprietor’s consent from supplying or offering to supply, within the territory of the Contracting Member States in which that patent has effect, any person other than a party entitled to exploit the patented invention, with means, relating to an essential element of that invention, for putting it into effect therein, when the third party knows, or should have known, that those means are suitable and intended for putting that invention into effect.
+1. A patent shall confer on its proprietor the right to prevent any third party not having the proprietor's consent from supplying or offering to supply, within the territory of the Contracting Member States in which that patent has effect, any person other than a party entitled to exploit the patented invention, with means, relating to an essential element of that invention, for putting it into effect therein, when the third party knows, or should have known, that those means are suitable and intended for putting that invention into effect.
 
 2. Paragraph 1 shall not apply when the means are staple commercial products, except where the third party induces the person supplied to perform any of the acts prohibited by Article 25.  
 
@@ -430,7 +430,7 @@ Decisions of the Court shall cover, in the case of a European patent, the territ
 
 ###### Article 35 - Patent mediation and arbitration centre
 
-1. A patent mediation and arbitration centre (‘the Centre’) is hereby established. It shall have its seats in Ljubljana and Lisbon. 
+1. A patent mediation and arbitration centre (‘the Centre') is hereby established. It shall have its seats in Ljubljana and Lisbon. 
 
 2. The Centre shall provide facilities for mediation and arbitration of patent disputes falling within the scope of this Agreement. Article 82 shall apply mutatis mutandis to any settlement reached through the use of the facilities of the Centre, including through mediation. However, a patent may not be revoked or limited in mediation or arbitration proceedings.  
 
@@ -927,7 +927,7 @@ The Court may order, at the request of the applicant and at the expense of the i
 
 1. This Agreement shall be open for signature by any Member State on 19 February 2013.  
 
-1. This Agreement shall be subject to ratification in accordance with the respective constitutional requirements of the Member States. Instruments of ratification shall be deposited with the General Secretariat of the Council of the European Union (hereinafter referred to as ‘the depositary’).  
+1. This Agreement shall be subject to ratification in accordance with the respective constitutional requirements of the Member States. Instruments of ratification shall be deposited with the General Secretariat of the Council of the European Union (hereinafter referred to as ‘the depositary').  
 
 1. Each Member State having signed this Agreement shall notify the European Commission of its ratification of the Agreement at the time of the deposit of its ratification instrument pursuant to Article 18(3) of Regulation (EU) No 1257/2012.  
 
@@ -990,5 +990,5 @@ Done at Brussels on 19 February 2013 in English, French and German, all three te
 [^10]: Directive 98/44/EC of the European Parliament and of the Council of 6 July 1998 on the legal protection of biotechnological inventions (OJ L 213, 30.7.1998, p. 13) including any subsequent amendments.  
 [^11]: Directive 2009/24/EC of the European Parliament and of the Council of 23 April 2009 on the legal protection of computer programs (OJ L 111, 5.5.2009, p. 16) including any subsequent amendments.
 [^12]: Council Regulation (EC) No 2100/94 of 27 July 1994 on Community plant variety rights (OJ L 227, 1.9.1994, p. 1) including any subsequent amendments.  
-[^13]: International Civil Aviation Organization (ICAO), ‘Chicago Convention’, Document 7300/9 (9th edition, 2006). 
+[^13]: International Civil Aviation Organization (ICAO), ‘Chicago Convention', Document 7300/9 (9th edition, 2006). 
 [^14]: Regulation (EC) No 1610/96 of the European Parliament and of the Council of 23 July 1996 concerning the creation of a supplementary certificate for plant protection products (OJ L 198, 8.8.1996, p. 30) including any subsequent amendments.  
