@@ -1,6 +1,10 @@
 ---
 fileClass: note
 ---
+[Outline](https://www.sueddeutsche.de)
+
+[Outline](../1%20-%20laws/UPCRoP/UPCRoP.md)
+
 
 ## All Deadlines in the [[UPCRoP]]
 
